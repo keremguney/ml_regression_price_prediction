@@ -1,0 +1,901 @@
+description,price,rooms,area,location,floor
+ BATTALGAZİDE  4+1 GÜNEYBATI CEPHE  GİRİŞ FİYATINA DUBLEX,1.850.000 TL,weekend4+1,texture155 m2,Ankara - Altındağ - Battalgazi Mh.,layers3. Kat
+ Yapracık Atayurt Mahallesi Satılık 2+1 Bağımsız Mutfaklı Kat Seç...,2.790.000 TL,weekend2+1,texture95 m2,Ankara - Etimesgut - Atayurt Mh.,layers1. Kat
+ EMEKTE 2+1 YENİ LÜKS ÖN BAHÇE KATI,3.750.000 TL,weekend2+1,texture90 m2,Ankara - Çankaya - Emek Mh.,layersBahçe katı
+ ETİMESGUT'TA BAĞLICA 2 DE YENİ BİNADA PARK MANZARALI LÜX DAİREEE,2.579.000 TL,weekend3+1,texture125 m2,Ankara - Etimesgut - Alsancak Mh.,layers1. Kat
+ FATİH MEVLANA MAH. YILDIZ EMLAKTAN 3+1 ASANSÖRLÜ YAPILI DAİRE,1.589.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Mevlana Mh.,layersYüksek giriş
+ GATA YAKINI YÜKSEK KİRA GETİRİLİ HEM OTURMAYA HEM YATIRIMA UYGUN...,1.590.000 TL,weekend2+1,texture125 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layersKot 2 (-2). Kat
+ UFUK KILIÇ EMLAK'TAN BAĞLARBAŞI MAHALLESİ AKTEPEDE 3+1 ORTA KAT ...,2.220.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layers2. Kat
+ UFUK KILIÇ EMLAK'TAN TEBESSÜM PİKNİK ALANI YANI 3+1 ASANSÖRLÜ FI...,2.095.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Fatih Mh.,layers4. Kat
+ UFUK KILIÇ EMLAK'TAN FIRSAT PROTOKOL YOLU YAKINI 3+1 ASANSÖRLÜ 1...,2.090.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Yunus Emre Mh.,layers1. Kat
+ ▅▆▇█▓▒ HİSAR ▒▓█▇▆▅ 1+1 2+1 SEÇENEKLERİ VE ÖZEL ÖDEME İMKANI İLE,2.757.000 TL,weekend1+1,texture60 m2,Ankara - Çankaya - Alacaatlı Mh.,layers2. Kat
+ KUZEY EMLAK'TAN GİYİNME ODALI FULL YAPILI 4+1 DAİRE,3.850.000 TL,weekend4+1,texture185 m2,Ankara - Pursaklar - Yunus Emre Mh.,layers5. Kat
+ ETİMESGUT`TA BELEDİYE YAKINI MANZARALI GÜNEŞ İÇİNDE DAİREEEEEEE,1.948.000 TL,weekend3+1,texture130 m2,Ankara - Etimesgut - 30 Ağustos Mh.,layers3. Kat
+PUSULADAN PINARBAŞI 3+1 BAĞIMSIZ ULTRALÜX ARAKATTA FIRSAT DAİRSİ,1.799.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+SİNCAN TANDOĞAN MAH SATILIK 3+1 DAİRE BÖLGENİN EN UYGUNU ,1.630.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Tandoğan Mh.,layers3. Kat
+ HAKAN EMLAK'TAN İSTASYON MAH.3+1 ARA KAT ÖN FULL+FULL YAPILI,1.929.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - İstasyon Mh.,layers1. Kat
+ NATAVEGA'YA 300 M MESAFEDE MASRAFSIZ 3+1 KELEPİR DAİRE...,1.400.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Akşemsettin Mh.,layersKot 1 (-1). Kat
+ SATILIK CADDEYE YAKIN KONUMDA MASRAFSIZ 3+1 DAİRE,2.400.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Şahintepe Mh.,layers1. Kat
+ ETİMESGUT`TA YATIRIMA OTURUMA ARAÇ TAKASINA UYGUN YENİBİNA DAİRE,1.365.000 TL,weekend2+1,texture95 m2,Ankara - Etimesgut - 30 Ağustos Mh.,layersYüksek giriş
+ SEVAL CAD.ÜZERİNDE TELEFERİK SONDURAK YÜRÜME MESAFESİNDE 3+1,2.599.000 TL,weekend3+1,texture140 m2,Ankara - Yenimahalle - Burç Mh.,layers2. Kat
+ ETİMESGUT MERKEZ`DE HER BÜTÇEYE UYGUN 2+1 3+1 ARAKAT 0 DAİRELER!,1.850.000 TL,weekend2+1,texture85 m2,Ankara - Etimesgut - Kazım Karabekir Mh.,layersDüz Giriş (Zemin)
+UYGUN EMLAK'TAN MERKEZ' MAHALLESİN'D ASANSÖRLÜ 1.KAT 3+1 120 M²,2.785.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Merkez Mh.,layers1. Kat
+ＰＵＳＵＬＡ ＥＭＬＡＫ'ＤＡＮSİTE İÇERİSİN'DE ULTRA LÜX YAPILI 4+1GENİŞ DAİRE,4.000.000 TL,weekend4+1,texture200 m2,Ankara - Altındağ - Güneşevler Mh.,layers1. Kat
+ＰＵＳＵＬＡ ＥＭＬＡＫ'ＤＡＮMERKEZİ KONUM'DA CADDEYE YAKIN2+1MASRAFSIZ DAİRE,1.595.000 TL,weekend2+1,texture105 m2,Ankara - Altındağ - Güneşevler Mh.,layersKot 1 (-1). Kat
+ ÇOK ACCİLLLL______PAMUKLAR MAH 7/24 SAAT GÜVENLİKLİ YAPILI ASANS...,2.625.000 TL,weekend3+1,texture125 m2,Ankara - Yenimahalle - Pamuklar Mh.,layers13. Kat
+ ÖZÇELİK GRUPDAN AYDINLIKEVLERDE 3+1 YAPILI DAİRE,2.590.000 TL,weekend3+1,texture115 m2,Ankara - Altındağ - Aydınlıkevler Mh.,layers1. Kat
+ NATOYOLU CADDESİ ÜZERİNDE İÇİ FULL YAPILI ULTRA LÜX 4+1 DUBLEX,2.600.000 TL,weekend4+1,texture200 m2,Ankara - Mamak - Şahintepe Mh.,layersÇatı Dubleks
+YILDIRIM EMLAK’TAN KARAPÜRÇEK’TE CADDE ÜZERİ 3.KAT FORSAT DAİRESİ,1.825.000 TL,weekend3+1,texture135 m2,Ankara - Altındağ - Karapürçek Mh.,layers3. Kat
+2+1 SALON BAGIMSIZ KAT KONUMUNDA YÜKSEK GİRİŞ,1.529.000 TL,weekend2+1,texture100 m2,Ankara - Sincan - Selçuklu Mh.,layersYüksek giriş
+Katta Manzaralı Fırsat Dairesi,2.400.000 TL,weekend3+1,texture130 m2,Ankara - Yenimahalle - Karşıyaka Mh.,layers1. Kat
+ NATUREL EMLAK 3+1 SİTE DAİRESİ MANZARALI LÜKS YAPILI,3.350.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Yakacık Mh.,layers11. Kat
+ NATUREL EMLAK 3+1 MANZARALI 7. KAT YAPILI ACİLL,1.675.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Güzelyurt Mh.,layers7. Kat
+" EMEKTE YENİ LÜKS BİNADA 4+1 TERASLI ÖN DUBLEKS ""İSKANI ALINMIŞ""",8.750.000 TL,weekend4+1,texture170 m2,Ankara - Çankaya - Emek Mh.,layersÇatı Dubleks
+BK GAYRİMENKULDEN Y.GİRİŞ 3+1 KELEPİR SATILIK DAİRE,1.369.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Malazgirt Mh.,layersYüksek giriş
+ KOÇ-KAR GRUP GÜVENCESİ İLE PURSAKLARDA FULL YAPILI FIRSAT DAİRES...,3.750.000 TL,weekend4+1,texture200 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers5. Kat
+ SİNCAN MALAZGİRT MAHALLESİ SATILIK 3+1 CADDE ÜZERİ DAİRE,1.790.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Malazgirt Mh.,layers4. Kat
+SİNCAN SELÇUKLUDA SİTE İÇİ BAĞIMSIZ ÖN CEPHE KİLERLİ 3+1 DAİRE!,1.769.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Selçuklu Mh.,layers3. Kat
+ÇAĞLAYAN'DA TIP FAKÜLTESİ CADDE YAKINI 3+1 BAĞIMSIZ FIRSAT DAİRE,1.349.000 TL,weekend3+1,texture120 m2,Ankara - Mamak - Çağlayan Mh.,layersKot 1 (-1). Kat
+ ADNAN KAHVECİ CAD. 1. KAT FULL YAPILI G. ODALI E. BANYOLU ASANSÖ...,3.150.000 TL,weekend4+1,texture145 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layers1. Kat
+ EFSANE'DEN BADEMLİKTE'DE KAT KONUMUNDA SATILIK DAİRE ,1.500.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Bademlik Mh.,layersYüksek giriş
+İLKADIMDAN YÜKSELTEPEDE YÜKSEK KATTA CEPHELERİ AÇIK YAPILI 4+1,4.250.000 TL,weekend4+1,texture185 m2,Ankara - Keçiören - Yükseltepe Mh.,layers8. Kat
+ ALTINDAĞ FERİDUNÇELİK MAH 4 CADDE 4CÜ KAT YAKINI YAPILI SIFIR SA...,2.300.000 TL,weekend3+1,texture140 m2,Ankara - Altındağ - Feridun Çelik Mh.,layers4. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN 12.KAT 4+1 MERKEZDE YENİ BİNA ...,4.120.000 TL,weekend4+1,texture190 m2,Ankara - Pursaklar - Merkez Mh.,layers12. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN SIFIR ŞIK LÜKS SİTEDE ANAHTAR ...,3.600.000 TL,weekend4+1,texture195 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+ ETLİK YOZGAT BULVARI YAKINI SİTE İÇİ FULL YAPILI LÜX 4+1 DAİRE,4.750.000 TL,weekend4+1,texture210 m2,Ankara - Keçiören - Etlik Mh.,layers2. Kat
+ KUPON EMLAKTAN YATIRIM FIRSATI SIFIR BİNADA CEPELERİ AÇIK 2+1 DA...,1.950.000 TL,weekend2+1,texture100 m2,Ankara - Keçiören - Etlik Mh.,layersKot 1 (-1). Kat
+ NASİP EMLAK'TAN 3+1 ASANSÖRLÜ FULL YAPILI MASRAFSIZ KAÇIRILMAYAC...,2.550.000 TL,weekend3+1,texture135 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+ EŞSİZ YAPISI İLE OLAY YARATAN PROJEDE HAYALLERİNİ GERÇEKLEŞTİR,4.900.000 TL,weekend4+1,texture185 m2,Ankara - Keçiören - Etlik Mh.,layers12. Kat
+ Kupon Satılık 0 Masrafsız Kıredi İmkanı Yüksek Satılık Daire,2.390.000 TL,weekend3+1,texture120 m2,Ankara - Etimesgut - Piyade Mh.,layers1. Kat
+KEÇİÖRENDE SİTE İÇİNDE MASRAFSIZ 3+1 SATILIK DAİRE,1.449.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Karşıyaka Mh.,layersYüksek giriş
+Asansörlü 2+1 Bahçekatı,1.150.000 TL,weekend2+1,texture95 m2,Ankara - Sincan - Tandoğan Mh.,layersBahçe katı
+" LEVENT'TEN DİKMEN CADDESİ PARALELİ ATAYOLU SOKAKTA 2+1,95M2 YÜKS...",1.985.000 TL,weekend2+1,texture95 m2,Ankara - Çankaya - İlkadım Mh.,layersYüksek giriş
+ _ÜSTÜNDAĞ'DAN_M.KEMAL'DE_PARK_CEPHELİ_OKUL_DİBİ_KATTA_SIFIR_3+1_,2.299.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers1. Kat
+MAMAK AKŞEMSEDDİN MAH. 2+1 AMERİKAN MUTFAKLI FULL YAPILI YÜKSEK B...,1.440.000 TL,weekend2+1,texture110 m2,Ankara - Mamak - Akşemsettin Mh.,layers1. Kat
+ SİNCAN ANDİÇEN MAHALLESİ SATILIK 3+1 SATILIK DAİRE ARES GAYRİMEN...,1.841.999 TL,weekend3+1,texture120 m2,Ankara - Sincan - Andiçen Mh.,layers1. Kat
+ SİNCAN MAREŞAL ÇAKMAK MAHALLESİ SATILIK 3+1 DAİRE ARES GAYRİMENK...,1.989.999 TL,weekend3+1,texture125 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers2. Kat
+ YAŞAMKENT AKYILDIZ PRESTİJDE 2+1 GÜVENLİKLİ SATILIK DAİRE,3.490.000 TL,weekend2+1,texture85 m2,Ankara - Çankaya - Alacaatlı Mh.,layers7. Kat
+ZIRVEKENT TOKIDE MASRAFSIZ SİTE İÇERİSİNDE 2+1,1.095.000 TL,weekend2+1,texture90 m2,Ankara - Mamak - Zirvekent Mh.,layers1. Kat
+ NASİP EMLAK'TAN 6+2 MUHTEŞEM YAPILI 12. KATTA LOFT VİLLA!,11.750.000 TL,weekend6+2,texture360 m2,Ankara - Pursaklar - Fatih Mh.,layers12. Kat
+FikretDeniz’den Sincanda Bu fiyataTek ,780.000 TL,weekend1+1,texture70 m2,Ankara - Sincan - Ulubatlı Hasan Mh.,layers2. Kat
+ MEHTAP'DA OKULLAR CADDESİ ÜZERİNDE FULL YAPILI ASANSÖRLÜ 2+1 SAT...,1.650.000 TL,weekend2+1,texture100 m2,Ankara - Mamak - Mehtap Mh.,layersDüz Giriş (Zemin)
+ NASİP EMLAK'TAN 6+2 MUHTEŞEM YAPILI 12. KATTA LOFT VİLLA!,11.750.000 TL,weekend6+2,texture360 m2,Ankara - Pursaklar - Fatih Mh.,layers12. Kat
+FikretDeniz’den Sincanda Bu fiyataTek ,780.000 TL,weekend1+1,texture70 m2,Ankara - Sincan - Ulubatlı Hasan Mh.,layers2. Kat
+ MEHTAP'DA OKULLAR CADDESİ ÜZERİNDE FULL YAPILI ASANSÖRLÜ 2+1 SAT...,1.650.000 TL,weekend2+1,texture100 m2,Ankara - Mamak - Mehtap Mh.,layersDüz Giriş (Zemin)
+ ÜNSAL'DAN | SÜPER PROJE MEVA ŞEHİR'DE | 1.99 ORAN | 4+1 DELUX,7.549.000 TL,weekend4+1,texture250 m2,Ankara - Etimesgut - Yeşilova Mh.,layers13. Kat
+ AHİMESUT MAHALLESİ 4+1 SIFIR YAPIDA ARES GAYRİMENKUL'DEN LÜKS SA...,5.950.000 TL,weekend4+1,texture160 m2,Ankara - Etimesgut - 30 Ağustos Mh.,layers4. Kat
+ İSTASYON MAHALLESİ 2+1 SIFIR SATLIK DAİRE ARES GAYRİMENKUL' DEN,2.549.999 TL,weekend2+1,texture100 m2,Ankara - Etimesgut - İstasyon Mh.,layersDüz Giriş (Zemin)
+HAS'TAN MUSTAFA KEMAL MAH. 145 M2 3.5+1 KİLERLİ FULL YAPILI,2.939.000 TL,weekend3+1,texture155 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers1. Kat
+SİNCAN TANDOĞAN MAH 1ARAKAT ÖN CEPHE GENİŞ MASRAFSIZ DAİRE,1.159.000 TL,weekend2+1,texture95 m2,Ankara - Sincan - Tandoğan Mh.,layers1. Kat
+ İSTASYON MAHALLESİ 3+1 SIFIR SATILIK DAİRELER ARES GAYRİMENKUL' ...,3.149.999 TL,weekend3+1,texture115 m2,Ankara - Etimesgut - İstasyon Mh.,layersDüz Giriş (Zemin)
+ EFSANE'DEN KUŞCAĞIZDA 1.KAT O BİNA DA YAPILI SATILIK DAİRE,2.149.000 TL,weekend2+1,texture130 m2,Ankara - Keçiören - Kuşcağız Mh.,layers1. Kat
+İSTASYON MAHALLESİ 3+1 SIFIR DAİRELER ARES GAYRİMENKUL' DEN,3.869.999 TL,weekend3+1,texture140 m2,Ankara - Etimesgut - İstasyon Mh.,layers2. Kat
+  2 BLOKLU SİTE İÇERİSİNDE GENİŞ MUTFAKLI HASTANEYE ULAŞIMI KOLAY,3.130.000 TL,weekend3.5+1,texture150 m2,Ankara - Keçiören - Etlik Mh.,layers2. Kat
+GENÇ BİNADA 3+1 120 M2 ASANSÖRLÜ TERASLI MANTOLAMLI BALKONLU,2.690.000 TL,weekend3+1,texture160 m2,Ankara - Çankaya - Karapınar Mh.,layersKot 1 (-1). Kat
+ EMEKTE YENİ LÜKS BİNADA 4+1 TERASLI ARKA DUBLEKS,8.750.000 TL,weekend4+1,texture170 m2,Ankara - Çankaya - Emek Mh.,layers4. Kat
+MAMAK NATA VEGA CEPHELİ VADİ MANZARA EVLERİ SATILIK 3+1 DAİRE,3.500.000 TL,weekend3+1,texture145 m2,Ankara - Mamak - Akşemsettin Mh.,layers4. Kat
+TOPRAK EMLAKTAN ANK KEÇİÖREN YEŞİLTEPE MAHALLESINDE 3+1 DAIRE ,2.190.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Yeşiltepe Mh.,layers1. Kat
+" BEŞEVLER M.F.Ç CAD 1+1 YENİ LÜKS ÖN YÜKSEK GİRİŞ "" KUPON DAİRE""",3.900.000 TL,weekend1+1,texture55 m2,Ankara - Çankaya - Bahçelievler Mh.,layersYüksek giriş
+ YILMAZ'DAN YÜKSELEN FİYATLARA İNAT CADDE'DE İSKANLI MONTALAMALI,825.000 TL,weekend2+1,texture85 m2,Ankara - Mamak - Şahap Gürler Mh.,layersKot 2 (-2). Kat
+" ALTINDAĞ - BEŞİKKAYA MAHALLESİNDE ASANSÖRLÜ, ARA KATTA 3+1 SATIL...",1.585.000 TL,weekend3+1,texture120 m2,Ankara - Altındağ - Beşikkaya Mh.,layers1. Kat
+ SİNCAN PLEVNE'DE CADDE ÜZERİ FULL YAPILI MASRAFSIZ GÖMÜSÜZ LÜX D...,1.266.000 TL,weekend2+1,texture100 m2,Ankara - Sincan - Plevne Mh.,layersBahçe katı
+TOPRAK EMLAKTAN ANK KEÇİÖREN OSMANGAZİ MAHALLESİ 3+1 DAIRE,1.695.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Osmangazi Mh.,layersDüz Giriş (Zemin)
+SİNCAN AKŞEMSETTİN MAH .ÖN 1ARAKAT EBEVEYN BANYOLU AYIN FIRSATI,1.579.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Akşemsettin Mh.,layers1. Kat
+"KOÇ'DAN; MEVLANA BULVARI PARALELİ , 4+1 , ASANSÖRLÜ , KOMBİLİ , B...",2.049.000 TL,weekend4+1,texture135 m2,Ankara - Çankaya - Akpınar Mh.,layersKot 1 (-1). Kat
+ İNCİRLİ MAHALLESİNDE ALTINDA İKİ KAT DAİRE 2+1 YAPILI FIRSAT DAİ...,1.659.000 TL,weekend2+1,texture115 m2,Ankara - Keçiören - İncirli Mh.,layersKot 1 (-1). Kat
+ YAKACIK'TA SIFIR ULTRA LÜX KATTA 3+1 YAPILI DAİRE!!!,2.499.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Yakacık Mh.,layers5. Kat
+" ALTINDAĞ ALİBEY GÖBEKTE ARA KATTA,ÇİFT BALKONLU 3+1 SATILIK KUPO...",1.575.000 TL,weekend3+1,texture120 m2,Ankara - Altındağ - Beşikkaya Mh.,layers2. Kat
+ ÇETİN EMLAK'TAN TANDOGAN MAH.DE ULTRA LÜKS YAPILI 3+1 1 ARA KAT ,1.858.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Tandoğan Mh.,layers1. Kat
+CEM EMLAKTAN DEMETEVLERDE SATILIK DAIRE,1.400.000 TL,weekend3+1,texture130 m2,Ankara - Yenimahalle - Demetlale Mh.,layers1. Kat
+ BAĞLUM KAFKAS MAHALLESİNDE BU FİYATA SIFIR DAİRE KALMADI !!!,1.690.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Kafkas Mh.,layersDüz Giriş (Zemin)
+ KAYA EMLAK TAN SARAYIN EN GÖZEL YERİNDE,3.650.000 TL,weekend3+1,texture165 m2,Ankara - Pursaklar - Saray Cumhuriyet Mh.,layers5. Kat
+SYM'DEN PLEVNEDE 1. ARA KATTA KAÇIRILMAYACAK FULL+ FULL YAPILI 3+...,1.859.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ ANKARA ETİMESGUT YAPRACIK LODOS MODERN 2+1 LÜKS DAİRELER,3.000.000 TL,weekend2+1,texture95 m2,Ankara - Etimesgut - Yapracık Mh.,layers6. Kat
+ ANKARA ETİMESGUT YAPRACIK LODOS İDEAL PROJESİ 2+1 LÜKS DAİRELER,3.300.000 TL,weekend2+1,texture95 m2,Ankara - Etimesgut - Atayurt Mh.,layers7. Kat
+ ANKARA ETİMESGUT YAPRACIK LODOS MODERN 2+1 LÜKS DAİRELER,2.700.000 TL,weekend2+1,texture75 m2,Ankara - Etimesgut - Yapracık Mh.,layers5. Kat
+" KARAPÜRÇEK MAHALLESİNDE DİŞ HASTANESİ YAKININDA, ASANSÖRLÜ 2+1 S...",1.024.000 TL,weekend2+1,texture90 m2,Ankara - Altındağ - Karapürçek Mh.,layersBahçe katı
+SİNCAN GAZİOSMANPAŞA MAH SİTE İÇİNDE ÖN 1.ARAKAT SATILIK DAİRE,1.749.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Gazi Osmanpaşa Mh.,layers1. Kat
+ GENERAL ZEKİ DOĞAN MAHALLESİ'NDE SATILIK 2+1 BAHÇEKATI DAİRE,1.300.000 TL,weekend2+1,texture110 m2,Ankara - Mamak - General Zeki Doğan Mh.,layersBahçe katı
+ FARABİ SOKAK'TA KÖŞE KONUMLU BAKIMLI 3+1 SATILIK FIRSAT DAİRE,4.490.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Çankaya Mh.,layers3. Kat
+ ATAPARK BÖLGESİNDE HERŞEY AYAĞINIZIN DİBİNDE BU DAİRE KAÇMAZ,2.400.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Atapark Mh.,layers2. Kat
+SİNCAN FATİH MAH.DE 2+1 ARAKAT UYGUN KELEPİR SATILIK DAİRE,1.159.000 TL,weekend2+1,texture80 m2,Ankara - Sincan - Fatih Mh.,layers2. Kat
+ ETİMESGUT SÜVARİ MAH.6+1 ULTRA LÜKS YAPILI TERASLI SATILIK DAİRE,2.899.000 TL,weekend6+1,texture240 m2,Ankara - Etimesgut - Süvari Mh.,layers3. Kat
+ SYM GAYRİMENKUL'DEN HAFTANIN KAÇIRILMAYACAK YAPILI 2+1 UYGUN DAİ...,1.266.000 TL,weekend2+1,texture90 m2,Ankara - Sincan - Plevne Mh.,layersBahçe katı
+ SİNCAN PLEVNE MH FULL YAPILI CADDE ÜZERİ GÜNEY CEPHE FIRSAT DAİR...,1.266.000 TL,weekend2+1,texture105 m2,Ankara - Sincan - Plevne Mh.,layersBahçe katı
+SİNAN CADDESİ ÜZERİ 3+1 125 M2 2.KAT KİLERLİ LÜKS YAPILI YILIN SO...,3.050.000 TL,weekend3+1,texture130 m2,Ankara - Çankaya - Naci Çakır Mh.,layers2. Kat
+ ÇANKAYA DOĞUŞ MAH.'NDE 3+1 ARA KATTA SATILIK DAİRE,2.800.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Doğuş Mh.,layers3. Kat
+ ▄KALE▄HAFTANIN FIRSATI! SULTAN FATİH CADDE 50M MASRAFSIZ 3+1SİTE,2.369.000 TL,weekend3.5+1,texture140 m2,Ankara - Mamak - Cengizhan Mh.,layers6. Kat
+ＰＵＳＵＬＡ ＥＭＬＡＫ'ＤＡＮ MALAZGİRT CADDESİ ÜZERİNDE 3+1 GENİŞ DAİRE,2.150.000 TL,weekend3+1,texture125 m2,Ankara - Altındağ - Güneşevler Mh.,layers1. Kat
+ ZAFER ÇELİK EMLAK'TAN GENİŞ OTURUMA HAZIR 2+1 MASRAFSIZ DAİRE,1.689.000 TL,weekend2+1,texture105 m2,Ankara - Keçiören - Yayla Mh.,layersDüz Giriş (Zemin)
+NATA VEGA KONUTLARI EŞYALI PEYZAJ VE ŞEHİR MANZARALI DAİRE,7.300.000 TL,weekend3+1,texture152 m2,Ankara - Mamak - Akşemsettin Mh.,layers19. Kat
+SANCAK MAHALLESİ MERKEZİ KONUMDA 4+1 SATILIK DAİRE,4.990.000 TL,weekend4+1,texture180 m2,Ankara - Çankaya - Sancak Mh.,layers2. Kat
+"NATA VEGA KONUTLARI'NDA BAKIMLI, MASRAFSIZ 3+1 SATILIK DAİRE",5.299.000 TL,weekend3+1,texture160 m2,Ankara - Mamak - Akşemsettin Mh.,layersDüz Giriş (Zemin)
+"ÇANKAYA, KEKLİKPINARI, WATERFALL CİTY'DE SATILIK 4+1 LÜKS DAİRE",7.500.000 TL,weekend4+1,texture200 m2,Ankara - Çankaya - Keklik Pınarı Mh.,layers6. Kat
+AYDINLIKEVLER MERKEZ'DE KATTA 3+1 SATILIK DAİRE - TANER EMLAK,2.445.000 TL,weekend3+1,texture105 m2,Ankara - Altındağ - Aydınlıkevler Mh.,layers1. Kat
+ANKARA SİNCAN PINARBAŞI MAHALLESİ ŞOK FİYAT,1.089.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Pınarbaşı Mh.,layersBahçe katı
+ALTINDAĞ BAŞPINAR DA MASRAFSIZ KATTA 3+1 İSKANLI SÜPERLÜX DAİRE,1.995.000 TL,weekend3+1,texture140 m2,Ankara - Altındağ - Başpınar Mh.,layers1. Kat
+KABİL VE LİZBON CAD YAKINI YOKUŞSUZ 3+1 130M2 KAT KONUMNDA MANTL,2.690.000 TL,weekend3+1,texture130 m2,Ankara - Çankaya - Ata Mh.,layersKot 1 (-1). Kat
+"KOÇ'DAN ; 2+1 + 2 BANYO + KİLER'Lİ , LÜX YAPILI , KOT-1'DE , ARA ...",2.050.000 TL,weekend2+1,texture110 m2,Ankara - Çankaya - Harbiye Mh.,layersKot 1 (-1). Kat
+"KOÇ'DAN ; ASANSÖRLÜ , 3+1, KOMBİLİ , ASANSÖRLÜ, ÇOK İYİ LOKASYOND...",2.750.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Harbiye Mh.,layers2. Kat
+"KOÇ'DAN ; BAHÇE ÇIKIŞLI , 2+1, S.LÜX YAPILI, SOKULLU ANA CADDE VE...",1.750.000 TL,weekend2+1,texture105 m2,Ankara - Çankaya - Sokullu Mehmet Paşa Mh.,layersKot 1 (-1). Kat
+ YAPRACIK ODTÜ BLOKLARINDA SATILIK ARA KAT DUBLEKS 4+1 DAİRE,3.200.000 TL,weekend4+1,texture170 m2,Ankara - Etimesgut - Yukarıyurtçu Mh.,layers1. Kat
+ SYM'DEN MALAZGİRT'TE ARA KATTA TASARIMIYLA DİKKAT ÇEKEN 3+1 DAİR...,2.179.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Malazgirt Mh.,layers2. Kat
+ GÖLBAŞI KARŞIYAKA MAHALLESİNDE SATILIK 3+1 DAİRE,2.850.000 TL,weekend3+1,texture140 m2,Ankara - Gölbaşı - Karşıyaka Mh.,layers2. Kat
+ ATATÜRK MAH DE MERKEZDE MANTOLAMALI ÖN CEPHE 3+1 DAİRE,1.549.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Atatürk Mh.,layers4. Kat
+ SYM GAYRİMENKUL'DEN MAREŞAL ÇAKMAK'TA 3+1 ARA KATTA YAPILI DAİRE,1.885.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers3. Kat
+SİNCAN OSMANLI MAH 3+1 SİTE İÇİNDE BAĞIMSIZ KATTA ÖN CEPHE DAİRE,1.649.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Osmanlı Mh.,layers4. Kat
+ SYM GAYRİMENKUL'DEN ARA KATTA BAĞIMSIZ FERAH LÜX YAPILI 3+1!!!,1.875.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ SYM GAYRİMENKUL'DEN KATTA CADDE CEPHELİ ULTRA LÜX YAPILI 3+1!!!,1.859.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Akşemsettin Mh.,layers4. Kat
+ SYM GAYRİMENKUL'DEN ARA KATTA EBEVEYN BANYOLU ULTRA  LÜX YAPILI ...,2.089.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Ertuğrulgazi Mh.,layers3. Kat
+ SYM GAYRİMENKUL'DEN ARA KATTA ŞIK TASARIMIYLA DİKKAT ÇEKEN 3+1!!...,2.049.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers2. Kat
+ SYM GAYRİMENKUL'DEN BAĞIMSIZ 3+1 HAFTANIN KAÇIRILMAYACAK DAİRESİ...,1.269.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersBahçe katı
+FIRSAT!!!! FİYAT DÜŞTÜ  PURSAKLARIN GÖZBEBEĞİ SİTEDE BU FİYATA KA...,4.100.000 TL,weekend4+1,texture200 m2,Ankara - Pursaklar - Tevfik İleri Mh.,layers13. Kat
+Ankara Çankaya Gop Satılık 3+1 Eşyalı Daire,8.500.000 TL,weekend3+1,texture150 m2,Ankara - Çankaya - Kazım Özalp Mh.,layers1. Kat
+Özçelik Grup Emlaktan Altındağın Parlayan Yıldızı Altınşehir TOKİ...,1.975.000 TL,weekend3+1,texture140 m2,Ankara - Altındağ - Feridun Çelik Mh.,layers2. Kat
+YILDIRIM EMLAK’TAN 8.CADDE’DE 5.KAT MANZARALI KUPON DAİRE,2.139.000 TL,weekend3+1,texture135 m2,Ankara - Altındağ - Feridun Çelik Mh.,layers5. Kat
+YCL DEN BAĞLAR CADDESİNDE SATILIK 3+1 DAİRE,2.000.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Seyranbağları Mh.,layers3. Kat
+YENİKENT 29 EKİM MAHALLESİ SATILIK OTURUMA HAZIR 4+1 DAİRELER,2.100.000 TL,weekend4+1,texture130 m2,Ankara - Sincan - 29 Ekim Mh.,layersDüz Giriş (Zemin)
+ AKŞEMSETTİN MAHALLESİNDE KATTA 3+1 YAPILI BAĞIMSIZ DAİRE,1.479.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Akşemsettin Mh.,layers3. Kat
+GOLD EMLAK'TAN  MERKEZİ LOKASYONDA SATILIK 3+1  FIRSAT DAİRE!!!!,2.490.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Sancaktepe Mh.,layers1. Kat
+ OSMANGAZİDE BÖLGESİNE GÖRE TERTEMİZ DAİRE FIRSATI!!,2.449.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Ufuktepe Mh.,layers4. Kat
+İLKADIMDAN ÇİFT MUTFAK ÇİFT BANYO KAPALI TERASLI 6+1 MANZARALI,4.500.000 TL,weekend6+1,texture250 m2,Ankara - Yenimahalle - Burç Mh.,layers5. Kat
+İLKADIMDAN AVCILAR MAH. SİTE İÇİ TELEFERİĞE YÜRÜME MESAFESİNDE,3.300.000 TL,weekend3+1,texture140 m2,Ankara - Yenimahalle - Avcılar Mh.,layers6. Kat
+ANKARA GOLBAŞI KARŞIYAKA MALLESİNDE SIFIR 1+1 DAİRE,2.400.000 TL,weekend1+1,texture60 m2,Ankara - Gölbaşı - Karşıyaka Mh.,layers4. Kat
+2023 YILIN FIRSATI 5+1 300 M2 ÇİFT MTFKLI GENİŞ K.TERASLI O.MANZ,4.299.000 TL,weekend5+1,texture300 m2,Ankara - Çankaya - Karapınar Mh.,layers4. Kat
+GOLD EMLAKTAN CADDE ÜSTÜ ETLİK ŞEHİR VE GÜLHANE HASTANESİ YAKINI ...,1.515.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Ayvalı Mh.,layersKot 1 (-1). Kat
+YILBAŞINA ÖZEL 2+1 YATIRIMA UYGUN KELEPİR SATILIK DAİRE,880.000 TL,weekend2+1,texture75 m2,Ankara - Sincan - Ulubatlı Hasan Mh.,layers5. Kat
+GÖLBAŞI ŞAFAK MAHALLESİNDE SATILIK 3+1 YÜKSEK GİRİŞ DAİRE,2.375.000 TL,weekend3+1,texture110 m2,Ankara - Gölbaşı - Şafak Mh.,layersYüksek giriş
+ PLEVNE MAHALLESİNDE FULL YAPILI 3+1 SATILIK DAİRE,1.785.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Plevne Mh.,layers2. Kat
+ AYDINLIKREVLER'DE LÜKS 1 YILLIK 3+1 DUBLEKS DAİRE - TANER EMLAK,5.350.000 TL,weekend3+1,texture138 m2,Ankara - Altındağ - Aydınlıkevler Mh.,layers3. Kat
+ GOLD EMLAK'TAN SEVAL CADDESİ YAKIN SİTE İÇİ ÖNÜ AÇIK GENİŞ YAPIL...,3.635.000 TL,weekend3+1,texture160 m2,Ankara - Yenimahalle - Barıştepe Mh.,layers5. Kat
+BK GAYRİMENKULDEN YEŞİLOVA MAH. SATILIK ARA KAT DAİRE,2.850.000 TL,weekend3+1,texture140 m2,Ankara - Etimesgut - Yeşilova Mh.,layers2. Kat
+YILBAŞINA ÖZEL 2+1 YATIRIMA UYGUN KELEPİR SATILIK DAİRE,880.000 TL,weekend2+1,texture75 m2,Ankara - Sincan - Ulubatlı Hasan Mh.,layers5. Kat
+GÖLBAŞI ŞAFAK MAHALLESİNDE SATILIK 3+1 YÜKSEK GİRİŞ DAİRE,2.375.000 TL,weekend3+1,texture110 m2,Ankara - Gölbaşı - Şafak Mh.,layersYüksek giriş
+ PLEVNE MAHALLESİNDE FULL YAPILI 3+1 SATILIK DAİRE,1.785.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Plevne Mh.,layers2. Kat
+ AYDINLIKREVLER'DE LÜKS 1 YILLIK 3+1 DUBLEKS DAİRE - TANER EMLAK,5.350.000 TL,weekend3+1,texture138 m2,Ankara - Altındağ - Aydınlıkevler Mh.,layers3. Kat
+ GOLD EMLAK'TAN SEVAL CADDESİ YAKIN SİTE İÇİ ÖNÜ AÇIK GENİŞ YAPIL...,3.635.000 TL,weekend3+1,texture160 m2,Ankara - Yenimahalle - Barıştepe Mh.,layers5. Kat
+BK GAYRİMENKULDEN YEŞİLOVA MAH. SATILIK ARA KAT DAİRE,2.850.000 TL,weekend3+1,texture140 m2,Ankara - Etimesgut - Yeşilova Mh.,layers2. Kat
+SİNCAN PLEVNE MAH ÖN CEPHE YAPILI GENİŞ 8500 TL KİRACILI DAİRE,1.659.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ANKARA MAMAK ŞAHİNTEPE MAH ,1.380.000 TL,weekend3+1,texture115 m2,Ankara - Mamak - Şahintepe Mh.,layersDüz Giriş (Zemin)
+ BERAT EMLAKTAN TANDOĞAN MAHALLESİNDE 3+1 FULL YAPILI FİYATI UYGU...,1.629.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Tandoğan Mh.,layers3. Kat
+ ŞAHİNER'DEN 19 MAYIS MAH 3+1 ÖN CEPHE YAPILI DAİRE,2.650.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - 19 Mayıs Mh.,layers3. Kat
+ KUZEY EMLAKTAN MANZARALI TERAS BALKONLU 3+1 SATILIK DAİRE,2.945.000 TL,weekend3+1,texture140 m2,Ankara - Altındağ - Yıldıztepe Mh.,layers2. Kat
+TANDOĞAN MAHALLESİ  3+1 SATILIK TERS DUBLEX KAÇIRILMAYACAK FIRSAT,1.250.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - Tandoğan Mh.,layers1. Kat
+ANKARA MANZARALI SİTEDE ULTRA LÜX 5+2 DUBLEX DAİRE ,3.500.000 TL,weekend6+1,texture350 m2,Ankara - Çankaya - Mimar Sinan Mh.,layers14. Kat
+GOP TURGUTLU SOKAK'TA MANZARALI CEPHELERİ AÇIK KATTA 3+1 DAİRE,5.500.000 TL,weekend3+1,texture165 m2,Ankara - Çankaya - Büyükesat Mh.,layers2. Kat
+MAMAK ŞAHİNTEPE SATILIK 3+1 ARAKAT DAİRE,1.750.000 TL,weekend3+1,texture120 m2,Ankara - Mamak - Şahintepe Mh.,layers2. Kat
+ KEÇİÖREN ESERTEPE MAH.'NDE 3+1 ASANSÖRLÜ SATILIK DAİRE,1.675.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Esertepe Mh.,layersKot 1 (-1). Kat
+ ALİBEY'DEN RAGIP TÜZÜN CADDESİ YAKINI 2+1 ORTA KAT ACİL SATILIK ...,1.239.000 TL,weekend2+1,texture89 m2,Ankara - Keçiören - Yayla Mh.,layers2. Kat
+ NATA VEGA YAK. DOĞUKENT BULV. SİTEDE SIFIR ULTRA LÜX 3+1 DAİRE,3.650.000 TL,weekend3+1,texture140 m2,Ankara - Mamak - Akşemsettin Mh.,layers2. Kat
+YILDIRIM EMLAK’TAN MERKEZİ KONUMDA 3+1 DAİRELER ,2.800.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Başak Mh.,layers2. Kat
+ ETLİK_Merkez'de_L.Hekim_Hast_Karşısı_Full_Yapılı_Masrafsız_125m2,1.729.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - İncirli Mh.,layersYüksek giriş
+ MİLLİOĞLU İNŞAAT'TAN ANKARA KARAAĞAÇ'TA SATILIK 2+1 DAİRE,1.450.000 TL,weekend2+1,texture100 m2,Ankara - Mamak - Karaağaç Mh.,layersYüksek giriş
+BİR EMLAK'TAN CEVİZLİDERE'DE KAT KONUMUNDA FUL YAPILI3+1 SATILIK,3.000.000 TL,weekend3+1,texture135 m2,Ankara - Çankaya - Cevizlidere Mh.,layersKot 1 (-1). Kat
+"KUPON"" ALTAY SOKAK'TA KAT EKSİĞİ OLAN BİNADA 2+1 70 M2 DAİRE",1.550.000 TL,weekend2+1,texture75 m2,Ankara - Çankaya - İleri Mh.,layers2. Kat
+KIZILAY GMK BULVAR CADDE CEPHELİ ASANSÖRLÜ HOME&OFİSE UYGUN 3+1,2.400.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Kızılay Mh.,layers5. Kat
+RÜYA EMLAKTAN ŞEHİTLER METROSUNA YAKIN KATTA BAĞIMSIZ 3+1  DAİRE,2.875.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Pınarbaşı Mh.,layers1. Kat
+ AKŞEMSETTİN MAH DE ARA KATTA KREDİ LİMİTSİZ ÖN CEPHE 3+1 DAİRE,1.429.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Akşemsettin Mh.,layers3. Kat
+" KIRKKONAKLAR'DA CADDE YAKINI, SIFIR, KATTA 2+1 DAİRE",3.600.000 TL,weekend2+1,texture90 m2,Ankara - Çankaya - Kırkkonaklar Mh.,layers3. Kat
+İncekte ayrı mutfaklı 2+1 Dubleks fırsatı,3.300.000 TL,weekend2+1,texture120 m2,Ankara - Gölbaşı - İncek Mh.,layersÇatı Dubleks
+DENİZ FENERİ PARKI YAKINI CADDEYE YAKIN 2+1 BAHÇE KATI,985.000 TL,weekend2+1,texture95 m2,Ankara - Altındağ - Karapürçek Mh.,layersKot 2 (-2). Kat
+YENİMAHALLE RAGIP TÜZÜN CADDESİNE 1 BİNA 6+1 300m2 2 DAİRE KONSEP...,4.150.000 TL,weekend6+1,texture345 m2,Ankara - Yenimahalle - Tepealtı Mh.,layersÇatı Dubleks
+ETİMESGUT YEŞİLOVA MAH 3+1 FULL YAPILI ARA KATTA 10 YILLIK BİNA,2.849.000 TL,weekend3+1,texture150 m2,Ankara - Etimesgut - Yeşilova Mh.,layers2. Kat
+SİNCAN MARAŞALÇAKMAK MAH 120 M2 GENİŞ ULTRA LÜKS YAPILI DAİRE,1.799.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers3. Kat
+ PINARBAŞI MAH DE ARA KATTA DEPREM PROJELİ ULTRA LÜX YAPILI 3+1 D...,2.350.000 TL,weekend3+1,texture140 m2,Ankara - Sincan - Pınarbaşı Mh.,layers1. Kat
+GOP YAKINI YATIRIMLIK İSTEYENLERE KİRA GETİRİLİ GİRİŞ KAT 1+1,1.950.000 TL,weekend1+1,texture50 m2,Ankara - Çankaya - Büyükesat Mh.,layersDüz Giriş (Zemin)
+ÇANKAYA LİFE'DEN GOP YAKINI ARA KATLARDA SIFIR SON 3+1 DAİRELER,3.990.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Büyükesat Mh.,layers3. Kat
+ SÜPER DEGERLİ BİR KONUMDA-HEM YATIRIMLIK HEM OTURUMLUK,3.015.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - İşçi Blokları Mh.,layers2. Kat
+ ERSU DAN ÖVEÇLER KABİL CADDE DE 3+1  ÇİFT BANYOLU- ASANSÖRLÜ-ARA...,4.460.000 TL,weekend3+1,texture145 m2,Ankara - Çankaya - Şehit Cengiz Karaca Mh.,layers2. Kat
+ PINARBAŞI MAH DE ULTRA LÜKS YAPILI MERKEZİ KONUMDA 3+1 DAİRE,1.969.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Pınarbaşı Mh.,layers3. Kat
+Etlik_Bağcı_Cad._Paraleli_Lüx_Yapıda_Asansörlü_Ş.manzaralı_4.5+2,2.589.000 TL,weekend5+1,texture245 m2,Ankara - Keçiören - Etlik Mh.,layers3. Kat
+İLKADIM'DAN TEK BLOKLU SİTE İÇİ ÖN CEPHE TERAS BALKONLU 4+1,3.995.000 TL,weekend4+1,texture180 m2,Ankara - Keçiören - Yükseltepe Mh.,layers6. Kat
+İLKADIM'DAN ŞEHİTKUBİLAY'DA ARA KATTA BATI CEPHE İSKANLI 3+1,2.400.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Şehit Kubilay Mh.,layers2. Kat
+BAHÇELİ 1.CADDEDE 1.KAT ÖN 2+1  KOMBİLİ,2.850.000 TL,weekend2+1,texture95 m2,Ankara - Çankaya - Bahçelievler Mh.,layers1. Kat
+ TUNA GAYRİMENKUL'DEN SATILIK ŞENTEPE'DE MÜSTAKİL DAİRE,3.300.000 TL,weekend3+1,texture150 m2,Ankara - Polatlı - Şentepe Mh.,layersVilla tipi
+"BİR EMLAK'TAN AKPINAR'DA 3+1 SATILIK DA,RE",2.550.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Akpınar Mh.,layers1. Kat
+ YENİ EVİM GAYRİMENKUL'DEN MÜKEMMEL KONUMDA SİTE İÇİNDE 4+1 SATIL...,2.490.000 TL,weekend4+1,texture175 m2,Ankara - Altındağ - Feridun Çelik Mh.,layers2. Kat
+ÇANKAYA AYRANCI HOŞDERE CD PARALEL 2+1 FULL YAPILI SATILIK DAİRE,3.250.000 TL,weekend2+1,texture110 m2,Ankara - Çankaya - Ayrancı Mh.,layers1. Kat
+KIZILAY NECATİBEYDE SATILIK OFİS,1.800.000 TL,weekend2+0,texture75 m2,Ankara - Çankaya - Korkutreis Mh.,layers6. Kat
+ OSMANGAZİ MAHALLESİNDE FULL YAPILI GİRİŞ KATTA EMSALSİZ DAİRE,1.673.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Osmangazi Mh.,layersDüz Giriş (Zemin)
+ KEÇİÖRENDE FULL YAPILI 3+1 KÖŞEBAŞI FULL YAPILI MASRAFSIZ,1.850.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Hisar Mh.,layers3. Kat
+Yaşam Kule'de FIRSAT net 60 M2 1+1 Güney Cephe Kapalı Otoparklı,3.695.000 TL,weekend1+1,texture70 m2,Ankara - Çankaya - Alacaatlı Mh.,layers18. Kat
+ EMPA AYDINLIKEVLER'DEN SUBAY EVLERİ KÖKNAR SOK SATILIK YÜKSEK Gİ...,1.750.000 TL,weekend2+1,texture95 m2,Ankara - Keçiören - Kavacık Subayevleri Mh.,layersYüksek giriş
+EMAKS'TAN/CEVİZLİDERE CAD.ÜZERİ/ANKARA MANZARALI/FIRSAT 3+1,2.850.000 TL,weekend3+1,texture105 m2,Ankara - Çankaya - Cevizlidere Mh.,layers3. Kat
+MAMAK MUTLU’DA 3+1 2.KATTA ASANSÖRLÜ FULL YAPILI KÖŞEBAŞI ÖNÜ AÇI...,1.790.000 TL,weekend3+1,texture115 m2,Ankara - Mamak - Mutlu Mh.,layers2. Kat
+" ANKALİFEDEN""BAGLUM HİSAR MAHALELSİNDE 3+1 ",1.750.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Hisar Mh.,layers2. Kat
+ ERSU DAN YENİMAHALLE METRO TELEFERİK İLK DURAĞINDA KATTA DUBLEKS...,2.550.000 TL,weekend2+1,texture90 m2,Ankara - Yenimahalle - Esentepe Mh.,layers2. Kat
+ ŞAHİNER'DEN TEPEBAŞI MAH 2+1 ÖN CEPHE NORMAL YAPILI DAİRE,1.580.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Tepebaşı Mh.,layersYüksek giriş
+ SAMSUN YOLUNA CEPHE YATIRIMLIK KENTSEL DÖNÜŞÜME UYGUN 3+1 DAİRE,1.440.000 TL,weekend3+1,texture135 m2,Ankara - Altındağ - Örnek Mh.,layers1. Kat
+PUSULADAN PINARBAŞINDA 2+1FULL YAPILI YGİRİŞ ÖN CEPHE 7 YILLIK,1.329.000 TL,weekend2+1,texture105 m2,Ankara - Sincan - Pınarbaşı Mh.,layersYüksek giriş
+ ETİMESGUT AYYILDIZ MAH. 3+1 FULL YAPILI S.İÇİ SATILIK DAİRELER,4.399.000 TL,weekend3+1,texture160 m2,Ankara - Etimesgut - Ayyıldız Mh.,layers3. Kat
+ ŞAHİNER'DEN TEPEBAŞI MAH 3+1 ARKA CEPHE BAHÇE KATI NORMAL YAPILI...,1.299.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Tepebaşı Mh.,layersKot 1 (-1). Kat
+IŞIL EMLAKTAN PALMIYE EVLERINDE 3+1 FULL ACIL SATILIK DAIRE,2.650.000 TL,weekend3+1,texture145 m2,Ankara - Yenimahalle - Ata Mh.,layersDüz Giriş (Zemin)
+ YUCE EMLAK TAN  SATILIK   3+1  DAİRE,1.450.000 TL,weekend3+1,texture106 m2,Ankara - Çankaya - Bayraktar Mh.,layersKot 1 (-1). Kat
+ ETİMESGUT ALSANCAK MAH. YÜKSEK GİRİŞ SATILIK 2+1 DAİRE ,1.449.000 TL,weekend2+1,texture95 m2,Ankara - Etimesgut - Alsancak Mh.,layersYüksek giriş
+YCL DEN ZAFERTEPE DE SATILIK 3+1 TERS DUBLEKS,2.200.000 TL,weekend3+1,texture135 m2,Ankara - Çankaya - Mimar Sinan Mh.,layersYüksek giriş
+"KEÇİÖRENDE 5+1 İSKANLI0,99 KREDİ İMKANIYLA 0,99 DUBLEKS DAİRE",2.799.000 TL,weekend5+1,texture350 m2,Ankara - Keçiören - Hisar Mh.,layers5. Kat
+ YENİMAHALLE IŞINLARDA YENİ BİNADA 3+1 ULTRA LÜX SATILIK DUBLEX,4.230.000 TL,weekend3+1,texture160 m2,Ankara - Yenimahalle - Işınlar Mh.,layers3. Kat
+ YUNUS EMRE CAD. DANIŞMENT GÖBEK YAKINI 2+1 KAT KONUMLU BALKONLU,1.200.000 TL,weekend2+1,texture115 m2,Ankara - Keçiören - 19 Mayıs Mh.,layersKot 1 (-1). Kat
+SİNCAN PINARBAŞI MAH 3+1 ARA KATTA ÖN CEPHE  BAĞIMSIZ DAİRE,1.919.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+ ANKARA İNCİRLİDE BAĞIMSIZ LÜKS YAPILI CADDE ÜZERİ KOMŞUDAN,2.649.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - İncirli Mh.,layers2. Kat
+ ꧁꧂EMRE EMLAKTAN꧁꧂PLEVNE'DE FULL+FULL YAPILI ARAKATTA 3+1 SATILIK...,1.859.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - Plevne Mh.,layers2. Kat
+ SR EMLAK'TAN SİNCAN SARAYCIK TOKİ' DE 3+1 135m² ARA KATTA ASANSÖ...,2.900.000 TL,weekend3+1,texture140 m2,Ankara - Sincan - Saraycık Mh.,layers1. Kat
+" LEVENT'TEN ÇETİNEMEÇ- HAKİMEVİ YAKINI 4+1,130M2 AMERİKAN MUTFAK ...",2.890.000 TL,weekend4+1,texture130 m2,Ankara - Çankaya - Harbiye Mh.,layersKot 2 (-2). Kat
+SİNCAN ATATÜRK MAH 4+1  MASRAFSIZ GENİŞ KATTA ÖN CEPHE DAİRE,1.919.000 TL,weekend4+1,texture150 m2,Ankara - Sincan - Atatürk Mh.,layers3. Kat
+" LEVENT'TEN DİKMEN VADİSİ - İLKER CADDE YAKINI 3+1,120M2 KATTA ÖN...",3.190.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Osman Temiz Mh.,layers2. Kat
+" NEXUS'DAN YEŞİLOVA'DA SATILIK 3+1 ASANSÖRLÜ, SIFIR, SÜPER LÜKS D...",2.650.000 TL,weekend3+1,texture110 m2,Ankara - Etimesgut - Yeşilova Mh.,layersYüksek giriş
+ MARQA'DAN ETLİK MERKEZİ KONUMDA BAĞIMSIZ ULTRA LÜX YAPILI 3+1 !!,3.450.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Etlik Mh.,layers1. Kat
+ BAHÇELİEVLERDE MİLLİ KÜTÜPHANEYE YAKIN   2+1 2.KATTA ,2.900.000 TL,weekend2+1,texture100 m2,Ankara - Çankaya - Yukarı Bahçelievler Mh.,layers2. Kat
+ ꧁꧂EMRE EMLAKTAN꧁꧂MAREŞALÇAKMAK'TA ANA CADDE ÜZERİ YAPILI 3+1 SAT...,1.700.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers4. Kat
+ Ayvalı Kardeşlerde Katta Tek Daire Yapılı 4+1,3.950.000 TL,weekend4+1,texture200 m2,Ankara - Keçiören - Ayvalı Mh.,layers2. Kat
+ NEXUS'DAN AYYILDIZ'DA SATILIK 3+1 DAİRE!,2.575.000 TL,weekend3+1,texture110 m2,Ankara - Etimesgut - Ayyıldız Mh.,layers4. Kat
+ SR EMLAKTAN SİNCAN ATATÜRK MAH'DE 2+1 100m² KATTA BAĞIMSIZ ASANS...,1.895.000 TL,weekend2+1,texture110 m2,Ankara - Sincan - Atatürk Mh.,layers4. Kat
+ SR EMLAK'TAN SİNCAN ATATÜRK MAH'DE 3+1 120 m² ARA KATTA MANTOLAM...,1.559.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Atatürk Mh.,layers2. Kat
+" LEVENT'TEN PANORA AVM-TRT YAKINI SİTE İÇERİSİNDE 3+1,128M2 ARA K...",3.300.000 TL,weekend3+1,texture128 m2,Ankara - Çankaya - Mürsel Uluç Mh.,layers6. Kat
+ ÇANKAYA ALACAATLI'DA MERKEZİ KONUMDA GENİŞ ÖNÜ AÇIK 4+1 FIRSAT D...,6.350.000 TL,weekend4+1,texture210 m2,Ankara - Çankaya - Alacaatlı Mh.,layers5. Kat
+ YILMAZ GAYRİMENKULDEN KACIRILMAYACAK 3+1 FIRSAT DAİRESİ         ...,1.299.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Pınarbaşı Mh.,layersBahçe katı
+ CİHAN DAN KARAKEÇİLİ CADDESİ OKULLAR BÖLGESİ SIFIR KATTA DAİRE,2.580.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Şehit Kubilay Mh.,layers3. Kat
+ YILMAZ GAYRİMENKULDEN KACIRILMAYACAK 3+1 FIRSAT DAİRESİ         ...,1.848.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+POLATLI KARTALTEPE ALIŞVERİŞ VE YAŞAM MERKEZİNDE SATILIK DAİRE,2.249.000 TL,weekend3+1,texture161 m2,Ankara - Polatlı - İstiklal Mh.,layers12. Kat
+Ş.G GAYRİMENKUL'DEN ŞEHİTLİK KAŞINDA 4+1 SATILIK DAİRE,2.520.000 TL,weekend4+1,texture180 m2,Ankara - Polatlı - Şehitlik Mh.,layers2. Kat
+Ş.G GAYRİMENKUL'DEN ŞEHİTLİK MAH 3+1 SATILIK DAİRE,1.550.000 TL,weekend3+1,texture150 m2,Ankara - Polatlı - Şehitlik Mh.,layers5. Kat
+Ş.G GAYRİMENKUL'DEN ŞEHİTLİK MAH 3+1 SATILIK DAİRE,1.550.000 TL,weekend3+1,texture150 m2,Ankara - Polatlı - Şehitlik Mh.,layers5. Kat
+MEV ANKARA'DAN ALTIAĞAÇ TOKİ'DE 2+1 DAİRE,1.150.000 TL,weekend2+1,texture80 m2,Ankara - Mamak - Altıağaç Mh.,layersBahçe katı
+ YILMAZ GAYRİMENKULDEN KACIRILMAYACAK 3+1 FIRSAT DAİRESİ         ...,1.548.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Malazgirt Mh.,layers3. Kat
+GOLD TAN YOZGAT BUL KENARI SİTE İÇİ TAKASA UYGUN ACİL 4+1 DAİRE_,5.500.000 TL,weekend4+1,texture215 m2,Ankara - Keçiören - Ovacık Mh.,layers6. Kat
+ETLİK BAĞCI CAD ÜZERİ BAĞIMSIZ GENİŞ UYGUN FİYATA ACİL 3+1 DAİRE,1.545.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Etlik Mh.,layersDüz Giriş (Zemin)
+▆▇█▓ZİRVE▓█▇▆1080 CADDE ÜZERİ ORMAN MANZARALI FUL+FUL 3+1 DAİRE,2.279.000 TL,weekend3+1,texture135 m2,Ankara - Mamak - Akşemsettin Mh.,layers3. Kat
+▆▇█▓ZİRVE▓█▇▆YILIN FIRSATI DOĞUKENT CAD YANI G.BATI 3+1MASRAFSIZ,2.049.000 TL,weekend3+1,texture135 m2,Ankara - Mamak - Akşemsettin Mh.,layers3. Kat
+▆▇█▓ZİRVE▓█▇▆FIRSATT AKŞEMSETTİN MAH ARA KAT MASRAFSIZ 2+1 DAİRE,1.571.000 TL,weekend2+1,texture115 m2,Ankara - Mamak - Akşemsettin Mh.,layers1. Kat
+ANKARA EMLAK'TAN AŞIKPAŞA'DA SABAH SOKAKTA SATILIK DAİRE,2.200.000 TL,weekend2+1,texture85 m2,Ankara - Çankaya - Aşıkpaşa Mh.,layersYüksek giriş
+ÇINAR'DAN MUSTAFA KEMAL MAHALLESİNDE UYGUN SIFIR DAİRE,2.900.000 TL,weekend3+1,texture145 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers4. Kat
+ÇINAR'DAN MUSTAFA KEMAL MAHALLESİNDE UYGUN SIFIR DAİRE,2.690.000 TL,weekend3+1,texture137 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers1. Kat
+BARUT EMLAK'tan HASTANE YAKINI TERAS BALKONLU 4+1 SİTE DAİRESİ,3.750.000 TL,weekend4+1,texture190 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+BARUT'tan KAPALI OTOPARKLI LÜKS DİZAYN ULTRA LÜKS SİTE DAİRESİ,3.990.000 TL,weekend4+1,texture200 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+BARUT'TAN LÜKS DİZAYN E. BANYOLU ASANSÖR 4+1 SIFIR ARA KAT DAİRE,3.750.000 TL,weekend4+1,texture150 m2,Ankara - Pursaklar - Fatih Mh.,layers2. Kat
+ALTINDAĞ FERİDUNÇELİK MAH 4 CADDE 4CÜ KAT YAKINI YAPILI SIFIR SAT...,2.300.000 TL,weekend3+1,texture145 m2,Ankara - Altındağ - Feridun Çelik Mh.,layers4. Kat
+ÇOK ACİL'DE HİSAR MH KATTA ASANSÖRLÜ FULL+FULL YAPILI ARAKAT 3+1,2.199.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Hisar Mh.,layers2. Kat
+KABİL CD 3+1 BAĞIMSIZ YALITIMLI İYİ PARTİ YANI OFİSE KONUTA,2.980.000 TL,weekend3+1,texture135 m2,Ankara - Çankaya - Aşağı Öveçler Mh.,layers3. Kat
+ÖVEÇLER 1059 CD 3+1 BALKONLU KOT 1,2.100.000 TL,weekend3+1,texture130 m2,Ankara - Çankaya - Şehit Cevdet Özdemir Mh.,layersKot 1 (-1). Kat
+KEKLİKPINAR'DA ŞEHİR MANZARALI TERASLI 3+1 SATILIK DAİRE,3.000.000 TL,weekend3+1,texture115 m2,Ankara - Çankaya - Keklik Pınarı Mh.,layers3. Kat
+ETİMESGUT İSTASYON CAD. ÜZERİ MANZARALI 2+1 SATILIK SIFIR DAİRE,3.400.000 TL,weekend2+1,texture91 m2,Ankara - Etimesgut - İstasyon Mh.,layers2. Kat
+ELİTTEN 4+1 ÜMİTKÖY GORDİON METROYANI BÖLGENİN EN BÜYÜK DAİRESİ,9.400.000 TL,weekend4+1,texture250 m2,Ankara - Çankaya - Ümit Mh.,layers9. Kat
+"MUSTAFA KEMAL MAHALLESİ , SATILIK LÜKS 3+1 DAİRE",2.750.000 TL,weekend3+1,texture150 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers2. Kat
+"FEVZİ ÇAKMAK MAHALLESİNDE ,SİTE İÇESİNDE EŞYALI LÜKS 4+1 DAİRE",3.950.000 TL,weekend4+1,texture178 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers5. Kat
+AHİMESUD'DA_4+1_SÜPER_LÜX_K.OTOPARKLI_KİLERLİ_ÇİFT_ASANSÖRLÜ,5.999.000 TL,weekend4+1,texture170 m2,Ankara - Etimesgut - Ahi Mesut Mh.,layers7. Kat
+HİLAL'DEN KARAPÜRÇEKTE 3+1 CADDE ÜZERİNDE ÖN CEPHE DAİRE,1.735.000 TL,weekend3+1,texture135 m2,Ankara - Altındağ - Karapürçek Mh.,layers1. Kat
+HİLAL'DEN KARAPÜRÇEKTE 3+1 ÖN CEPHE MASRAFSIZ DAİRE,2.000.000 TL,weekend3+1,texture135 m2,Ankara - Altındağ - Karapürçek Mh.,layers3. Kat
+ÖYKÜMDEN BAĞLUMDA TAMAMINA KREDİLİ 3+1 SÜPER LÜX SIFIR DAİRE!!!!,2.385.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Kafkas Mh.,layers4. Kat
+ÖYKÜMDEN BADEMLİKTE KATTA FULL YAPILI 3+1 BALKONLU MASRAFSIZ!!!,2.390.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Bademlik Mh.,layers1. Kat
+ RÜYA EMLAKTAN YEŞİLTEPE MH 2+1 DAİRE ,1.188.000 TL,weekend2+1,texture90 m2,Ankara - Keçiören - Yeşiltepe Mh.,layersKot 1 (-1). Kat
+RÜYA EMLAKTAN BAĞLAR BAŞI MH GİRİŞ KATTA 2+1 DAİRE ,1.190.000 TL,weekend2+1,texture95 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layersDüz Giriş (Zemin)
+ MARQA'DAN ETLİK MERKEZİ KONUMDA BAĞIMSIZ ULTRA LÜX YAPILI 3+1 !!,3.450.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Etlik Mh.,layers1. Kat
+ ATAPARK MAHALLESİNDE KAÇIRILMAYACAK FIRSATTA ARA KAT GENİŞ 3+1 D...,2.749.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Atapark Mh.,layers2. Kat
+ BAHÇELİEVLERDE MİLLİ KÜTÜPHANEYE YAKIN   2+1 2.KATTA ,2.900.000 TL,weekend2+1,texture100 m2,Ankara - Çankaya - Yukarı Bahçelievler Mh.,layers2. Kat
+ ꧁꧂EMRE EMLAKTAN꧁꧂MAREŞALÇAKMAK'TA ANA CADDE ÜZERİ YAPILI 3+1 SAT...,1.700.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers4. Kat
+ Ayvalı Kardeşlerde Katta Tek Daire Yapılı 4+1,3.950.000 TL,weekend4+1,texture200 m2,Ankara - Keçiören - Ayvalı Mh.,layers2. Kat
+ NEXUS'DAN AYYILDIZ'DA SATILIK 3+1 DAİRE!,2.575.000 TL,weekend3+1,texture110 m2,Ankara - Etimesgut - Ayyıldız Mh.,layers4. Kat
+ ÇANKAYA ALACAATLI'DA MERKEZİ KONUMDA GENİŞ ÖNÜ AÇIK 4+1 FIRSAT D...,6.350.000 TL,weekend4+1,texture210 m2,Ankara - Çankaya - Alacaatlı Mh.,layers5. Kat
+ YILMAZ GAYRİMENKULDEN KACIRILMAYACAK 3+1 FIRSAT DAİRESİ         ...,1.299.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Pınarbaşı Mh.,layersBahçe katı
+ CİHAN DAN KARAKEÇİLİ CADDESİ OKULLAR BÖLGESİ SIFIR KATTA DAİRE,2.580.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Şehit Kubilay Mh.,layers3. Kat
+ YILMAZ GAYRİMENKULDEN KACIRILMAYACAK 3+1 FIRSAT DAİRESİ         ...,1.848.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+POLATLI KARTALTEPE ALIŞVERİŞ VE YAŞAM MERKEZİNDE SATILIK DAİRE,2.249.000 TL,weekend3+1,texture161 m2,Ankara - Polatlı - İstiklal Mh.,layers12. Kat
+Ş.G GAYRİMENKUL'DEN ŞEHİTLİK KAŞINDA 4+1 SATILIK DAİRE,2.520.000 TL,weekend4+1,texture180 m2,Ankara - Polatlı - Şehitlik Mh.,layers2. Kat
+Ş.G GAYRİMENKUL'DEN ŞEHİTLİK MAH 3+1 SATILIK DAİRE,1.550.000 TL,weekend3+1,texture150 m2,Ankara - Polatlı - Şehitlik Mh.,layers5. Kat
+MEV ANKARA'DAN ALTIAĞAÇ TOKİ'DE 2+1 DAİRE,1.150.000 TL,weekend2+1,texture80 m2,Ankara - Mamak - Altıağaç Mh.,layersBahçe katı
+ YILMAZ GAYRİMENKULDEN KACIRILMAYACAK 3+1 FIRSAT DAİRESİ         ...,1.548.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Malazgirt Mh.,layers3. Kat
+GOLD TAN YOZGAT BUL KENARI SİTE İÇİ TAKASA UYGUN ACİL 4+1 DAİRE_,5.500.000 TL,weekend4+1,texture215 m2,Ankara - Keçiören - Ovacık Mh.,layers6. Kat
+ETLİK BAĞCI CAD ÜZERİ BAĞIMSIZ GENİŞ UYGUN FİYATA ACİL 3+1 DAİRE,1.545.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Etlik Mh.,layersDüz Giriş (Zemin)
+▆▇█▓ ZİRVE ▓█▇▆DOĞUKENT CADDESİ YANI MASRAFSIZ 3+1 Y.GİRİŞ DAİRE,1.864.000 TL,weekend3+1,texture135 m2,Ankara - Mamak - Akşemsettin Mh.,layersYüksek giriş
+▆▇█▓ZİRVE▓█▇▆1080 CADDE ÜZERİ ORMAN MANZARALI FUL+FUL 3+1 DAİRE,2.279.000 TL,weekend3+1,texture135 m2,Ankara - Mamak - Akşemsettin Mh.,layers3. Kat
+▆▇█▓ZİRVE▓█▇▆YILIN FIRSATI DOĞUKENT CAD YANI G.BATI 3+1MASRAFSIZ,2.049.000 TL,weekend3+1,texture135 m2,Ankara - Mamak - Akşemsettin Mh.,layers3. Kat
+ANKARA EMLAK'TAN AŞIKPAŞA'DA SABAH SOKAKTA SATILIK DAİRE,2.200.000 TL,weekend2+1,texture85 m2,Ankara - Çankaya - Aşıkpaşa Mh.,layersYüksek giriş
+ÇINAR'DAN MUSTAFA KEMAL MAHALLESİNDE UYGUN SIFIR DAİRE,2.900.000 TL,weekend3+1,texture145 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers4. Kat
+ÇINAR'DAN MUSTAFA KEMAL MAHALLESİNDE UYGUN SIFIR DAİRE,2.690.000 TL,weekend3+1,texture137 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers1. Kat
+BARUT EMLAK'tan HASTANE YAKINI TERAS BALKONLU 4+1 SİTE DAİRESİ,3.750.000 TL,weekend4+1,texture190 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+BARUT'tan KAPALI OTOPARKLI LÜKS DİZAYN ULTRA LÜKS SİTE DAİRESİ,3.990.000 TL,weekend4+1,texture200 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+BARUT'TAN LÜKS DİZAYN E. BANYOLU ASANSÖR 4+1 SIFIR ARA KAT DAİRE,3.750.000 TL,weekend4+1,texture150 m2,Ankara - Pursaklar - Fatih Mh.,layers2. Kat
+ALTINDAĞ FERİDUNÇELİK MAH 4 CADDE 4CÜ KAT YAKINI YAPILI SIFIR SAT...,2.300.000 TL,weekend3+1,texture145 m2,Ankara - Altındağ - Feridun Çelik Mh.,layers4. Kat
+ÇOK ACİL'DE HİSAR MH KATTA ASANSÖRLÜ FULL+FULL YAPILI ARAKAT 3+1,2.199.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Hisar Mh.,layers2. Kat
+KABİL CD 3+1 BAĞIMSIZ YALITIMLI İYİ PARTİ YANI OFİSE KONUTA,2.980.000 TL,weekend3+1,texture135 m2,Ankara - Çankaya - Aşağı Öveçler Mh.,layers3. Kat
+ÖVEÇLER 1059 CD 3+1 BALKONLU KOT 1,2.100.000 TL,weekend3+1,texture130 m2,Ankara - Çankaya - Şehit Cevdet Özdemir Mh.,layersKot 1 (-1). Kat
+HİLAL'DEN KARAPÜRÇEKTE 3+1 CADDE ÜZERİNDE ÖN CEPHE DAİRE,1.735.000 TL,weekend3+1,texture135 m2,Ankara - Altındağ - Karapürçek Mh.,layers1. Kat
+HİLAL'DEN KARAPÜRÇEKTE 3+1 ÖN CEPHE MASRAFSIZ DAİRE,2.000.000 TL,weekend3+1,texture135 m2,Ankara - Altındağ - Karapürçek Mh.,layers3. Kat
+ÖYKÜMDEN BAĞLUMDA TAMAMINA KREDİLİ 3+1 SÜPER LÜX SIFIR DAİRE!!!!,2.385.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Kafkas Mh.,layers4. Kat
+ÖYKÜMDEN BADEMLİKTE KATTA FULL YAPILI 3+1 BALKONLU MASRAFSIZ!!!,2.390.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Bademlik Mh.,layers1. Kat
+ RÜYA EMLAKTAN YEŞİLTEPE MH 2+1 DAİRE ,1.188.000 TL,weekend2+1,texture90 m2,Ankara - Keçiören - Yeşiltepe Mh.,layersKot 1 (-1). Kat
+RÜYA EMLAKTAN BAĞLAR BAŞI MH GİRİŞ KATTA 2+1 DAİRE ,1.190.000 TL,weekend2+1,texture95 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layersDüz Giriş (Zemin)
+AYRANCI TİREBOLU SOKAK 2.KATTA 3+1 ASANSÖRLÜ OTOPARKLI KOMBİLİ,3.650.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Ayrancı Mh.,layers2. Kat
+"TURAN GÜNEŞ BULV.YAKINI,HOLLANDA ELÇİLİĞİ YAKINI,2,5+1,110 M2,KOM...",2.650.000 TL,weekend2+1,texture110 m2,Ankara - Çankaya - Hilal Mh.,layersKot 1 (-1). Kat
+ASANSÖRLÜ SIFIR EBEVEYN BANYOLU 3+1 KATTA SATILIK DAİRE,3.200.000 TL,weekend3+1,texture130 m2,Ankara - Etimesgut - Piyade Mh.,layers3. Kat
+ERYAMAN EREN GAYRİMENKUL DEN 3ETAP MERKEZDE ARAKAT EŞYALI 1+1,1.680.000 TL,weekend1+1,texture52 m2,Ankara - Etimesgut - Şeyh Şamil Mh.,layers2. Kat
+BOZKIR'DAN İKİ BLOKLU GÜVENLİKLİ GENİŞ KULLANIŞLI SİTEDE SATILIK ...,3.649.000 TL,weekend3.5+1,texture150 m2,Ankara - Keçiören - Ayvalı Mh.,layers9. Kat
+KARAPÜRÇEKTE YEŞİL VADİ KONUTLARINDA SİTE İÇERİSİ 10. KAT DAİRE,3.930.000 TL,weekend3.5+1,texture160 m2,Ankara - Altındağ - Karapürçek Mh.,layers10. Kat
+ ▄KALE▄EŞSİZ YAPI SÜPER KONUM! ŞEHİTLER CADDE YANI ULTRA LÜKS 3+1...,2.879.000 TL,weekend3+1,texture145 m2,Ankara - Mamak - Durali Alıç Mh.,layers2. Kat
+ YILMAZ GAYRİMENKULDEN KACIRILMAYACAK 3+1 FIRSAT DAİRESİ         ...,1.948.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Selçuklu Mh.,layers2. Kat
+ACİLL YAPRACIK TOKİLERDE SATILIK 2+1 DAİRELER,3.400.000 TL,weekend2+1,texture104 m2,Ankara - Etimesgut - Atayurt Mh.,layers7. Kat
+ Saimekadında full yapılı satılık daire,1.750.000 TL,weekend3+1,texture115 m2,Ankara - Mamak - Saimekadın Mh.,layers1. Kat
+ TUZLUÇAYIRDA ISI YALITIMLI İSKANLI SATILIK DAİRE,1.150.000 TL,weekend2+1,texture85 m2,Ankara - Mamak - Tuzluçayır Mh.,layersYüksek giriş
+  YILMAZ GAYRİMENKULDEN KACIRILMAYACAK  3+1 ACIL FIRSAT DAIRESİ  ...,1.889.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Tandoğan Mh.,layersYüksek giriş
+ ÜNSAL'DAN | PİYADE-GİMSA YAKINI | 3.KAT 3+1 | FUL | İSKANL,2.499.000 TL,weekend3+1,texture125 m2,Ankara - Etimesgut - Piyade Mh.,layers3. Kat
+ACİL SATILIK SİMGE ŞEHİR 2 ,2.610.000 TL,weekend3+1,texture115 m2,Ankara - Etimesgut - Ahi Mesut Mh.,layers10. Kat
+SİNCAN MAREŞAL ÇAKMAK MAH 3+1 ARA KATTA ULTRA LÜKS YAPILI DAİRE,2.250.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers2. Kat
+ DEMİRLİBAHÇE'DE TREN İSTASYONU YAKINI 3+1 KATTA EŞYALI SATILIK D...,1.550.000 TL,weekend3+1,texture100 m2,Ankara - Mamak - Demirlibahçe Mh.,layers3. Kat
+ SİNCAN PLEVNE MAHALLESİNDE 3+1 BAĞIMSIZ ARA KATTA SATILIK KUPON ...,1.495.000 TL,weekend3+1,texture115 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ETLİK ŞEHİR HASTANE YAKINI FUL YAPILI KATTA ASANSÖRLÜ GENİŞ 3+1 D...,2.999.000 TL,weekend3+1,texture140 m2,Ankara - Yenimahalle - Pamuklar Mh.,layers6. Kat
+ SİNCAN MAREŞAL ÇAKMAK MAHALLESİNDE 3+1 ÇİFT BALKONLU MERKEZE YAK...,1.460.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers5. Kat
+ KARAPÜRÇEK MAHALLESİ 3+1 YÜKSEK GİRİŞ MANTOLAMALI MASRAFSIZ SATL...,1.900.000 TL,weekend3+1,texture140 m2,Ankara - Altındağ - Karapürçek Mh.,layersYüksek giriş
+SİNCAN MAREŞAL ÇAKMAK MAHALLESİNDE YAPILI 3+1 MERKEZİ KONUMDA SAT...,1.585.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersYüksek giriş
+SİNCAN SARAYCIK MAH 4+1 BAĞIMSIZ KATTA ÖN CEPHE ULTRA LÜKS DAİRE,3.950.000 TL,weekend4+1,texture180 m2,Ankara - Sincan - Saraycık Mh.,layers9. Kat
+YATIRIMLIK FIRSAT DAİRE ABİDİNPAŞA MERKEZİ 2.KAT 2+1 DAİRE,1.500.000 TL,weekend2+1,texture75 m2,Ankara - Mamak - Balkiraz Mh.,layers2. Kat
+ FIRSAT | ALSANCAK-BAĞLICA YAKINI | SIFIR ASANSÖRLÜ 2+1 ÇİFT BANY...,3.499.000 TL,weekend2+1,texture100 m2,Ankara - Etimesgut - Alsancak Mh.,layers2. Kat
+ SİNCAN PLEVNE MAHALLESİNDE 3+1 BAĞIMSIZ ARA KATTA SATILIK KUPON ...,1.495.000 TL,weekend3+1,texture115 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ETLİK ŞEHİR HASTANE YAKINI FUL YAPILI KATTA ASANSÖRLÜ GENİŞ 3+1 D...,2.999.000 TL,weekend3+1,texture140 m2,Ankara - Yenimahalle - Pamuklar Mh.,layers6. Kat
+ SİNCAN MAREŞAL ÇAKMAK MAHALLESİNDE 3+1 ÇİFT BALKONLU MERKEZE YAK...,1.460.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers5. Kat
+ KARAPÜRÇEK MAHALLESİ 3+1 YÜKSEK GİRİŞ MANTOLAMALI MASRAFSIZ SATL...,1.900.000 TL,weekend3+1,texture140 m2,Ankara - Altındağ - Karapürçek Mh.,layersYüksek giriş
+SİNCAN MAREŞAL ÇAKMAK MAHALLESİNDE YAPILI 3+1 MERKEZİ KONUMDA SAT...,1.585.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersYüksek giriş
+SİNCAN SARAYCIK MAH 4+1 BAĞIMSIZ KATTA ÖN CEPHE ULTRA LÜKS DAİRE,3.950.000 TL,weekend4+1,texture180 m2,Ankara - Sincan - Saraycık Mh.,layers9. Kat
+YATIRIMLIK FIRSAT DAİRE ABİDİNPAŞA MERKEZİ 2.KAT 2+1 DAİRE,1.500.000 TL,weekend2+1,texture75 m2,Ankara - Mamak - Balkiraz Mh.,layers2. Kat
+ FIRSAT | ALSANCAK-BAĞLICA YAKINI | SIFIR ASANSÖRLÜ 2+1 ÇİFT BANY...,3.499.000 TL,weekend2+1,texture100 m2,Ankara - Etimesgut - Alsancak Mh.,layers2. Kat
+ETİMESGUT K.KARABEKİR MAH.DE SATILIK 2+1 YÜKSEK GİRİŞ,1.580.000 TL,weekend2+1,texture110 m2,Ankara - Etimesgut - Kazım Karabekir Mh.,layersYüksek giriş
+ETİMESGUT İSTASYON MAH.DE FULL YAPILI SATILIK 3+1,1.639.000 TL,weekend3+1,texture120 m2,Ankara - Etimesgut - İstasyon Mh.,layersDüz Giriş (Zemin)
+ TD EMLAKTAN TANDOĞAN MAHALLESİNDE ACİL SATILIK 3+1 ARAKAT SATILI...,1.859.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Tandoğan Mh.,layers1. Kat
+ LEVENT'TEN DİKMEN VADİSİ 4.ETAP CEPHELİ 3+1 BAHÇE KATI BAHÇE ÇIK...,1.800.000 TL,weekend3+1,texture105 m2,Ankara - Çankaya - Metin Akkuş Mh.,layersKot 2 (-2). Kat
+MÜHYE VADİ KONUTLARINDA VADİ CEPHELİ MUHTEŞEM 3+1,5.100.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - İlkbahar Mh.,layers15. Kat
+BAŞKENT DÖNÜŞÜM EMLAKTAN MÜHYE VADİ KONUTLARINDA KUPON DAİRE,4.450.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - İlkbahar Mh.,layers1. Kat
+BAŞKENT DÖNÜŞÜM EMLAKTAN MÜHYE VADİ KONUTLARINDA FIRSAT DAİRE!!!,4.750.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - İlkbahar Mh.,layers5. Kat
+ SR EMLAK'TAN ANDİÇEN MAH'DE 3+1 120m² ÖN CEPHE KATTA ULAŞIMA YAK...,2.030.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Andiçen Mh.,layers3. Kat
+ TD EMLAKTAN MAREŞAL ÇAKMAK'TA ACİL SATILIK 3+1 ARAKAT SATILIK DA...,1.959.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers2. Kat
+ SERDAR EMLKA TAN 5 + 1 GİYİNME ODALI ÇİFT BANYOLU YAPILI 3 KATLI...,5.200.000 TL,weekend5+2,texture335 m2,Ankara - Pursaklar - Saray Cumhuriyet Mh.,layersVilla tipi
+ KEÇİÖRENDE 4+1ASANSÖRLÜ İSKANLI MASRAFSIZ EBEVEYN BANYOLU SATILI,2.890.000 TL,weekend4+1,texture165 m2,Ankara - Keçiören - Kafkas Mh.,layers1. Kat
+SİNCAN TANDOĞAN MH 6+2 BAĞIMSIZ ÖN CEPHE TEK TAPU ÇİFT DAİRE,3.799.000 TL,weekend6+2,texture280 m2,Ankara - Sincan - Malazgirt Mh.,layers3. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN SIFIR ASANSÖRLÜ 2+1 GİRİŞ KAT ...,2.000.000 TL,weekend2+1,texture120 m2,Ankara - Pursaklar - Merkez Mh.,layersYüksek giriş
+ SR EMLAK'TAN SİNCAN AHİEVRAN MAH'DE 3+1 115m² BAĞIMSIZ KATTA ÖN ...,2.050.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Ahi Evran Mh.,layers3. Kat
+ SR EMLAK'TAN SİNCAN MAREŞAL ÇAKMAK MAH'DE 2+1 110m² ÖN CEPHE BAĞ...,1.600.000 TL,weekend2+1,texture115 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersYüksek giriş
+"SİNCAN PINARBAŞI MH 3+2 FUL YAPILI ÇİFT MUTFAK,BANYO KATTA DAİRE",2.579.000 TL,weekend3+2,texture220 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+ ORAK İNŞAAT EMLAK'TAN YEŞİLABYIRDA KAT KONUMUNDA ASANSÖRLÜ 3+1 D,1.480.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Yeşilbayır Mh.,layersKot 1 (-1). Kat
+ SIFIR SİTE KONSEPTİNDE-İSKANLI-K.OTOPARK-ETLİK Ş.HAST ULAŞIM KLY,2.849.000 TL,weekend2+1,texture105 m2,Ankara - Keçiören - Etlik Mh.,layers2. Kat
+ ORAK İNŞAAT EMLAK'TAN 2KAT KONUMUNDA MASRAFSIZ SÜPER GENİŞ DAİRE,1.700.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Yeşilbayır Mh.,layersKot 2 (-2). Kat
+ BAĞLICA HİLAL PARK KONUTLARINDA CADDE ÜZERİNDE 4+1 EBEVEYN BANYO...,3.900.000 TL,weekend4+1,texture155 m2,Ankara - Etimesgut - Bağlıca Mh.,layersYüksek giriş
+ FIRSAT | ELVAN-ALTUNBİLEKLER MARKET YAKINI | 2+1 | FUL+FUL,1.399.000 TL,weekend2+1,texture85 m2,Ankara - Etimesgut - Elvan Mh.,layersDüz Giriş (Zemin)
+CEM EMLAKTAN YUKSELTEPEDE SATILIK DAIRE,2.300.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Yükseltepe Mh.,layers1. Kat
+ SAİMEKADIN GÖBEK YAKININDA FULL YAPILI BAĞIMSIZ SALON BALKONLU 3...,1.625.000 TL,weekend3+1,texture115 m2,Ankara - Mamak - Mehtap Mh.,layersYüksek giriş
+ 19 MAYIS'TA YUNUS EMRE CADDESİ YAKININDA 2+1 MASRAFSIZ SATILIK D...,1.325.000 TL,weekend2+1,texture100 m2,Ankara - Keçiören - 19 Mayıs Mh.,layersKot 1 (-1). Kat
+FARABİ SOKAK'TA KÖŞE KONUMLU BAKIMLI 3+1 SATILIK FIRSAT DAİRE,4.750.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Çankaya Mh.,layers3. Kat
+_YETİMOĞLUNDAN_YENİ BİNADA MERKEZİ KONUM {ARAKAT} 3+1,2.650.000 TL,weekend3+1,texture135 m2,Ankara - Yenimahalle - Güventepe Mh.,layers2. Kat
+-EMSALİ YOK- STA TOWERS DA KAÇMAZ 4+1 FIRSAT DAİRESİ !,3.395.000 TL,weekend4+1,texture200 m2,Ankara - Keçiören - Ovacık Mh.,layersDüz Giriş (Zemin)
+ TD EMLAKTAN ACİL SATILIK İÇİ YENİLENMİŞ 3+1 1.KAT SATILIK DAİRE,1.859.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ANKARA ALTINDAĞ KUZEY ANKARA TOKİDE 4+1//135m2 GİRİŞ,1.775.000 TL,weekend4+1,texture145 m2,Ankara - Altındağ - Baraj Mh.,layersYüksek giriş
+ANKARA SİNCAN MARAŞAL ÇAKMAK MAH ANKARA CADDESİ 3+1 KATTA SATILIK...,1.595.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersÇatı katı
+ÇALDIRAN MAHALLESİNDE KATTA 3+1 YAPILI MASRAFSIZ DAİRE,1.850.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Çaldıran Mh.,layers3. Kat
+ NEXUS'DAN OĞUZLAR MAHALLESİNDE SATILIK FULL YAPILI 3+1 DAİRE!,2.730.000 TL,weekend3+1,texture123 m2,Ankara - Etimesgut - Oğuzlar Mh.,layers3. Kat
+TOPRAK EMLAKTAN ANK KEÇİÖREN BADEMLIK MAH DE 3+1 DAIRE,2.150.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Bademlik Mh.,layers1. Kat
+AŞAĞI EĞLENCEDE GATA HASTANESİ KARŞISI YÜKSEK KİRA GETİRİLİ FULL+...,1.590.000 TL,weekend2+1,texture100 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layersKot 2 (-2). Kat
+YONCA EMLAK EGE MAH. HAVUZLU SİTEDE 3+1 ACİL SATILIK DAİRE,4.000.000 TL,weekend3+1,texture145 m2,Ankara - Mamak - Ege Mh.,layers7. Kat
+ SATILIK DAİRE ,2.150.000 TL,weekend3+1,texture120 m2,Ankara - Mamak - Yeşilbayır Mh.,layers2. Kat
+ MAMAK CADDE ÜZERİNDE ÖN CEPHEDE BAKIMLI YÜKSEK KİRA GETİRİLİ 3+1...,1.950.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Balkiraz Mh.,layers3. Kat
+ NEXUS'DAN AYYILDIZ'DA SATILIK GENİŞ 3+1 DAİRE!,2.800.000 TL,weekend3+1,texture155 m2,Ankara - Etimesgut - Ayyıldız Mh.,layersYüksek giriş
+ 3+1 SİTE İÇİ GÜVENLİKLİ ÇOCUK OYUN ALANLI ŞEHİR HASTANESİ YAKINI,2.625.000 TL,weekend3+1,texture138 m2,Ankara - Keçiören - Etlik Mh.,layers13. Kat
+ ACİLLL SATILIK PURSAKLAR 5 YOLA YAKIN İŞYERİ OLARAKDA KULLANILAB...,1.650.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Fatih Mh.,layers3. Kat
+YENİKENT FEVZİ ÇAKMAK DA ARA KATTA KÖŞE BAŞI 3+1 SIFIR DAİRE ,2.350.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers2. Kat
+ İnönü Yargı1'de Ferah 3+1 Daire,3.650.000 TL,weekend3+1,texture135 m2,Ankara - Yenimahalle - İnönü Mh.,layers2. Kat
+ ANKARA KALESİ MANZARALI SİTE İÇERİSİNDE 3+1 YAPILI DAİRE,2.350.000 TL,weekend3+1,texture120 m2,Ankara - Altındağ - Gültepe Mh.,layers5. Kat
+ Yenimahalle Merkezde İçi Yapılı Satılık Daire,2.500.000 TL,weekend2+1,texture90 m2,Ankara - Yenimahalle - Yeniçağ Mh.,layers3. Kat
+ SATILIK LÜX DAİRE,3.300.000 TL,weekend3+1,texture150 m2,Ankara - Mamak - Yeni Bayındır Mh.,layers4. Kat
+" LEVENT'TEN ÇETİNEMEÇ BULVARI-HAKİMEVİ-POLİSEVİ YAKINI 3+1,120M2 ...",2.800.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Harbiye Mh.,layers2. Kat
+ ETLİK SANCAKTEPEDE 2 KAT GÜNEY 3+1 DAİRE,2.950.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Sancaktepe Mh.,layers2. Kat
+ AYVALI'DA CADDE ÜZERİ PARK MANZARALI ÇİFT ASANSÖRLÜ & SIFIR 4+1,3.199.000 TL,weekend4+1,texture180 m2,Ankara - Keçiören - Ayvalı Mh.,layers4. Kat
+ GATA YAKINI 3+1 BAĞİMSIZ 2 KATTA ,2.600.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Basınevleri Mh.,layers2. Kat
+YONCA EMLAK DURALİ ALIÇ MAH. 3+1 SATILIK FULL YAPILI DAİRE ,3.100.000 TL,weekend3+1,texture165 m2,Ankara - Mamak - Durali Alıç Mh.,layersKot 1 (-1). Kat
+ VİP CLASS'TAN ETLİK MERKEZDE OSMANLI İŞ MERKEZİ YÜRÜME MESAFESİN...,3.450.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Etlik Mh.,layers3. Kat
+ ▄█ELİT EMLAK'TAN█▄ ACİL!!! 1.KATTA 3+1 SIFIR FIRSAT DAİRESİ,1.600.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Yeşilbayır Mh.,layers1. Kat
+AŞAĞI AĞLENCEYE YAKKN 4+1 MANZARALI DUBLEX,2.499.000 TL,weekend4+1,texture200 m2,Ankara - Keçiören - Emrah Mh.,layersÇatı Dubleks
+MAREŞAL CAKMAK MAH.3+1 ARAKATTA UYGUN FIYATLI DAIREMIZ !,1.635.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers3. Kat
+UMUT EVİM EMLAKTAN YAPILI İSKANLI SIFIR 3+1 DAİRE KATTA,2.700.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Yükseltepe Mh.,layers4. Kat
+ ULUKAN'DAN PLEVNE MAH'DE 3+1 ARA KATTA BAĞIMSIZ ASANSÖRLÜ DAİRE,1.885.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+"HISAR'DA MASRAFSIZ TAM YATIRIMLIK NET 140 M2 3+1 DAİRE,,",2.490.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Hisar Mh.,layers2. Kat
+ AŞAĞIEĞLENCE GÖBEĞE YAKIN YILIN SON FIRSAT DAİRESİ 3+1 MASRAFSIZ...,1.950.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layers3. Kat
+ OSMANLI İŞ MERKEZİ YAKINI ARA KATTA BAĞIMSIZ MASRAFSIZ 2+1 DAİRE,1.750.000 TL,weekend2+1,texture100 m2,Ankara - Keçiören - Etlik Mh.,layersYüksek giriş
+ 2023'ÜN SON FIRSAT DAİRESİ[İMZA]'DAN KUŞCAĞIZ'DA KATTA 3+1DAİRE!,1.789.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Kuşcağız Mh.,layers3. Kat
+ ETLİK AYVALI'DA YENİ BİNADA GİRİŞ KAT FULL+FULL YAPILI KAÇMAZ 2+...,1.790.000 TL,weekend2+1,texture90 m2,Ankara - Keçiören - Etlik Mh.,layersDüz Giriş (Zemin)
+SATLKK DAİRE ETİMESGUT  ETİLER MAH ,3.749.000 TL,weekend3+1,texture145 m2,Ankara - Etimesgut - Etiler Mh.,layers2. Kat
+" ▄█ELİT EMLAK'TAN█▄ OKULLAR,CADDE DİBİ ASANSÖR,MONTALAMALI SIFIR ...",1.275.000 TL,weekend2+1,texture110 m2,Ankara - Mamak - Küçük Kayaş Mh.,layersKot 2 (-2). Kat
+ ▃▅▆▇BİRİKİM'DEN▇▆▅▃HOCALI CADDE YAKINI ARA KATTA 3+1 KELEPİR DAİ...,1.650.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Şirintepe Mh.,layers2. Kat
+ SATILIK FAHRİKORUTÜRKT MAHALLESİNDE GENİŞ FERAH MASRAFSIZ 4+1 DU...,2.450.000 TL,weekend4+1,texture270 m2,Ankara - Mamak - Şahintepe Mh.,layersÇatı Dubleks
+ETİMESGUT SÜVARİ MAH. YAPILI ÖN CEPHE 3+1 ACİL SATILIK,2.229.000 TL,weekend3+1,texture125 m2,Ankara - Etimesgut - Süvari Mh.,layers3. Kat
+ *** 29 MAYIS HASTAHANE YANI YAPILI 3+1 SATILIK DAİRE ***,4.650.000 TL,weekend3+1,texture140 m2,Ankara - Çankaya - Aydınlar Mh.,layers1. Kat
+" LEVENT'TEN SOKULLU CADDESİ YAKINI 3+1,125M2 BAĞIMSIZ SALON ARA K...",3.450.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Şehit Cevdet Özdemir Mh.,layers1. Kat
+ ANTARES AVM YILDIRIM BEYAZIT. ÜNİ. YAKINI KATTA 2+1 BAĞIMSIZ,1.750.000 TL,weekend2+1,texture115 m2,Ankara - Keçiören - Etlik Mh.,layers1. Kat
+ RELAX'TAN ETLİK AŞAĞI EĞLENCE'DE 1.KAT 3+1 İSKANLI MANTOLU DAİRE,2.049.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layers1. Kat
+ SANCAKTEPE MAHALLESİNDE SARIKAMIŞ CADDE ÜZERİ KATTA ÖNÜ AÇIK SAT...,2.390.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Sancaktepe Mh.,layers1. Kat
+ ꧁꧂EMRE EMLAKTAN꧁꧂30 AĞUSTOS'TA FULL+FULL YAPILI ARAKATTA 3+1 SAT...,2.349.000 TL,weekend3+1,texture140 m2,Ankara - Etimesgut - 30 Ağustos Mh.,layers1. Kat
+ RELAX'TAN AYVALI MERKEZDE İSKANLI FULL YAPILI 3+1 KAÇMAZ FİYAT,1.549.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Ayvalı Mh.,layersDüz Giriş (Zemin)
+ RELAX'TAN ETLİK'TE 1.KAT 3+1 BAĞIMSIZ 125M2 SÜPER KONUM FIRSAT !,2.595.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Etlik Mh.,layers1. Kat
+ YÜKSELTEPE'DE ARA KATTA 130 M2 FULL YAPILI 3+1 SATILIK DAİRE,2.790.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Yükseltepe Mh.,layers2. Kat
+ KEÇİÖREN AYVALI MAHALLESİNDE 3+1 FULL YAPILI FIRSAT DAİRE,2.900.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Ayvalı Mh.,layers1. Kat
+ AKİF'ten AYYILDIZ'da 3+1 SİTE İÇİ ÇARŞI YANI AHİMESUT BULVARI YA...,2.100.000 TL,weekend3+1,texture110 m2,Ankara - Etimesgut - Ayyıldız Mh.,layers4. Kat
+Yenikent Necip Fazıl Bulvarın da Yol Cepheli ara katta 3+1 Satılı...,1.995.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Menderes Mh.,layers1. Kat
+ GÖLBAŞI MERKEZİNDE / EYMİR MAHALLESİNDE FULL YAPILI 3+1 ,3.000.000 TL,weekend3+1,texture125 m2,Ankara - Gölbaşı - Eymir Mh.,layersYüksek giriş
+ CİHANDAN KARAHÖYÜK CAD ÜZERİ FULL YAPILI MANZARALI BOL GÜNEŞ 4+1,4.100.000 TL,weekend4+1,texture180 m2,Ankara - Yenimahalle - Avcılar Mh.,layers10. Kat
+" ALTINDAĞ - KARAPÜRÇEK MAHALLESİNDE ASANSÖRLÜ, 2+1 SATILIK DAİRE ...",1.275.000 TL,weekend2+1,texture100 m2,Ankara - Altındağ - Karapürçek Mh.,layersBahçe katı
+ Pınarbaşı Mahallesinde 4+1 Giyinme odalı Daire,3.500.000 TL,weekend4+1,texture175 m2,Ankara - Sincan - Pınarbaşı Mh.,layers6. Kat
+BEY GROUP'DAN KEÇİÖREN HİSAR'DA 3+1 135 m2 FULL YAPILI MASRAFSIZ ...,2.370.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Hisar Mh.,layers2. Kat
+ ATALAY EMLAKTAN ATAPARKTA MERKEZDE KATTA MASRAFSIZ DAİRE,2.589.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Atapark Mh.,layers4. Kat
+ DOĞANOĞLUN'DAN SİTE İÇERSİNDE ULTRA LÜX 4+1 FIRSAT DAİRELER,5.300.000 TL,weekend4+1,texture225 m2,Ankara - Gölbaşı - Bahçelievler Mh.,layers1. Kat
+ SERDAR EMLAK TAN 4 + 1 2. KAT GENİŞ GİYİNME ODALI YAPILI SİTE İÇ...,4.490.000 TL,weekend4+1,texture185 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers2. Kat
+EPA'dan SARAYCIK MH. TOKİ SATILIK 3+1 123m² KATTA MANZARALI,2.500.000 TL,weekend3+1,texture123 m2,Ankara - Sincan - Saraycık Mh.,layers7. Kat
+EPA'dan SARAYCIK MH. TOKİ BLOKLARI SATILIK 2+1 97m² TAPULU DAİRE,1.850.000 TL,weekend2+1,texture97 m2,Ankara - Sincan - Saraycık Mh.,layersYüksek giriş
+EPA'dan SARAYCIK MAH. TOKİ'de SATILIK BOŞ 2+1 KÖŞE DAİRE,2.275.000 TL,weekend2+1,texture98 m2,Ankara - Sincan - Saraycık Mh.,layers3. Kat
+KIZILCAŞAR MAHALLESİ'NDE SATILIK 1+1 EMSALSİZ DAİRE,3.350.000 TL,weekend1+1,texture80 m2,Ankara - Gölbaşı - Kızılcaşar Mh.,layersYüksek giriş
+ YENİKENT KREDİ LİMİTSİZ MERKEZİ KONUMDA ACİL SATILIK ,1.870.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers4. Kat
+ Deneme İlanıdır Deneme İlanıdır,200.000 TL,weekendStüdyo,texture120 m2,Ankara - Etimesgut - Göksu Mh.,layersBahçe dublex
+ İNCİRLİ TAM MERKEZ İNCİRLİ LİSESİ YAKIN 3+1 FULL YAPILI BALKONLU,1.349.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - İncirli Mh.,layersKot 1 (-1). Kat
+ MÇ EMLAKTAN FUL YAPILI 2+1 SATILIK BAHÇE KATI DAİRE,1.266.000 TL,weekend2+1,texture95 m2,Ankara - Sincan - Plevne Mh.,layersBahçe katı
+ MEHMET ÖZDEMİR 'DEN MENDERES MAH. 3+1 FULL YAPILI ARAKAT DAİRESİ,2.750.000 TL,weekend3+1,texture140 m2,Ankara - Sincan - Menderes Mh.,layers1. Kat
+KEÇİÖREN YÜKSELTEPEDE  3+1 KİLERLİ SATILIK DAİRE,2.199.000 TL,weekend3+1,texture150 m2,Ankara - Keçiören - Yükseltepe Mh.,layersKot 1 (-1). Kat
+SİNCAN PİLEVNEDE DAİRE 3+1 FIRSAT DAİRESİ MANTOLAMALİ GÜNEY ,1.250.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Plevne Mh.,layersDüz Giriş (Zemin)
+ YIL BİTER![İMZA]'DA DAİRE BİTMEZ! ATAPARK'DA CD.DİBİ 3+1Y.GİRİŞ!,1.949.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Atapark Mh.,layersYüksek giriş
+ 14.CADDE_ÜZERİNDE_GENİŞ_120M2_UYGUN_FIRSAT_3+1_DAİRE,2.165.000 TL,weekend3+1,texture120 m2,Ankara - Etimesgut - Topçu Mh.,layers2. Kat
+ GLOBAL YATIRIM A.Ş. --- FIRSAT DAİRESİ - 3+1 -ÖN -ÜSTKAT-BATI CE...,1.950.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Ayvalı Mh.,layers2. Kat
+ YENİMAHALLE MİRALAY NAZIM BEY SOKAK 4+1 DUBLEKS DAİRE,4.230.000 TL,weekend4+1,texture240 m2,Ankara - Yenimahalle - Ragıp Tüzün Mh.,layers3. Kat
+ MENDERES MAHALLESİ MÜKEMMEL KONUM GENİŞ 2+1 SATILIK,1.748.000 TL,weekend2+1,texture115 m2,Ankara - Sincan - Menderes Mh.,layers1. Kat
+SİNCAN PINARBAŞI MAH SALON BAGIMSIZ ÖN CEPHE 12 YILLIK DAİRE,1.798.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Pınarbaşı Mh.,layers3. Kat
+ÇANKAYA YILDIZEVLER'DE MUHTEŞEM YAPILI 6+2 DUBLEX,8.900.000 TL,weekend6+2,texture300 m2,Ankara - Çankaya - Yıldızevler Mh.,layers3. Kat
+UNİGUE DE 1+1 EŞYALI TEMİZ EXTRALI,2.250.000 TL,weekend1+1,texture70 m2,Ankara - Çankaya - Yaşamkent Mh.,layersKot 1 (-1). Kat
+ ADA İNNCEK KONUTLARINDA SIFIR 2+1 SATILIK DAİRE,3.800.000 TL,weekend2+1,texture110 m2,Ankara - Gölbaşı - Taşpınar Mh.,layers4. Kat
+SİNCAN PINARBASI MAH 8 YILLIK ÖN 1ARAKAT SALON BAGIMSIZ DAİRE,2.089.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Pınarbaşı Mh.,layers1. Kat
+ ANKARA KUŞCAĞIZ GİRİŞ KAT FİYATINA KATTA DAİRE KOMŞUDAN,1.989.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Kuşcağız Mh.,layers1. Kat
+PUSULADAN PINARBAŞI 3+1 BAĞIMSIZ ULTRALÜX ARAKATTA FIRSAT DAİRSİ,1.839.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN OTOPARKLI LÜKS SİTEDE 3.KAT 4+...,3.600.000 TL,weekend4+1,texture190 m2,Ankara - Pursaklar - Merkez Mh.,layers3. Kat
+SİNCAN AKŞEMSETTİN CADDE ÜZERİNDE FULL YAPILI 3+1 SATILIK DAİRE,1.859.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Akşemsettin Mh.,layers4. Kat
+BAHÇELİEVLERDE  AKDENİZ CADDESİNDE 2+1 2. KATTA ,2.900.000 TL,weekend2+1,texture100 m2,Ankara - Çankaya - Yukarı Bahçelievler Mh.,layers2. Kat
+Karapürçek te 2+1 süper daire ,1.275.000 TL,weekend2+1,texture90 m2,Ankara - Altındağ - Karapürçek Mh.,layersBahçe katı
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN KAPALI OTOPARKLI LÜKS SİTEDE 1...,4.900.000 TL,weekend4+1,texture195 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers12. Kat
+TURGUT ÖZAL MAH. VERA PARK 2 SİTESİNDE 4+1 170m² SATILIK DAİRE,4.499.000 TL,weekend4+1,texture170 m2,Ankara - Yenimahalle - Turgut Özal Mh.,layers12. Kat
+KEÇİÖREN OVACIK LEXUS KULE'DE 285 m² 5+1 HARİKA BİR DAİRE,9.550.000 TL,weekend5+1,texture285 m2,Ankara - Keçiören - Ovacık Mh.,layers8. Kat
+ ETLİK'DE ANA CADDE ÜZERİ MANZARALI BAĞIMSIZ KATTA YAPILI 3+1 DAİ...,2.890.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layers3. Kat
+ KARİYER'DEN A.EĞLENCE GÖBEK 19.000TL KİRACILI SIFIR EŞYALI DAİRE,2.380.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layersDüz Giriş (Zemin)
+ AYVALI CADDE ÜZERİNDE ÖN CEPHE ULTRA LÜX YAPILI KATTA 3+1 DAİRE!...,3.130.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Ayvalı Mh.,layers1. Kat
+" ALTINDAĞ, KARAPÜRÇEK ALTIN VADİ EVLERİ 3+1 SATILIK DAİRE",3.250.000 TL,weekend3+1,texture180 m2,Ankara - Altındağ - Karapürçek Mh.,layers5. Kat
+ MAMAK BAHÇELERÜSTÜ'NDE ACİL SATILIK YENİ BİNADA İÇİ LÜKS YAPILI ...,2.895.000 TL,weekend4+1,texture170 m2,Ankara - Mamak - Bahçelerüstü Mh.,layers4. Kat
+ YAŞAMKENT RELAX PLUS A BLOK ARA KAT 1+1 BALKONLU SATILIK DAİRE,2.950.000 TL,weekend1+1,texture60 m2,Ankara - Çankaya - Yaşamkent Mh.,layers3. Kat
+PANORA YAKINI MERKEZİ LOKASYONDA MANZARALI SATILIK 3+1 DAİRE,5.800.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Oran Mh.,layers11. Kat
+ATLANTİS YANINDA SİTEDE ARAKAT GÜNEY CEPHE SATILIK 3+1 DAİRE,3.250.000 TL,weekend3+1,texture145 m2,Ankara - Yenimahalle - Kardelen Mh.,layers2. Kat
+PANORA YAKINI MERKEZİ LOKASYONDA MANZARALI SATILIK 3+1 DAİRE,5.800.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Oran Mh.,layers11. Kat
+ATLANTİS YANINDA SİTEDE ARAKAT GÜNEY CEPHE SATILIK 3+1 DAİRE,3.250.000 TL,weekend3+1,texture145 m2,Ankara - Yenimahalle - Kardelen Mh.,layers2. Kat
+YÜCETEPE MAH FULL+FULL YAPILI 1+1 ARA KAT SATILIK DAİRE,2.750.000 TL,weekend1+1,texture80 m2,Ankara - Çankaya - Yücetepe Mh.,layers1. Kat
+YÜCETEPE MAH FULL+FULL YAPILI 1+1 ARA KAT SATILIK DAİRE,2.750.000 TL,weekend1+1,texture80 m2,Ankara - Çankaya - Yücetepe Mh.,layers1. Kat
+YTM EMLAK'TAN AKŞEMSETTİN MAH'DE 3+1 FULL YAPILI YÜKSEK GİRİŞTE,1.749.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Akşemsettin Mh.,layersYüksek giriş
+YTM EMLAK'TAN AKŞEMSETTİN MAH'DE 3+1 FULL YAPILI YÜKSEK GİRİŞTE,1.749.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Akşemsettin Mh.,layersYüksek giriş
+**YTM EMLAK'TAN MALAZGİRT MAH'DE 3+1 EBEVEYN BANYOLU ARA KATTA**,2.390.000 TL,weekend3+1,texture140 m2,Ankara - Sincan - Malazgirt Mh.,layers2. Kat
+FIRSATLAR MCK'DAN BAŞLIYORR ! GİRİŞ DAİREİSİ ÖZEL TASARIM!,1.849.999 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Kanuni Mh.,layersDüz Giriş (Zemin)
+LOKASYONUN EN İYİSİ SİZLERE SUNUYOR MCK' GAYRİMENKUL ' FARKIYLA,1.658.999 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Kuşcağız Mh.,layersKot 1 (-1). Kat
+2024 'GÜZEL BİR EVİM OLSUN İSTEYENLERE MCK GAYRİMENKUL FARKIYLA,2.950.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Atapark Mh.,layers3. Kat
+BATTALGAZİ MAH. BOSTANCIK CADDE YANI 140m² KATTA 3+1 SIFIR DAİRE,2.090.000 TL,weekend3+1,texture150 m2,Ankara - Altındağ - Battalgazi Mh.,layers2. Kat
+SBELL'DEN EMEK'TE YENİ BİNADA ARA KATTA ÖN CEPHEDE EBEVEYN BANYOL...,6.300.000 TL,weekend2+1,texture110 m2,Ankara - Çankaya - Emek Mh.,layers2. Kat
+SBELL'DEN EMEK'TE YENİ BİNADA 3 BANYOLU 4+1 TERASLI LÜKS SIFIR DU...,7.900.000 TL,weekend4+1,texture160 m2,Ankara - Çankaya - Emek Mh.,layers3. Kat
+Eryaman Mahallesinde Satılık 4+1 Ultra Lüks Daire Goldkey den,4.990.000 TL,weekend4+1,texture185 m2,Ankara - Etimesgut - Eryaman Mh.,layers19. Kat
+SİTE İÇİNDE YAPILI ..3+1 SATILIK DAİRE,3.200.000 TL,weekend3+1,texture130 m2,Ankara - Yenimahalle - Anadolu Mh.,layers8. Kat
+Eryaman Mahallesinde Satılık 4+1 Ultra Lüks Daire Goldkey den,4.990.000 TL,weekend4+1,texture185 m2,Ankara - Etimesgut - Eryaman Mh.,layers19. Kat
+BİRLİK MAHALLESİ 436.CADDE 2.KAT SATILIK 3+1 KUPON DAİRE........,3.050.000 TL,weekend3+1,texture145 m2,Ankara - Çankaya - Birlik Mh.,layers2. Kat
+KALEKIŞLADAN YAPILI SATİLIK 4+1 DUBLEKS,2.750.000 TL,weekend4+1,texture260 m2,Ankara - Mamak - Tuzluçayır Mh.,layers4. Kat
+AŞIKPAŞA CADDESİ ÜSTÜ YENİ BİNADA KAT KONUMUNDA 2++,1.595.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Pınarbaşı Mh.,layers1. Kat
+ ONKOLOJİ HASTANESİ YANI  URANKENT'TE SATILIK 2+1 DAİRE,2.775.000 TL,weekend2+1,texture90 m2,Ankara - Yenimahalle - Mehmet Akif Ersoy Mh.,layers7. Kat
+ EMEKTE 4+1 130 M ²  SATILIK DAİRE ZAFER EMLAKTAN,3.950.000 TL,weekend4+1,texture130 m2,Ankara - Çankaya - Emek Mh.,layersYüksek giriş
+ RÜYA EMLAKTAN KENTSELİN GÖBEĞİN DE GÜRKAN SOK KATTA 3+1 DAİRE ,2.100.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Şenlik Mh.,layers3. Kat
+ZİRAAT MÜHENDİSLERİ SİTESİNDE 3+1 BAKIMLI DAİRE,4.300.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Birlik Mh.,layers7. Kat
+TOPRAK EMLAKTAN ANK KEÇİÖREN AKTEPE MAH DE 2+1 Y.GIRIS DAIRE,1.690.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Aktepe Mh.,layersYüksek giriş
+ RÜYA EMLAKTAN DUTKLUK METROSUNA YAKIN KATTA BAĞIMSIZ 3+1 DAİRE ,1.950.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Uyanış Mh.,layers3. Kat
+ATAPARK GÖBEKTE 3+1 KATTA MASRAFSIZ YÜKSEK M2 YİNE KAPUKAYA'DA,2.245.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Atapark Mh.,layers1. Kat
+ATAPARK GÖBEKTE 3+1 KATTA MASRAFSIZ YÜKSEK M2 YİNE KAPUKAYA'DA,2.245.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Atapark Mh.,layers1. Kat
+KUŞCAĞIZ'IN EN GÜZEL 2+1 DAİRESİ,1.675.000 TL,weekend2+1,texture120 m2,Ankara - Keçiören - Kuşcağız Mh.,layersDüz Giriş (Zemin)
+AKTEPE YEŞİLTEPE MAH KAT BİR 4+1 ASANSÖRLÜ ÇİF BANYO FUL YAPILI,3.350.000 TL,weekend4+1,texture150 m2,Ankara - Keçiören - Yeşiltepe Mh.,layers1. Kat
+  YILMAZ GAYRİMENKULDEN KACIRILMAYACAK  2+1 ACIL FIRSAT DAIRESİ  ...,1.549.000 TL,weekend2+1,texture100 m2,Ankara - Sincan - Tandoğan Mh.,layers2. Kat
+  YILMAZ GAYRİMENKULDEN KACIRILMAYACAK  3+1 ACIL FIRSAT DAIRESİ  ...,1.259.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersBahçe katı
+ HAKAN EMLAK'TAN AKŞEMSETTİN MAH. 3+1 GENİŞ YAPILI KUPON DAİRE!!!...,1.439.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Akşemsettin Mh.,layers4. Kat
+ KARAPÜRÇEK'TE SALI PAZARI YAKINI 3+1 130m² SATILIK SIFIR DAİRE,1.750.000 TL,weekend3+1,texture140 m2,Ankara - Altındağ - Karapürçek Mh.,layersYüksek giriş
+ETLİK VETERİNERLİK YANI YÜKSEK GİRİŞ 2+1 ÖN CEPHE FIRSAT DAİRESİ!...,1.395.000 TL,weekend2+1,texture115 m2,Ankara - Keçiören - Esertepe Mh.,layersYüksek giriş
+AYVALI'DA KENDİNE ÖZEL BAHÇELİ 3+1 AMERİKAN MUTFAK ULTRA LÜX YAPI...,1.930.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Etlik Mh.,layersBahçe katı
+ALTINOVADA 3+1 KATTA SIFIR AYARINDA DAİRE ŞAH EMLAK GÜVENCESİYLE,2.450.000 TL,weekend3+1,texture150 m2,Ankara - Pursaklar - Altınova Mh.,layers4. Kat
+"DİKMEN MALAZGİRT MAH,SİNDE KATTA 1+1 YENİ BİNADA SATILIK DAİRE",1.900.000 TL,weekend1+1,texture65 m2,Ankara - Çankaya - Malazgirt Mh.,layers1. Kat
+"DİKMEN MALAZGİRT MAH,SİNDE KATTA 1+1 YENİ BİNADA SATILIK DAİRE",1.900.000 TL,weekend1+1,texture65 m2,Ankara - Çankaya - Malazgirt Mh.,layers1. Kat
+ARCADİUM KARŞISI MERKEZİ KONUMDA OYAK 6 SİTESİNDE BOŞ DAİRE,5.500.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Prof. Dr. Ahmet Taner Kışlalı Mh.,layers3. Kat
+DİKMEN VE SİNAN CADDESİ YAKINI 1+0 SATILIK DAİRE,990.000 TL,weekendStüdyo,texture30 m2,Ankara - Çankaya - Naci Çakır Mh.,layersDüz Giriş (Zemin)
+BOZKIRDAN  YENİ BİNA DA ÖZEL MİMARİ YAPILI ASANSÖZRLÜ MASRAFSIZ S...,2.650.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Yükseltepe Mh.,layers3. Kat
+ EŞİYOK EMLAKTAN KARAKAYA MAHALESİN DE 4+1.KAT.3  FUL+FUL YAPILI ...,2.990.000 TL,weekend4+1,texture155 m2,Ankara - Keçiören - Karakaya Mh.,layers4. Kat
+ ENGİN EMLAK'TAN SATILIK PURSAKLAR MERKEZDE ASANSÖRLÜ 3+1 DAİRE!!,2.785.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Merkez Mh.,layers1. Kat
+ LEVENT'TEN GENÇ BİNADA KEKLİKPINARI'NDA DİKMEN SOSYETE PAZARI YA...,2.250.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Keklik Pınarı Mh.,layersYüksek giriş
+ OVACIK'TA LÜX YAPILI UYGUN FİYAT 3+1  SIFIR DAİRE.!,3.025.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Ovacık Mh.,layers3. Kat
+ BAHÇELİEVLERDE SATILIK BEŞEVLER YAKINI KAT EKSİKLİ 3+1 ADER'DEN,4.650.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Bahçelievler Mh.,layers2. Kat
+ MARQA'DAN OVACIK MEVKİ KOBLAY YAKINI 4+1 LÜX YAPILI 150m2 DAİRE!,3.199.000 TL,weekend4+1,texture155 m2,Ankara - Keçiören - Yayla Mh.,layers2. Kat
+ OVACIK'da BULVAR YAKINI GENİŞ ULTRA LÜX SATILIK 4+1 DAİRE !!,5.500.000 TL,weekend4+1,texture200 m2,Ankara - Keçiören - Yükseltepe Mh.,layers5. Kat
+ MARQA'DAN OVACIK'DA ÇAMBAŞI CAD. SİTE İÇİNDE FULL YAPILI 3+1 !!!,4.300.000 TL,weekend3+1,texture150 m2,Ankara - Keçiören - Atapark Mh.,layers11. Kat
+ TANER'DEN DİKMEN NAKIŞ SOKAK'TA 3+1 ORTA KAT ÖN CEPHE SÜPER LÜKS,3.575.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Harbiye Mh.,layers2. Kat
+ TANER DEN DİKMEN CADDE ÜZERİNDE MANZARALI EMSALSİZ LÜKS KONUT,4.550.000 TL,weekend3+1,texture160 m2,Ankara - Çankaya - Malazgirt Mh.,layers3. Kat
+ TANER'DEN SOKULLU CADDESİ PARALELİ 3+1 KOMBİLİ OTOPARKLI GİRİŞ K...,2.089.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Sokullu Mehmet Paşa Mh.,layersDüz Giriş (Zemin)
+ GOLD EMLAKTAN ÖZLEM CADDESİNDE ASANSÖRLÜ KATTA YAPILI YÜKSEK KRE...,2.490.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Etlik Mh.,layers1. Kat
+ NASİP EMLAK'TAN 4+1 SİTE İÇERİSİNDE TERAS BALKONLU HESAPLI FIRSA...,3.600.000 TL,weekend4+1,texture180 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+ GOLD EMLAKTAN CADDE ÜSTÜ MERKEZİ YERDE KİRACILIĞA SON 3+1 DAİRE,1.550.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Etlik Mh.,layersDüz Giriş (Zemin)
+ ACİL !! YAYLA MAHALLESİNDE İSTER YATIRIMA İSTER OTURUMA 2+1 100M...,1.389.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Yayla Mh.,layersKot 2 (-2). Kat
+YENİKENT MENDERES'DE SİTE İÇERİSİNDE 3+1 SON KAT SATILIK DAİRE ,2.350.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Menderes Mh.,layers4. Kat
+YENİKENT MENDERES DE SON KATTA YOL CEPHELİ 3+1 SON KAT FIRSAT DAİ...,2.100.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Menderes Mh.,layers4. Kat
+ ES-AS'TAN SARAYCIK MH 4+1 E.BANYOLU ASANSÖRLÜ SATILIK DAİRE,3.950.000 TL,weekend4+1,texture180 m2,Ankara - Sincan - Saraycık Mh.,layers9. Kat
+ LEVENT'TEN DİKMEN HÜRRİYET CADDESİNDE ÇETİNEMEÇ BULVARI YAKINI 2...,2.250.000 TL,weekend2+1,texture115 m2,Ankara - Çankaya - Harbiye Mh.,layersDüz Giriş (Zemin)
+SİNCAN SARAYCIK MH3+1 ARA KATA BAĞIMSIZ ÖNCEPHE FUL YAPILI DAİRE,2.869.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Saraycık Mh.,layers1. Kat
+ Ankara Polatlı Şentepe Mahallesi 4+1 ve 3+1 Satılık Sıfır Dairel...,2.750.000 TL,weekend4+1,texture160 m2,Ankara - Polatlı - Şentepe Mh.,layers3. Kat
+ Ankara Polatlı Kurtuluş Mahallesi Arakat 3+1 Satılık Daire,1.850.000 TL,weekend3+1,texture135 m2,Ankara - Polatlı - Kurtuluş Mh.,layers2. Kat
+ ^^CADDE EMLAK'TAN GİRİŞ KATTA YAPILI 3+1 SATILIK DAİRE^^,1.639.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Akşemsettin Mh.,layersBahçe katı
+ SİNCAN SARAYCIK MAH DE GEL GÖR AL MEGA LÜX YAPILI  0 BİNA ASANSÖ...,3.950.000 TL,weekend4+1,texture165 m2,Ankara - Sincan - Saraycık Mh.,layers9. Kat
+ KIZILAYIN MERKEZİNDE CADDE ÜZERİNDE 3+1 DAİRE SATIŞTA KAÇIRMAYIN,3.850.000 TL,weekend3+1,texture140 m2,Ankara - Çankaya - Kocatepe Mh.,layers4. Kat
+ ANKALİFE'TAN AKTAŞ TOKİDE YATIRIMLIK SATILIK 3+1 DAİRE,1.777.000 TL,weekend3+1,texture120 m2,Ankara - Altındağ - Gültepe Mh.,layers5. Kat
+" ŞEN EVLER SİTESİ'NDE 4+1 BAKIMLI, GENİŞ SATILIK DAİRE",6.750.000 TL,weekend4+1,texture220 m2,Ankara - Yenimahalle - Serhat Mh.,layers4. Kat
+ ÜNSAL'DAN | SÜVARİ MAH.'DE | 3+1 | FUL+FUL | ÖN CEPHE | İSKANLI,2.295.000 TL,weekend3+1,texture125 m2,Ankara - Etimesgut - Süvari Mh.,layers1. Kat
+ SR EMLAK'TAN SİNCAN ERTUĞRUL GAZİ MAH'DE 3+1 110m² BAĞIMSIZ YAPI...,2.099.000 TL,weekend3+1,texture115 m2,Ankara - Sincan - Ertuğrulgazi Mh.,layersDüz Giriş (Zemin)
+ SR EMLAK'TAN SİNCAN MAREŞAL ÇAKMAK MAH'DE 3+1 125 m² ÖN CEPHE MA...,1.630.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersYüksek giriş
+ SR EMLAK'TAN ANDİÇEN MAH'DE 4+1 220 m² BAĞIMSIZ ÖN CEPHE ULAŞIMA...,2.000.000 TL,weekend4+1,texture225 m2,Ankara - Sincan - Andiçen Mh.,layers4. Kat
+ ZİYA GÖKALP CADDESİNE YAKIN ARA KATTA 4+1 DAİRE SATIŞTA,3.720.000 TL,weekend4+1,texture140 m2,Ankara - Çankaya - Kültür Mh.,layers2. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN 5.KAT 3+1 MANZARALI GUYGUN FİY...,3.750.000 TL,weekend3+1,texture165 m2,Ankara - Pursaklar - Yunus Emre Mh.,layers5. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN 3+1 1.KAT FATİH MAH. FUL YAPIL...,3.050.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Fatih Mh.,layers1. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN 3.KAT 3+1 İÇİ SIFIRTAN YAPILI ...,2.225.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Yunus Emre Mh.,layers3. Kat
+ ROTA GAYRİMENKUL'DEN İSTİLKAK  MAHALLESİ 2+1 SATILIK FIRSAT DAİR...,1.550.000 TL,weekend2+1,texture110 m2,Ankara - Polatlı - İstiklal Mh.,layers7. Kat
+" LEVENT'TEN SİNAN CADDESİNE BİR BİNA MESAFEDE 3+1,120M2 ÖN CEPHE ...",3.450.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Naci Çakır Mh.,layers3. Kat
+ESAT CADDESİNDE MUHTEŞEM KONUMDA SATILIK DAİRE,3.350.000 TL,weekend2+1,texture125 m2,Ankara - Çankaya - Esatoğlu Mh.,layers5. Kat
+ EMEKTE SATILIK LÜKS 2+1 MİLLİ KÜTÜPHANE YAKINI ADER'DEN,3.000.000 TL,weekend2+1,texture70 m2,Ankara - Çankaya - Emek Mh.,layersKot 1 (-1). Kat
+POLATLI ZAFERDE 3+1/110MK. DGAZLI ZEMİN KAT DAİRE,730.000 TL,weekend3+1,texture115 m2,Ankara - Polatlı - Zafer Mh.,layersBodrum Kat
+SİNCAN OSMANLI MAH 3.ARAKAT ÖN CEPHE SITE İÇİNDE MASRAFSIZ DAİRE,2.229.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Osmanlı Mh.,layers3. Kat
+TOPRAK EMLAKTAN ANK KEÇİÖREN ÇALDIRAN MAH DE 3+1 120 M2 DAIRE,1.840.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Çaldıran Mh.,layers3. Kat
+ NASİP EMLAK'TAN SATILIK 3+1 ÇİFT BALKONLU FULL YAPILI DAİRE,2.250.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Yunus Emre Mh.,layers3. Kat
+ NASİP EMLAK SATILIK 4+1 SİTE İÇERSİNDE TERAS BALKONLU KAPALI GAR...,3.250.000 TL,weekend4+1,texture195 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+ ÇAĞLAYAN'DA MERKEZİ KONUMLU BAHÇELİ 3+1 YATIRIMLIK DAİRE!,1.345.000 TL,weekend3+1,texture125 m2,Ankara - Mamak - Çağlayan Mh.,layersKot 1 (-1). Kat
+SİNCAN MARAŞALÇAKMAK MAH 2.ARAKAT ÖN CEPHE SALON BAGIMSIZ DAİRE,1.999.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers2. Kat
+312 | YUVAMPARK SİTESİNDE SATILIK SIFIR 4+1 DAİRE,8.100.000 TL,weekend4+1,texture210 m2,Ankara - Çankaya - Konutkent Mh.,layers2. Kat
+312 | TEONA ÜMİTKÖY 'DE SATILIK 4+1 GÜNEY CEPHE DAİRE,13.500.000 TL,weekend4+1,texture210 m2,Ankara - Çankaya - Ümit Mh.,layers23. Kat
+ SERDAR EMLAK TAN 3 + 1 2. KAT GÜNEY DOĞU CEPHE GENİŞ MASRAFSIZ S...,1.750.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Tevfik İleri Mh.,layers2. Kat
+ TIP FAKÜLTESİ CADDE ÜZERİ ASANSÖRLÜ FULL YAPILI DAİRE ,3.500.000 TL,weekend3+1,texture150 m2,Ankara - Mamak - Balkiraz Mh.,layers3. Kat
+ CİHANDAN BARIŞTEPE MAH CADDE ÜZERİNDE 3+1 GENİŞ DAİRE,3.650.000 TL,weekend3+1,texture145 m2,Ankara - Yenimahalle - Barıştepe Mh.,layers3. Kat
+ TEPEBAŞI FOÇA SOK.'DA KATTA 3+1 MASRAFSIZ YATIRIMA UYGUN KAÇMAZ,1.879.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Tepebaşı Mh.,layers3. Kat
+ MESKEN'DEN 23 NİSAN MAH Y.GİRİŞ 3+1 MASRAFSIZ FIRSATT DAİREE ACİ...,1.535.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - 23 Nisan Mh.,layersYüksek giriş
+SİNCAN ATATÜRK MAH 13 YILLIK 135M2 GENİŞ MASRAFSIZ SATILIK DAİRE,2.490.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Atatürk Mh.,layers3. Kat
+ ROTA GAYRİMENKUL'DEN ŞEHİTLİK MAHALLESİ 4+1 SATILIK FIRSAT DAİRE,3.100.000 TL,weekend4+1,texture200 m2,Ankara - Polatlı - Şehitlik Mh.,layers10. Kat
+YENİMAHALLE ERGAZİ MAHALLESİ ÇİFT BLOKLU SİTEDE 1+1 SATILIK REZİD...,2.225.000 TL,weekend1+1,texture55 m2,Ankara - Yenimahalle - Ergazi Mh.,layers11. Kat
+ EFSANE'DEN KUŞCAĞIZDA YAPILI  SATILIK DAİRE,2.289.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Kuşcağız Mh.,layers3. Kat
+ MEHTAP'TA OKULLAR CADDESİ ÜZERİNDE 3+1 YÜKSEK GİRİŞ MASRAFSIZ SA...,1.650.000 TL,weekend3+1,texture105 m2,Ankara - Mamak - Mehtap Mh.,layers3. Kat
+ SYM GAYRİMENKUL'DEN  MAREŞAL ÇAKMAK MAH. ARA KATTA LÜX YAPILI 3+...,2.249.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layers2. Kat
+ AKTAŞ TOKİDE YATIRIMLIK SATILIK 3+1 DAİRE,2.250.000 TL,weekend3+1,texture120 m2,Ankara - Altındağ - Gültepe Mh.,layers5. Kat
+ İnönü Velux Yakını Lüx Yapılı 3+1 Daire,3.900.000 TL,weekend3+1,texture120 m2,Ankara - Yenimahalle - İnönü Mh.,layers3. Kat
+ EFSANE'DEN KUŞCAĞIZ'DA FIRSAT DAİRESİ,1.990.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Kuşcağız Mh.,layers2. Kat
+ (750) ÇAVDEMDEN KUŞÇAĞIZDA KAT KONUMUNDA ALTINDA DAİRE OLAN FIRS...,1.349.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Kuşcağız Mh.,layersKot 2 (-2). Kat
+⫷CERENÜNLÜ⫸EGE MAH SİTEDE ULTRALÜX 3+1 SATILIK DAİRE,4.270.000 TL,weekend3+1,texture155 m2,Ankara - Mamak - Ege Mh.,layers2. Kat
+ (749) ÇAVDEMDEN KÖŞK MAHALLESİNDE UYGUN FİYATA YAPILI 2+1 BOŞ DA...,1.050.000 TL,weekend2+1,texture90 m2,Ankara - Keçiören - Köşk Mh.,layersKot 1 (-1). Kat
+ RELAX'TAN G.T.S. CAD. ÜZERİ BAĞIMSIZ 3+1 ANKARA MANZARALI FIRSAT,2.890.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layers3. Kat
+YENİMAHALLE YENİBATI BATI YILDIZI KONUTLARINDA 4+1 FULL DONATILI ...,5.750.000 TL,weekend4+1,texture190 m2,Ankara - Yenimahalle - Yeni Batı Mh.,layers8. Kat
+ RELAX'TAN Y.AYVALI'DA HER BÜTÇEYE UYGUN SIFIR DAİRELER SİZLERLE!,3.099.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Ayvalı Mh.,layers1. Kat
+TERAS 4+2 DAİRE,6.500.000 TL,weekend4+2,texture300 m2,Ankara - Mamak - Fahri Korutürk Mh.,layers14. Kat
+SİNCAN ATATÜRK MH2+1 ÖNCEPHE YAPILI EŞYALI MERKEZİ KONUMLU DAİRE,1.499.000 TL,weekend2+1,texture110 m2,Ankara - Sincan - Atatürk Mh.,layersBahçe katı
+ TÖREKENETTE SİTE İÇİ SATILIK ARAKAT 3+1 FIRSAT DAİRESİ,2.799.000 TL,weekend3+1,texture155 m2,Ankara - Sincan - Törekent Mh.,layers8. Kat
+ AYVALI SEVAL CADDESİ PARALELİNDE ARA KATTA MERKEZİ KONUMDA SATIL...,2.299.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Ayvalı Mh.,layers1. Kat
+ACİL SATILIK 3 +1 CADDE CEPHELİ ARAKAT DAİRE ,1.690.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Malazgirt Mh.,layers1. Kat
+PEKTAŞLAR'DAN BEYAZ SEVENLERE ÖZEL !!! ARA KAT SIFIR 3+1 LÜX DAİR...,3.150.000 TL,weekend3+1,texture150 m2,Ankara - Sincan - Menderes Mh.,layers4. Kat
+ KEÇİÖREN KARAKAYADA KATTA PARK KARŞISI ULTRA LÜX SIFIR 3+1 DAİRE,2.550.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Karakaya Mh.,layers1. Kat
+ AHİ EVRAN MH.DE 3+1 110M2BAĞIMSIZ ÖN CEPHE YAPILI ULAŞIMA DAİRE,1.295.000 TL,weekend3+1,texture115 m2,Ankara - Sincan - Ahi Evran Mh.,layersBahçe katı
+ MEHMET ÖZDEMİR'DEN MUSTAFA KEMAL MAH. BALKONLU GENİŞ 2+1 SÜPER İ...,1.650.000 TL,weekend2+1,texture130 m2,Ankara - Sincan - Mustafa Kemal Mh.,layersYüksek giriş
+ EŞSİZ ŞEHİR MANZARALI ÇİFT MUTFAK & 3 BANYOLU 250m² 4+1 DUBLEKS,4.899.000 TL,weekend4+1,texture250 m2,Ankara - Keçiören - Sancaktepe Mh.,layers4. Kat
+ MEHMET ÖZDEMİR'DEN MUSTAFA KEMAL MAH. 3+1 EBEVEYN BANYOLU ÇİFT B...,2.299.000 TL,weekend3+1,texture145 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers4. Kat
+ KEÇİÖREN AYVALI' DA SATILIK 3+1 DUBLEKS DAİRE,2.550.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Ayvalı Mh.,layersÇatı Dubleks
+ SİNCAN SELÇUKLU MH. KAT KONUMLU 3+1 GENİŞ YAPILI YÜKSEK GİRİŞ BU...,1.249.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Selçuklu Mh.,layersYüksek giriş
+ *EMLAK KÜPÜ* ETİMESGUT YEŞİLOVA MAH'DE ARA KATTA SİTE İÇİNDE ASA...,2.750.000 TL,weekend2+1,texture95 m2,Ankara - Etimesgut - Yeşilova Mh.,layers2. Kat
+ *EMLAK KÜPÜ* ETİMESGUT AHİ MESUT MAH'DE ARA KATTA KAPALI HAVUZA ...,4.550.000 TL,weekend4+1,texture200 m2,Ankara - Etimesgut - Ahi Mesut Mh.,layers3. Kat
+ DİKİMEVİ CEBECİ'DE METROYA ÇOK YAKIN KISMEN YAPILI 3+1 100M2 SAT...,1.650.000 TL,weekend3+1,texture100 m2,Ankara - Çankaya - Cebeci Mh.,layers1. Kat
+ MUTLU MAH. MUTLU CADDESİNE YAKIN FUL YAPILI 2+1 SATILIK DAİRE...,1.299.999 TL,weekend2+1,texture100 m2,Ankara - Mamak - Mutlu Mh.,layersKot 2 (-2). Kat
+ ETLİK SANCAKTEPE GÖBEKTE 3.KAT KONUMUNDA ASANSÖRLÜ MASRAFSIZ 3+1,1.749.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Sancaktepe Mh.,layersKot 1 (-1). Kat
+ ATAPARK GÖBEK'DE EŞYALI SATILIK 20BİN KİRACILI YATIRIM FIRSATI!,1.449.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Atapark Mh.,layersKot 2 (-2). Kat
+ ÜNSAL'DAN | TOPÇU MAH.'DE | 3.KAT 2+1 | ISI YALITIMLI | İSKANLI,1.575.000 TL,weekend2+1,texture100 m2,Ankara - Etimesgut - Topçu Mh.,layers3. Kat
+ GÜNEŞEVLERDE MÜTEAHHİTTEN ÇİFT ASANSÖRLÜ SİTE DAİRELERİ (YAN YAN...,5.350.000 TL,weekend3+1,texture159 m2,Ankara - Altındağ - Güneşevler Mh.,layers6. Kat
+ KOMİSYONSUZ ÜRETİCİDEN 2ASANSÖRLÜ SİTE DAİRELERİ KOMBİLİ EMSALSİ...,4.000.000 TL,weekend3+1,texture160 m2,Ankara - Altındağ - Güneşevler Mh.,layers1. Kat
+ ÜMİTKÖY ÇAMLICA VADİ SİTESİNDE SÜPER KONUMDA 3+1 SATILIK DAİRE,5.200.000 TL,weekend3+1,texture150 m2,Ankara - Çankaya - Ümit Mh.,layers4. Kat
+ *** DİKMEN CADDESİ MANZARA EVLERİ MUHTEŞEM DUBLEKS ***,10.865.000 TL,weekend5+2,texture330 m2,Ankara - Çankaya - Osman Temiz Mh.,layers9. Kat
+ SEVİLAY EMLAK'TAN OVACIK SİTE İÇERİSİNDE AKILLI BİNA3+1 + KİLER ...,4.500.000 TL,weekend3+1,texture200 m2,Ankara - Keçiören - Ovacık Mh.,layers13. Kat
+ MESKEN'DEN MECİDİYE MERKEZDE 2+1 MASRAFSIZ KAÇIRILMAZ FIRSAT DAİ...,1.369.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Şefkat Mh.,layersKot 1 (-1). Kat
+ *** ÖVEÇLERDE 5+1 YAPILI MUHTEŞEM DUBLEKS ****,4.250.000 TL,weekend5+1,texture250 m2,Ankara - Çankaya - Öveçler Mh.,layers3. Kat
+ *EMLAK KÜPÜ* ETİMESGUT BAĞLICA MAH'DE 4+1 175m² ARA KATTA FULL Y...,6.290.000 TL,weekend4+1,texture190 m2,Ankara - Etimesgut - Bağlıca Mh.,layers3. Kat
+ KUZEY EMLAK'TAN PURSAKLAR MERKEZDE CADDE CEPHELİ ORTA KAT DAİRE,2.150.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Merkez Mh.,layers2. Kat
+GENERAL ZEKİ DOĞAN MAH 3+1 110 M2 ARA KATTA YAPILI SATILIK DAİRE ...,1.500.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - General Zeki Doğan Mh.,layers1. Kat
+ Aşağı Eğlence Mestan Sokakta Manzaralı Yapılı 3+1,3.550.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layers4. Kat
+ ÜNSAL'DAN | AYYILDIZ'DA | SÜPER DAİRE | 4.KAT 3+1 165M2 | ÇİFT B...,4.075.000 TL,weekend3+1,texture145 m2,Ankara - Etimesgut - Ayyıldız Mh.,layers4. Kat
+ KUZEY'DEN YAŞAMINIZA TARZ KATACAK PROJE'DE 4+1 SATILIK DAİRE,3.990.000 TL,weekend4+1,texture185 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+ MEHMET ÖZDEMİR'DEN FEVZİ ÇAKMAK MAH. 3+1 FULL YAPILI ANKASTRELİ ...,2.640.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers1. Kat
+ ÖNÜNDE YANINDA ESKİ BİNA PARK DİYE ÖNÜ KAPANACAK BİNALARLA YANIL...,3.790.000 TL,weekend3+1,texture160 m2,Ankara - Altındağ - Güneşevler Mh.,layers3. Kat
+ MEHTAP MAHALLESİNDE BAĞIMSIZ SALON SATILIK DAİRE ankara manzaral...,1.300.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Mehtap Mh.,layers2. Kat
+ ÇARŞI'DAN OVACIK'DA SİTE'DE 4+1 EBEVEYN BANYOLU YÜKSEK KAT FUL Y...,4.850.000 TL,weekend4+1,texture200 m2,Ankara - Keçiören - Ovacık Mh.,layers13. Kat
+ KARİYER'DEN SANCAKTEPE'DE 1.KAT YENİ BİNA ASANSÖRLÜ 3+1 DAİRE!!!,2.280.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Sancaktepe Mh.,layers1. Kat
+ İNCİRLİ KİLYOS SK'TA 2+1 ISI YALITIMLI YERDEN YÜKSEK ÇİFT BALKON,1.275.000 TL,weekend2+1,texture105 m2,Ankara - Keçiören - 19 Mayıs Mh.,layersKot 3 (-3). Kat
+ KUŞCAĞIZ'DA CADDE ÜZERİ BAĞIMSIZ ARA KATTA FULL YAPILI 3+1 DAİRE...,1.890.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Kuşcağız Mh.,layers2. Kat
+ ESERTEPE CADDE ÜZERİ ÖN CEPHE 120m2 UYGUN FİYATLI LÜX TASARIMLI ...,1.885.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Esertepe Mh.,layersDüz Giriş (Zemin)
+RW UĞURLU'DAN ÜMİTKÖY MERKEZ'DE BAHAR SİTESİ'NDE SATILIK 3+1,5.700.000 TL,weekend3+1,texture145 m2,Ankara - Çankaya - Ümit Mh.,layers1. Kat
+ REFİK SAYDAM CAD. YAKINI MERKEZİ KONUM 3+1 FULL YAPILI BALKONLU,1.349.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - İncirli Mh.,layersKot 1 (-1). Kat
+CB PREMIUM'DAN ÖVEÇLER LİZBON CADDESİ PARALELİ SATILIK 3+1 DAİRE,4.750.000 TL,weekend3+1,texture142 m2,Ankara - Çankaya - Aşağı Öveçler Mh.,layers3. Kat
+"CB PREMIUM'DAN MASRAFSIZ,KİLERLİ SATILIK LÜX 3,5+1 DAİRE",4.790.000 TL,weekend3.5+1,texture185 m2,Ankara - Yenimahalle - Turgut Özal Mh.,layers8. Kat
+ ATALAY EMLAKTAN CADDE YAKINI MASRAFSIZ DAİRE,1.580.000 TL,weekend2+1,texture105 m2,Ankara - Keçiören - Esertepe Mh.,layersKot 2 (-2). Kat
+ KEÇİÖREN YAYLA MAHALLESİNDE CADDE ÜZERİ 2+1 DAİRE,1.580.000 TL,weekend2+1,texture105 m2,Ankara - Keçiören - Yayla Mh.,layersKot 2 (-2). Kat
+ YOK BU FİYATA BÖYLE BİR DAİRE! KANUNİ MAHALLESİNDE 5+1 KUPON DAİ...,1.599.000 TL,weekend5+1,texture230 m2,Ankara - Keçiören - Kanuni Mh.,layersYüksek giriş
+ÇANKAYA ALACAATLI PARK CADDESİ 240M2 4+1 KAT'TA TEK AKILLI EŞSİZ ...,14.500.000 TL,weekend4+1,texture255 m2,Ankara - Çankaya - Alacaatlı Mh.,layers4. Kat
+OSMANLI İŞ MERKEZİ YANI GÜNEY CEPHE YATIRIMA UYGUN 3+1 DAİRE,2.000.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layers3. Kat
+UFUKTEPE BAŞKENT CADDESİNDE YENİ BİNADA KİLERLİ FULL YAPILI 3+1 G...,2.889.000 TL,weekend3+1,texture150 m2,Ankara - Keçiören - Kanuni Mh.,layers2. Kat
+acil satılık kelepir daire ,1.350.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layers2. Kat
+BAHÇELİ 1.CADDE ÜZERİNDE  2+1 GİRİŞ ÖN,2.650.000 TL,weekend2+1,texture70 m2,Ankara - Çankaya - Yukarı Bahçelievler Mh.,layersYüksek giriş
+"SATILIK, ATAKULEYE 300 METRE UZAKLIKTA, 2+1, TAKAS OLUR",1.920.000 TL,weekend2+1,texture85 m2,Ankara - Çankaya - Yıldızevler Mh.,layersDüz Giriş (Zemin)
+"SATILIK, AYRANCI AHMET MİTHAT EFENDİ SOKAKTA BAHÇE KATI 2+1",1.940.000 TL,weekend2+1,texture100 m2,Ankara - Çankaya - Güzeltepe Mh.,layersBahçe katı
+SİNCAN İSTASYON'DA ARA KAT ÖN CEPHE 3+1 SATILIK DAİRE,1.355.000 TL,weekend3+1,texture115 m2,Ankara - Sincan - İstasyon Mh.,layers1. Kat
+RELAX'TAN AYVALI CADDESİNDE KAT KONUMUNDA 2+1 FULL YAPILI FIRSAT,1.699.000 TL,weekend2+1,texture105 m2,Ankara - Keçiören - Etlik Mh.,layersKot 1 (-1). Kat
+UYGUN EMLAK'TAN FATİH  MAHALLESİNDE 1. KAT 3+1 FULL YAPILI,2.390.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Merkez Mh.,layers2. Kat
+UYGUN EMLAK'TAN MERKEZ'DE ASANSÖRLÜ 3+1 1.KAT 3+1 120 M²,2.785.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Merkez Mh.,layers2. Kat
+"MESA İKİZLER SİT,UĞURMUMCUCAD,MİGROSA50MT,4.KAT,3+1,7/24GÜVENLİK",4.475.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Büyükesat Mh.,layers4. Kat
+GÖLBAŞI BAHÇELİEVLER'DE MERKEZİ KONUMDA 3+1 SATILIK DAİRE,5.900.000 TL,weekend3+1,texture140 m2,Ankara - Gölbaşı - Seğmenler Mh.,layers2. Kat
+ SATILIK 3+1 SÜPER LÜKS ANKARA MANZARALI 5.KAT YÜKSEKLİĞİNDE YÜKS...,3.690.000 TL,weekend3+1,texture150 m2,Ankara - Keçiören - Sancaktepe Mh.,layersYüksek giriş
+KEÇİÖRENDE BOTANİK PARK MANZARALI FULL YAPILI MASRAFSIZ 3+1,2.669.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Karakaya Mh.,layers3. Kat
+MAMAK ÇAĞLAYAN MAH'DE ARA KAT GENİŞ KULLANIMLI 3+1 DAİRE,1.950.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Çağlayan Mh.,layers2. Kat
+MAMAK AKŞEMSETTİN MH FULL MANZARALI GENİŞ TERAS+2 BALKON 3+1,2.385.000 TL,weekend3+1,texture175 m2,Ankara - Mamak - Akşemsettin Mh.,layers5. Kat
+ RÜYA EMLAKTAN OSMANGAZİ MH KATTA BAĞIMSIZ 3+1 DAİRE ,2.150.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Osmangazi Mh.,layers2. Kat
+ RÜYA  EMLAK CALDIRAN MAH CADDEYE YAKINN KATTA 3+1 DAİRE,1.780.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Çaldıran Mh.,layers3. Kat
+ RÜYA EMLAKTAN KANUNİ MH ASANSÖRLÜ KATTA 3+1 DAİRE ,2.400.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Kanuni Mh.,layers4. Kat
+ÇANKAYA KIRKKONAKLAR'DA Studio Plus Evleri SATILIK 1+1,2.600.000 TL,weekend1+1,texture70 m2,Ankara - Çankaya - Kırkkonaklar Mh.,layersYüksek giriş
+KIRKKONAKLAR ÇAĞDAŞ YAKINI BAHÇE KATI BAHÇE ÇIKIŞLI SATILIK 3+1,2.570.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Kırkkonaklar Mh.,layersBahçe katı
+VURAL EMLAKTAN ARA KATTA 2+1 İSKANLI YILIN SON FIRSATI 125m2,1.729.000 TL,weekend2+1,texture125 m2,Ankara - Sincan - Menderes Mh.,layers1. Kat
+BAHÇELİEVLERDE TAM KAT EKSİKLİ BİNADA 3+1 BALKONLU ÜÇ CEPHELİ BOŞ...,2.800.000 TL,weekend3+1,texture130 m2,Ankara - Çankaya - Bahçelievler Mh.,layersBahçe katı
+" GOP BİLLUR SOKAKTA FUL YAPILI , KULLANIŞLI, ŞIK FIRSAT DAİRE",2.150.000 TL,weekend2+1,texture95 m2,Ankara - Çankaya - Murat Mh.,layersKot 3 (-3). Kat
+ANKARA PURSAKLAR SARAY CUMHURİYET MAHALLESİ SATILIK DAİRE VARDIR ...,3.700.000 TL,weekend4+1,texture250 m2,Ankara - Pursaklar - Saray Cumhuriyet Mh.,layers1. Kat
+Ankara Pursaklar tebbesum parkın orda 1.800.000&3.200.000🏢,1.800.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Fatih Mh.,layers1. Kat
+ETİMESGUT TOPCU MH.2+1 KATTA SATİLİK DAİRE,1.570.000 TL,weekend2+1,texture105 m2,Ankara - Etimesgut - Topçu Mh.,layers3. Kat
+ KEÇİÖRENDE 8+2 4+1 ALTI 4+1 ÜSTÜ ÇİFT GİRİŞLİ İSKANLI DUBLEKS,3.990.000 TL,weekend8+2,texture300 m2,Ankara - Keçiören - Karakaya Mh.,layersÇatı Dubleks
+MOGAN GÖLÜNE YAKIN 3+1 KİLER + EBEVEYN BANYOLU GENİŞ DAİRE,2.500.000 TL,weekend3+1,texture140 m2,Ankara - Gölbaşı - Gaziosmanpaşa Mh.,layersYüksek giriş
+1.KATTA SATILIK NORMAL AYRI MUTFAKLI 2+1 NET 80 M2 DAİRE,3.150.000 TL,weekend2+1,texture94 m2,Ankara - Gölbaşı - İncek Mh.,layers1. Kat
+"SATILIK,ZİRVEKENT,MANOLYA'DA 3+1,PEYZAJ MANZARALI DAİRE",9.500.000 TL,weekend3+1,texture180 m2,Ankara - Çankaya - Birlik Mh.,layersYüksek giriş
+ ŞOK ŞOK ŞOK!! ESERTEPE'DE MUHTEŞEM TASARIMIYLA 3+1 FIRSAT DAİRE,1.839.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Esertepe Mh.,layersYüksek giriş
+TURYAP'TAN AKPINAR MH. DOĞA VE ŞEHİR MANZARALI TERAS KAT STLK,3.075.000 TL,weekend2+1,texture175 m2,Ankara - Çankaya - Akpınar Mh.,layersÇatı katı
+İSTASYON MAHALLESİNDE FULL YAPILI ASANSÖRLÜ DUBLEX META GM DE,2.990.000 TL,weekend3+1,texture140 m2,Ankara - Etimesgut - İstasyon Mh.,layers3. Kat
+UFUK'TAN SANATORYUM CD ÜZERİ BAĞIMSIZ BALKONLU LÜX YAPILI 3+1,1.879.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Tepebaşı Mh.,layersDüz Giriş (Zemin)
+ ETLİK ŞEHİR HASTANESİ YAKINI 7/24 GÜVENLİKLİ SİTE İÇERİSİNDE 3+1,2.625.000 TL,weekend3+1,texture135 m2,Ankara - Yenimahalle - Pamuklar Mh.,layers13. Kat
+Erpa dan Cebeci metro yakını,3.250.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Ertuğrulgazi Mh.,layers3. Kat
+ MAMAKTA CADDE ÜZERİNDE SIFIR FULL YAPILI SATILIK 2.5+1 DAİRE,2.850.000 TL,weekend2.5+1,texture110 m2,Ankara - Mamak - Akşemsettin Mh.,layers1. Kat
+GÖZ KAMAŞTIRAN TASARIMIYLA ANA CADDEYE YÜRÜME MESAFESİNDE,2.839.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Karakaya Mh.,layers1. Kat
+ CADDE ÜZE4RİNDE SIFIR FULL YAPILI SATILIK 3+1 DAİRE,3.950.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Akşemsettin Mh.,layers3. Kat
+ KEÇİÖREN 19 MAYIS MH'DE YUNUSEMRE CD.YAKINI KAT KONUMUNDA 3+1 DA...,1.549.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - 19 Mayıs Mh.,layersYüksek giriş
+ IŞIL EMLAKTAN TEZKONAK SITESINDE 3+1 SATILIK DAIRE,2.580.000 TL,weekend3+1,texture117 m2,Ankara - Etimesgut - Güzelkent Mh.,layers2. Kat
+ KUŞCAĞIZ MAH CAD YEAKINI 3+1 1. KAT KREDİYE UYGUN FIRSAT DAİRESİ...,1.449.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Kuşcağız Mh.,layers1. Kat
+ IŞIL EMLAKTAN ERYAMAN MAVİÇAM SİTESİNDE YAPILI 3+1 SATILIK DAİRE,2.650.000 TL,weekend3+1,texture130 m2,Ankara - Etimesgut - Tunahan Mh.,layersYüksek giriş
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN MERKEZDE ASANSÖRLÜ PROTOKOL YO...,2.590.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Merkez Mh.,layers2. Kat
+ PURSAKLAR MEHMET ZENGİN EMLAK'TAN ASANSÖRLÜ 4.KAT 3+1 SİTE İÇİND...,2.790.000 TL,weekend3+1,texture145 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers4. Kat
+ GAMZE EMLAK'TAN AKŞEMSETTİN'DE 3+1 MASRAFSIZ MERKEZİ KONUMA YAKI...,1.619.000 TL,weekend3+1,texture115 m2,Ankara - Sincan - Akşemsettin Mh.,layersYüksek giriş
+ TANER'DEN ÖVEÇLER 4.CADDE YANI 3+1+KİLER EBEVEYN BANYOLU SÜPER L...,3.650.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Aşağı Öveçler Mh.,layers3. Kat
+ SR EMLAK'TAN ETİMESGUT OĞUZLAR MAH'DE 3+1 120m² ARA KATTA ÖN CEP...,2.470.000 TL,weekend3+1,texture125 m2,Ankara - Etimesgut - Oğuzlar Mh.,layers4. Kat
+ ES-AS'TAN TANDOĞAN MAHALLESİNDE 3+1 HARİKA KONUMDA SATILIK DAİRE,1.450.000 TL,weekend3+1,texture128 m2,Ankara - Sincan - Tandoğan Mh.,layers2. Kat
+ SR EMLAK'TAN SİNCAN MAREŞAL ÇAKMAK MAH'DE 2+1 100m² BAĞIMSIZ ULA...,1.289.000 TL,weekend2+1,texture105 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersBahçe katı
+ SR EMLAK'TAN SİNCAN SELÇUKLU MAH'DE 6+1 275m² KATTA ÖN CEPHE ULA...,2.200.000 TL,weekend6+1,texture280 m2,Ankara - Sincan - Selçuklu Mh.,layersÇatı Dubleks
+ DİKMEN KEKLİK PINARINDA SATILIK 5+1 GENİŞ TERASLI DUBLEX DAİRE,4.900.000 TL,weekend5+1,texture300 m2,Ankara - Çankaya - Keklik Pınarı Mh.,layersÇatı Dubleks
+ BAĞLIM CAD ÜSTÜ ASANSÖRLÜ 4. KAT MASRAFSIZ FIRSAT DAİRESİ ,1.649.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Karakaya Mh.,layers4. Kat
+ TANER'DEN SOKULLU NİMET SOKAK'TA 3+1 SALON BAĞIMSIZ FULL YAPILI ...,2.545.000 TL,weekend3+1,texture115 m2,Ankara - Çankaya - Sokullu Mehmet Paşa Mh.,layersYüksek giriş
+ KOÇ-KAR GRUPTAN 2+1 MERKEZİ LOKASYONDA SIFIR DAİRE,2.000.000 TL,weekend2+1,texture110 m2,Ankara - Pursaklar - Fatih Mh.,layers5. Kat
+YILIN SON FIRSATI ÇANKAYADA SATILIK 3+1 KENTSEL DÖNÜŞÜMDE DAİRE,2.000.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - Dilekler Mh.,layers2. Kat
+ SİNCAN SELÇUKLU MAH'DE 3+1 ARA KATTA FULL YAPILI SATILIK DAİRE,1.949.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Selçuklu Mh.,layers1. Kat
+ ETİMESGUT ŞEHİT OSMAN AVCI MAHALLESİ İKİ BLOKLU SİTEDE 2+1 SATIL...,3.700.000 TL,weekend2+1,texture110 m2,Ankara - Etimesgut - Şehit Osman Avcı Mh.,layers11. Kat
+KARAPÜRCEKTE SIFIR KAT 1 DE 3+1,2.390.000 TL,weekend3+1,texture130 m2,Ankara - Altındağ - Karapürçek Mh.,layers1. Kat
+ŞAHİNTEPE MAH YÜKSEK GİRİŞ 3+1,1.498.000 TL,weekend3+1,texture90 m2,Ankara - Mamak - Şahintepe Mh.,layersYüksek giriş
+KARAPURCEK TE 1.KAT 3+1,2.200.000 TL,weekend3+1,texture115 m2,Ankara - Altındağ - Karapürçek Mh.,layers1. Kat
+BADEMLİK MAH CADDE YAKINI 3+1 1. KAT FULL+FULL FIRSAT DAİRESİ ,2.649.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Bademlik Mh.,layers1. Kat
+ KEÇİÖREN İNCİRLİ'DE CADDE YAKINI ISI YALITIMLI KİLERLİ BAĞIMSIZ ...,1.285.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - İncirli Mh.,layersDüz Giriş (Zemin)
+ MİSKET DÜZLÜKTE TREN YAKININDA ÖN CEPHEDE ASANSÖRLÜ 2+1 SATILIK ...,1.745.000 TL,weekend2+1,texture85 m2,Ankara - Mamak - Misket Mh.,layersYüksek giriş
+ DURALİ ALIÇ MAH. SİTE İÇERİSİNDE FUL YAPILI 3+1 SATILIK DAİRE...,2.850.000 TL,weekend3+1,texture150 m2,Ankara - Mamak - Durali Alıç Mh.,layers3. Kat
+Acil Abidinpaşa merkezde 4. kat 3+1 kullanışlı daire,1.850.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Abidinpaşa Mh.,layers4. Kat
+ ALFA EMLAK'TAN MAREŞAL ÇAKMAK MAH'DE 2+1 GÖMÜSÜZ YATIRIMA UYGUN ...,1.089.000 TL,weekend2+1,texture100 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersBahçe katı
+ TANER'DEN ÖVEÇLER 4.CADDE YANI 3+1+ 2 BANYO FULL YAPILI ÖN CEPHE,3.780.000 TL,weekend3+1,texture135 m2,Ankara - Çankaya - Aşağı Öveçler Mh.,layers1. Kat
+ MİSKET DÜZLÜKTE TRENE YÜRÜME MESAFESİNDE ARA KATTA ÖN CEPHEDE 3+...,2.750.000 TL,weekend3+1,texture115 m2,Ankara - Mamak - Misket Mh.,layers2. Kat
+ BAHÇELİEVLERDE 3+1 ÖN 2.KATTA 7 DAİRELİ BİNADA KAT EKSİKLİ BOŞ,4.200.000 TL,weekend3+1,texture130 m2,Ankara - Çankaya - Bahçelievler Mh.,layers2. Kat
+ KOC-KAR GRUPTAN GÜNEY CEPHEDE SATILIK DAİRE,2.750.000 TL,weekend3+1,texture140 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+ ALFA EMLAK'TAN MAREŞAL ÇAKMAK MAH'DE 2+1 BAĞIMSIZ ULAŞIMA YAKIN ...,1.089.000 TL,weekend2+1,texture95 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersDüz Giriş (Zemin)
+ HÜREL DÜZLÜKTE SAİMEKADIN TRENE YÜRÜME MESAFESİNDE ÖN CEPHEDE FU...,1.495.000 TL,weekend3+1,texture110 m2,Ankara - Mamak - Hürel Mh.,layersYüksek giriş
+ BATIKENT NEVADIUM'DA 1+1 FULL DONANIMLI SİTEDEN SATILIK REZİDANS,2.390.000 TL,weekend1+1,texture65 m2,Ankara - Yenimahalle - Ergazi Mh.,layers10. Kat
+MEV ANKARA'DAN MANZARALI 2+1 FERAH DAİRE,1.465.000 TL,weekend2+1,texture80 m2,Ankara - Mamak - Altıağaç Mh.,layersDüz Giriş (Zemin)
+ FERİDUNÇELİK MAHALLESİ'NDE 14. KATTA 3+1 MANZARALI DAİRE ,3.525.000 TL,weekend3+1,texture145 m2,Ankara - Altındağ - Feridun Çelik Mh.,layers14. Kat
+ÖZKUŞ TAN TANDOGAN MAH. YÜSEK GİRİŞ FUUL YAPILI 3+1 DAİRE,1.859.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Tandoğan Mh.,layersYüksek giriş
+ÖZKUŞ TAN SARAYCIK TOKİDE Y.GİRİŞ ÖN CEPHE FUUL YAPILI 2+1 DAİRE,1.850.000 TL,weekend2+1,texture96 m2,Ankara - Sincan - Saraycık Mh.,layersYüksek giriş
+ HAVUZLUBAĞ SİTESİNDE KAPALI TERASLI DUBLEKS 4+1 SATILIK DAİRE,7.650.000 TL,weekend4+1,texture160 m2,Ankara - Çankaya - Yıldızevler Mh.,layers12. Kat
+DOĞANOĞLUN'DAN SATILIK 3+1-2+1 ULTRA LÜX DAİRELER,3.200.000 TL,weekend2+1,texture90 m2,Ankara - Gölbaşı - Seğmenler Mh.,layers1. Kat
+ ASLAN EMLAK FARKIYLA ARA KATTA ASANSÖRLÜ SATILIK DAİRE,2.100.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - İstasyon Mh.,layers1. Kat
+ BATTALGAZİ MAHALLESİ'NDE BOSTANCIK CADDE ÜZERİNDE KAÇMAZ FIRSAT,1.800.000 TL,weekend3+1,texture130 m2,Ankara - Altındağ - Battalgazi Mh.,layers1. Kat
+ KOÇ-KAR GRUP GAYRİMENKUL'DEN PURSAKLAR KAYMAKAMLIĞININA YAKIN KU...,4.400.000 TL,weekend4+1,texture200 m2,Ankara - Pursaklar - Saray Fatih Mh.,layers12. Kat
+RED'den UYGUN DAİRE ARAYANLARA İSKANLI 3+1 GİRİŞ KAT KUPON DAİRE,1.470.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layersDüz Giriş (Zemin)
+ ANKARA UYANIŞ MAHALLESİNDE KOMŞUDAN KATTA GENİŞ DAİRE !!,1.849.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Uyanış Mh.,layers2. Kat
+ CENGİZHAN MAH.GÜNEY CEPHE 3+1 SATILIK DAİRE...,2.490.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Cengizhan Mh.,layers3. Kat
+SİNCAN AKŞEMSETTİN MAH. BAĞIMSIZ KÖŞE BAŞI ÖN CEPHE 3+1 FIRSAT DA...,1.480.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Akşemsettin Mh.,layers4. Kat
+ CENGİZHAN MAHALLESİNDE FULL YAPILI ÇİFT BALKONLU SATILIK DAİRE,2.000.000 TL,weekend3+1,texture125 m2,Ankara - Mamak - Cengizhan Mh.,layers1. Kat
+SİNCAN PINARBAŞI MAH 3+1 KATTA BAĞIMSIZ ÖN CEPHE MASRAFSIZ DAİRE,1.849.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+ * BAĞLICA EMLAK AVANTAJ * 3+1 SATILIK ARA KATTA YAPILI DAİRE,4.500.000 TL,weekend3+1,texture190 m2,Ankara - Etimesgut - Bağlıca Mh.,layers6. Kat
+ MEHTAP'TA ASIM GÜNDÜZ CADDESİ YAKININDA 2+1 GİRİŞ KATTA KİRALIK ...,1.450.000 TL,weekend2+1,texture100 m2,Ankara - Mamak - Mehtap Mh.,layersDüz Giriş (Zemin)
+ ALTINDAĞ - BEŞİKKAYA MAHALLESİNDE ARAÇ TAKASINA UYGUN 3+1 SATILI...,1.400.000 TL,weekend3+1,texture120 m2,Ankara - Altındağ - Beşikkaya Mh.,layersDüz Giriş (Zemin)
+TOPRAK EMLAKTAN ANK KEÇİÖREN BADEMLIK MAH DE 3+1 DAİRE ,1.540.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Bademlik Mh.,layersDüz Giriş (Zemin)
+SİNCAN OSMANLI MAH SİTE İÇİNDE ÖN 1.ARAKAT SALON BAGIMSIZ DAİRE,2.290.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Osmanlı Mh.,layers1. Kat
+ CENGİZHAN'IN GÖBEĞİNDE 3. KAT KONUMLU FULL YAPILI ASANSÖRLÜ,2.100.000 TL,weekend3+1,texture135 m2,Ankara - Mamak - Cengizhan Mh.,layersYüksek giriş
+ BOZKIR GAYRİMENKUL'DEN AYVALI MAH.ARA KATTA FUL YAPILI İSKANLI 3...,2.849.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Ayvalı Mh.,layers2. Kat
+"3+1 SATILIK DAİRE BOZKUŞ EMLAK,DAN",2.050.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Fatih Mh.,layers2. Kat
+YESİLOGLU EMLAKTAN YENİMAHALLE MERKEZDE  BAKIMLI  4+1 DUBLEKS DAİ...,3.250.000 TL,weekend4+1,texture180 m2,Ankara - Yenimahalle - Yunus Emre Mh.,layers3. Kat
+ ETLİKTE GÜNEY CEPHE MANZARALI YÜKSEK GİRİŞ 2+1 DAİRE__,1.750.000 TL,weekend2+1,texture105 m2,Ankara - Keçiören - Etlik Mh.,layersYüksek giriş
+SİNCAN PINARBAŞI MAH 2.ORTAKAT GENİŞ MASRAFSIZ 3+1 SATILIK DAİRE,1.559.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+Alimert emlak dan Esertepe merkezde 3+1 asansörlü daire,2.095.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Esertepe Mh.,layers1. Kat
+AYVALI MERKEZDE ALTINDA DAİRE OLAN YAPILI UYGUN FİYATA 3+1 DAİRE,1.515.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Ayvalı Mh.,layersKot 2 (-2). Kat
+"GOLD EMLAK'TAN ETLİK MERKEZ, SAUNALI,YERDEN ISITMALI 3,5+1 DAİRE",3.950.000 TL,weekend3.5+1,texture170 m2,Ankara - Keçiören - Aşağı Eğlence Mh.,layers2. Kat
+ İNCİRLİ'DE MERKEZİ KONUMDA KATTA BAĞIMSIZ 3 BALKONLU ASANSÖRLÜ 3...,2.330.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - İncirli Mh.,layers3. Kat
+SİNCAN İSTASYON MAH GENİŞ MASRAFSIZ AYIN FIRSAT DAİRESİ SATILIK,1.335.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - İstasyon Mh.,layersYüksek giriş
+ TANDOĞAN MAH. HAKAN EMLAK'TAN 3+1 DAİRE ,1.600.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Tandoğan Mh.,layers2. Kat
+▆▇█▓ZİRVE▓█▇▆G. ZEKİ DOĞAN MAH. SAAT KULESİ YAKINI 2+1 Y. GİRİŞ,1.479.000 TL,weekend2+1,texture110 m2,Ankara - Mamak - General Zeki Doğan Mh.,layersYüksek giriş
+▆▇█▓ZİRVE▓█▇▆ZİRVEKENT'İN EN TUTULAN BÖLGESİ YATIRIMLIK 2+1 DA..,949.000 TL,weekend2+1,texture95 m2,Ankara - Mamak - Zirvekent Mh.,layers1. Kat
+ KEÇİÖREN BADEMLİKTE ASANSÖRLÜ DAİRE ACİL SATILIK 2+1 KATTA ASANS...,1.590.000 TL,weekend2+1,texture95 m2,Ankara - Keçiören - Bademlik Mh.,layers1. Kat
+" ALTINDAĞ - BATTALGAZİ MAHALLESİNDE GİRİŞTE, ASANSÖRLÜ 3+1 SATILI...",1.180.000 TL,weekend3+1,texture110 m2,Ankara - Altındağ - Battalgazi Mh.,layersDüz Giriş (Zemin)
+ ADARYA'DAN AKŞEMSETTİN MAH. GENİŞ BALKONLU BAGIMSIZ SALON SİTE İ...,1.990.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Akşemsettin Mh.,layers1. Kat
+ ŞEHİTKUBİLAY MAH.ESTERON CADDE YANI BAGIMSIZ KATTA KÖK TAPU 3+1,2.300.000 TL,weekend3+1,texture120 m2,Ankara - Yenimahalle - Ergenekon Mh.,layers2. Kat
+ ÇANKAYA ALOHA RESİDENCE DA 240 M2 4+1 GARAJLI ASANSÖRLÜ DAİRE ,14.750.000 TL,weekend4+1,texture245 m2,Ankara - Çankaya - Kırkkonaklar Mh.,layers2. Kat
+ Etlik Şehir Hastanelerine Yakın Çift Giriş Full Yapılı 5+1 Duble...,3.100.000 TL,weekend5+1,texture230 m2,Ankara - Yenimahalle - Ergenekon Mh.,layersÇatı Dubleks
+ PURSAKLAR UFUK KILIÇ EMLAK'TAN SİTE İÇERİSİNDE 3+1 FUL YAPILI DA...,2.820.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Tevfik İleri Mh.,layers4. Kat
+ Sev-al EmlakDan Bademlik Ziraat Bankası Yakını Kat Konumunda,1.369.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Bademlik Mh.,layersKot 2 (-2). Kat
+ UFUK KILIÇ EMLAK'TAN SİTEDE KAPALI GARAJLI 4+1 SİTE DAİRESİ,4.120.000 TL,weekend4+1,texture200 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers12. Kat
+ PURSAKLAR UFUK KILIÇ EMLAK'TAN SİTEDE G.ODALI ÇİFT BANYOLU GENİŞ...,3.295.000 TL,weekend4+1,texture170 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers9. Kat
+ ES-AS'TAN MALAZGİRT MH 3+1 FULL YAPILI HARİKA KONUMDA KELEPİR SA...,1.359.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Malazgirt Mh.,layersYüksek giriş
+ ETİMESGUT YAVUZ SELİM MAHALLESİ ARA KATTA 3+1 SATILIK DAİRE,3.750.000 TL,weekend3+1,texture140 m2,Ankara - Etimesgut - Yavuz Selim Mh.,layers2. Kat
+ HÜREL MAH. GENİŞ TERASLI MANZARALI KAPALI OTOPARKLI 3+1 DAİRE,1.650.000 TL,weekend3+1,texture120 m2,Ankara - Mamak - Hürel Mh.,layersKot 2 (-2). Kat
+ KEÇİÖRENDE PARK MANZARALI 3+1 SATILIK DAİRE,2.100.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layers3. Kat
+ ETİMESGUT PİYADE MAH.  3+1 1. KAT YAPILI DAİRE,2.399.000 TL,weekend3+1,texture110 m2,Ankara - Etimesgut - Piyade Mh.,layers1. Kat
+ MEHMET ÖZDEMİR 'DEN FEVZİ ÇAKMAK MAH. 3+1 ARA KATTA SIFIR DAİRE,2.349.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers2. Kat
+ MEHMET ÖZDEMİR'DEN YENIKENT SEMBOL KENT SITESI 4+1 EŞYALI 5 KAT,3.950.000 TL,weekend4+1,texture185 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers5. Kat
+ MEHMET ÖZDEMİR'DEN MUSTAFA KEMAL MAH. 3+1 EVEBEYN BANYOLU ÜST KA...,2.850.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers4. Kat
+AKTİF EMLAK.TAN SATILIK MALAZGİRT MAH. 3+1 FUL YAPILI MASRAFSI,1.600.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Malazgirt Mh.,layers3. Kat
+AKTİF EMLAK,2.199.000 TL,weekend3+1,texture140 m2,Ankara - Sincan - Malazgirt Mh.,layers3. Kat
+PINARBAŞI MAHALESİNDE YENİ BİNA DA 2+1 FUL YAPILI YÜKSEK GİRİŞ,1.479.000 TL,weekend2+1,texture120 m2,Ankara - Sincan - Malazgirt Mh.,layersYüksek giriş
+SARAY MERKEZDE ASANSÖRLÜ BİNADA ARAKAT 3+1 GENİŞ FERAH MASRAFSIZ,2.100.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Saray Fatih Mh.,layers3. Kat
+KUZENLER EMLAK'TAN█DEVLET HASTANESİ YANINDA 7.KAT GÜNEY LÜX 4+1,4.350.000 TL,weekend4+1,texture190 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers7. Kat
+"OVACIK YOZGAL BULVARDA 3,5+1 ULTRA LÜKS DAİRE",5.000.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Ovacık Mh.,layers3. Kat
+ ES-AS'TAN MALAZGİRT MH 3+1 GÖMÜSÜZ BAHÇE KATI SATILIK DAİRE,1.259.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Malazgirt Mh.,layersDüz Giriş (Zemin)
+ ARCADİUM KARŞISI MERKEZİ KONUMDA OYAK 6 SİTESİNDE BOŞ DAİRE,5.500.000 TL,weekend3+1,texture110 m2,Ankara - Çankaya - Prof. Dr. Ahmet Taner Kışlalı Mh.,layers3. Kat
+ SİNCAN PINARBAŞI MAHALLESİNDE YAPILI 3+1 SALON BAĞIMSIZ ÖN CEPHE...,1.797.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
+ *** HUZUR PAZAR ÇAPRAZDA ASANSÖRLÜ 3+1 DAİRE ***,2.680.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Huzur Mh.,layers4. Kat
+ NASİP EMLAK'TAN 3+1 ASANSÖRLÜ 7. KATTA FULL YAPILI DAİRE,2.200.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Tevfik İleri Mh.,layers7. Kat
+ NASİP EMLAK'TAN SATILIK 2+1 AYYILDIZ MAHALLESİNDE FULL YAPILI KA...,1.550.000 TL,weekend2+1,texture75 m2,Ankara - Pursaklar - Ayyıldız Mh.,layers1. Kat
+ NASİP EMLAK'TAN 4+1 HASTANE BÖLGESİNDE TERAS BALKONLU GİYİNME OD...,4.085.000 TL,weekend4+1,texture185 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers6. Kat
+"Etlik,te şehir hastanesi yakını lüks yapılı bağımsız katta 3+1",2.589.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Etlik Mh.,layers1. Kat
+ CADDE VE KAT KONUMLU DAİRE ARAYANLARA [İMZA]'DAN ATAPARK'DA YAPI...,1.349.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Atapark Mh.,layersKot 1 (-1). Kat
+ MESKEN'DEN AYAZAĞA CAD. 4+1 ÇİFT BANYO&BALKON KATTA TEK DAİRE!!,4.750.000 TL,weekend4+1,texture155 m2,Ankara - Keçiören - Uyanış Mh.,layers1. Kat
+ [İMZA]'DAN BU FİYATA SON DAİRELER! ATAPARK'DA 3+1 [YENİ BİNA FIR...,1.529.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Atapark Mh.,layersYüksek giriş
+" MAMAK - EKİN MAHALLESİNDE KREDİYE UYGUN, ANKARA MANZARALI 3+1 SA...",1.600.000 TL,weekend3+1,texture120 m2,Ankara - Mamak - Ekin Mh.,layers6. Kat
+ SİNCAN PLEVNE MAH. KREDİ LİMİTSİZ ÇOK GENİŞ ARA KAT 3+1 FIRSAT D...,1.379.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Plevne Mh.,layersYüksek giriş
+ GAZİNO GÖBEK YAKINI 2+1 FULL YAPILI ISI YALITIMLI HARİKA KONUM,1.395.000 TL,weekend2+1,texture100 m2,Ankara - Keçiören - Pınarbaşı Mh.,layersKot 1 (-1). Kat
+ SİNCAN İSTASYON MAH. KREDİ LİMİTSİZ ARA KAT ÖN CEPHE 3+1 FIRSAT ...,1.355.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - İstasyon Mh.,layers1. Kat
+ SİTE KONSEPTİ-KAPALI OTOPARK-KALİTELİ YAPI MALZEMESİ-ŞIK TASARIM,3.490.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Etlik Mh.,layers2. Kat
+ *EMLAK KÜPÜ* BAĞLICA MAH'DE HAYRAN BIRAKAN YAPISIYLA ULTRA LÜX 4...,6.000.000 TL,weekend4+1,texture175 m2,Ankara - Etimesgut - Bağlıca Mh.,layers3. Kat
+ÇINAR'DAN YENİKENT FEVZİ ÇAKMAK MAHALLESİNDE 3+1 UYGUN DAİRE,1.700.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers3. Kat
+ÇINAR'DAN MUSTAFA KEMAL MAHALLESİNDE YÜKSEK GİRİŞ SIFIR DAİRE,1.699.000 TL,weekend3+1,texture110 m2,Ankara - Sincan - Mustafa Kemal Mh.,layersYüksek giriş
+ ETİMESGUT AYYILDIZ MAH'DE YARISI PEŞİN YARISI 24 AY 0 FAİZ ORANI...,6.000.000 TL,weekend4+1,texture190 m2,Ankara - Etimesgut - Ayyıldız Mh.,layers2. Kat
+ HAS GAYRIMENKULDEN  2+1 GİRİŞ KAT DAİRER ,1.650.000 TL,weekend2+1,texture120 m2,Ankara - Pursaklar - Saray Osmangazi Mh.,layersYüksek giriş
+TROY'DAN MÜHYE VADİ KONUTLARINDA SATILIK FIRSAT DAİRE!!!,4.680.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - İlkbahar Mh.,layers3. Kat
+köşe başi cadde üzeri Yenikent ,2.199.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers2. Kat
+ DURALİALIÇ MAHALLESİNDE 3+1 FULL YAPILI SATILIK DAİRE,2.125.000 TL,weekend3+1,texture145 m2,Ankara - Mamak - Durali Alıç Mh.,layersKot 2 (-2). Kat
+SİNCAN AHİ EVRAN MAH 3+1 BAĞIMSIZ FULL YAPILI SİTE İÇİ DAİRE,1.295.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Ahi Evran Mh.,layersBahçe katı
+BARUT EMLAKTAN E. BANYOLU 3 CEPHELİ LÜKS DİZAYN 3+1 DAİRE 1. KAT,2.849.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Merkez Mh.,layers1. Kat
+"BARUT'TAN PROTOKOL YAKINI YENİ BİNADA 3+1 GİRİŞ DAİRE ""FIRSAT""",1.790.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Yunus Emre Mh.,layersDüz Giriş (Zemin)
+BARUT'TAN AYYILDIZDA ASANSÖRLÜ E. BANYOLU KİLER ARAKAT 3+1 DAİRE,2.490.000 TL,weekend3+1,texture130 m2,Ankara - Pursaklar - Yunus Emre Mh.,layers2. Kat
+ PAMUKLAR MAH 4BLOKLU GÜVENLİKLİ SİTEDE 3+1 GİYİNME ODALI ÇİFT BA...,4.150.000 TL,weekend3+1,texture185 m2,Ankara - Yenimahalle - Pamuklar Mh.,layers13. Kat
+ HAKAN EMLAK'TAN YEŞİLOVA MAHALLESİNDE ARA KAT 135 M2 DAİRE!!!!!,3.339.000 TL,weekend3+1,texture135 m2,Ankara - Etimesgut - Yeşilova Mh.,layers2. Kat
+ONUR GENÇ GAYRİMENKUL'DEN MANZARALI KİLERLİ YEMEK BÖLÜMLÜ 4+1 DUB...,2.399.000 TL,weekend4+1,texture185 m2,Ankara - Altındağ - Battalgazi Mh.,layers3. Kat
+ONUR GENÇ GAYRİMENKUL'DEN ARA KAT ASANSÖRLÜ FULL YAPILI 3+1 SATIL...,1.799.000 TL,weekend3+1,texture129 m2,Ankara - Altındağ - Karapürçek Mh.,layers2. Kat
+ONUR GENÇ GAYRİMENKUL'DEN KARAPÜRÇEK STADYUM MEVKİ 2+1 GİRİŞ,1.480.000 TL,weekend2+1,texture115 m2,Ankara - Altındağ - Karapürçek Mh.,layersDüz Giriş (Zemin)
+HÜSEYİNGAZİ GÖBEK'TE KAÇIRILMAYACAK FIRSAT DAİRESİ ,1.820.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Ekin Mh.,layers1. Kat
+ SİNCAN PLEVNEDE ARAKATTA BAĞIMSIZ BU FİYATA EŞİ BENZERİ YOK,1.495.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ MESKEN'DEN AKTEPE MERKEZDE ARA KATTA 3+1 MASRAFSIZ KUPON DAİRE!!,1.895.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Aktepe Mh.,layers2. Kat
+Temelli Cumhuriyet Mahallesi Satılık Sıfır 3+1 Daire,2.589.000 TL,weekend3+1,texture160 m2,Ankara - Sincan - Cumhuriyet Mh.,layers1. Kat
+Sincan Yenikent'de 3+1 Masrafsız Satılık Daire,1.950.000 TL,weekend3+1,texture105 m2,Ankara - Sincan - 29 Ekim Mh.,layers4. Kat
+ BAĞLUM'DA SİTE KONSEPTİNDE ULTRA LÜX YAPILI ÖN CEPHE KATTA 3+1 D...,3.100.000 TL,weekend3+1,texture145 m2,Ankara - Keçiören - Karakaya Mh.,layers1. Kat
+ SANCAKTEPE'de ÖN CEPHE BAĞIMSIZ KATTA 120m2 YAPILI 3+1 DAİRE!!!,2.699.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Sancaktepe Mh.,layers1. Kat
+ EFSANE'DEN ETLİK'TE FIRSAT DAİRESİ ,1.689.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Etlik Mh.,layersBahçe katı
+ MARQA'DAN YILIN SON FIRSATI 3+1 BAĞIMSIZ ETLİK'DE Y.GİRİŞ 115m2!,1.285.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - İncirli Mh.,layersYüksek giriş
+ LEVENT'TEN DİKMEN KEKLİKPINARI'NDA MANZARALI 5+1+2 BANYO + KİLER...,4.500.000 TL,weekend5+1,texture310 m2,Ankara - Çankaya - Keklik Pınarı Mh.,layers3. Kat
+ ꧁꧂EMRE EMLAKTAN꧁꧂PİYADE'DE ARAKATTA FULL+FULL YAPILI 3+1 SATILIK...,2.370.000 TL,weekend3+1,texture125 m2,Ankara - Etimesgut - Piyade Mh.,layers2. Kat
+GELİN ANTARES & ŞEHİR HAST. KOMŞU OLALIM ! 3+1 130m2 ARA KATTA!,4.100.000 TL,weekend3+1,texture135 m2,Ankara - Keçiören - Ayvalı Mh.,layers1. Kat
+ LEVENT'TEN ÇANKAYA MÜHYE VADİ KONUTLARI'NDA 3+1+2 BANYO + ÇAMAŞI...,5.000.000 TL,weekend3+1,texture120 m2,Ankara - Çankaya - İlkbahar Mh.,layers7. Kat
+ KÜÇÜKKAYAŞ'DA 3+1 CADDE ÜZERİ YAPILI YATIRIMLIK DAİRE!,1.425.000 TL,weekend3+1,texture120 m2,Ankara - Mamak - Küçük Kayaş Mh.,layers3. Kat
+^^^FSM EMLAK ^^^DAN FULL+FULL YAPILI 4+1 DAİRE,2.600.000 TL,weekend4+1,texture145 m2,Ankara - Sincan - Menderes Mh.,layers1. Kat
+ ALACAATLI ALACAPARK 4+1 HOBİ BAHÇELİ GÜVENLİKLİ FIRSAT DAİRE,7.450.000 TL,weekend4+1,texture210 m2,Ankara - Çankaya - Alacaatlı Mh.,layers2. Kat
+" MAMAK, NATA VEGA AVMYE 2 DK. MESAFEDE 3+1 SIFIR SATILIK DAİRELER",4.250.000 TL,weekend3+1,texture130 m2,Ankara - Mamak - Akşemsettin Mh.,layers6. Kat
+ GENÇ BİNA İNCİRLİ MERKEZ'DE BAĞIMSIZ ÖN GÜNEY CEPHE FULL YAPILI!,1.750.000 TL,weekend2+1,texture115 m2,Ankara - Keçiören - İncirli Mh.,layersYüksek giriş
+ YUNUS EMRE CAD YAKINI KAT KONUMLU CEPHESİ AÇIK 3+1 1 BAĞIMLI ,1.549.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - 19 Mayıs Mh.,layersYüksek giriş
+ ÇALDAĞI SOKAKTA BAĞIMSIZ SALON Y.GİRİŞ ÖN CEPHE BALKONLU,1.435.000 TL,weekend2+1,texture115 m2,Ankara - Keçiören - Tepebaşı Mh.,layersYüksek giriş
+TERCİH'TEN TANDOĞAN MAH'DE ULTRA LÜX FULL YAPILI 3+1 DAİRE,1.859.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Tandoğan Mh.,layers1. Kat
+NEVADİUM KONUTLARINDA EŞYALI SATILIK 1+1,2.300.000 TL,weekend1+1,texture55 m2,Ankara - Yenimahalle - Ergazi Mh.,layers5. Kat
+"HİGH HİLL İNCEK-GÖLBAŞI, YENİ SİTEDE SATILIK 4,5+1 DAİRE",12.950.000 TL,weekend4.5+1,texture215 m2,Ankara - Gölbaşı - İncek Mh.,layers15. Kat
+ALPEREN GAYRİMENKUL'DEN ÖĞRETMENLER SİTESİ'NDE 3+1 SATILIK DAİRE,2.450.000 TL,weekend3+1,texture120 m2,Ankara - Gölbaşı - Seğmenler Mh.,layers3. Kat
+MAMAK'TA HÜREL MAHALLESİNDE SÜPER LÜX 4+1 SIFIR DAİRE....,3.650.000 TL,weekend4+1,texture165 m2,Ankara - Mamak - Hürel Mh.,layers2. Kat
+ÇANKAYA ZAFERTEPE MAH SÜPER LÜX SIFIR SATILIK DAİRELER,4.300.000 TL,weekend3+1,texture130 m2,Ankara - Çankaya - Zafertepe Mh.,layers2. Kat
+ROTA GAYRİMENKULDAN ZAFER MAHALLESİNDE SATILIK 3+1 DAİRE,1.500.000 TL,weekend3+1,texture125 m2,Ankara - Polatlı - Zafer Mh.,layersYüksek giriş
+FIRST POINT'TEN ERYAMAN ATA MAH. ULTRA LÜKS SATILIK DAİRE,3.350.000 TL,weekend3+1,texture150 m2,Ankara - Yenimahalle - Ata Mh.,layers2. Kat
+EMLAK CENTER FEVZİ ÇAKMAK CADDE ÜZERİNDE FUUL+FUUL YAPILI,2.599.999 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers1. Kat
+EMLAK CENTER FEVZİ ÇAKMAK MAH YAPILI 3+1,2.399.999 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers1. Kat
+EMLAK CENTER MENDERES MAH4-5+1 FUUL+FUUL YAPILI ULTA LÜX DAİRE,3.750.000 TL,weekend4.5+1,texture180 m2,Ankara - Sincan - Menderes Mh.,layers2. Kat
+ÖYKÜMDEN ŞENLİKTE HEM OTURUMA HEM YATIRIMA UYGUN YAPILI 3+1!!!,1.780.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Şenlik Mh.,layersDüz Giriş (Zemin)
+ÖYKÜMDEN BAĞLARBAŞINDA ASANSÖRLÜ CEPHELERİ AÇIK BALKONLU 2+1!!!!,1.315.000 TL,weekend2+1,texture110 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layersKot 1 (-1). Kat
+ÖYKÜMDEN AKTEPEDE YENİ BİNADA FULL YAPILI 120 M2 ASANSÖRLÜ DAİRE,1.295.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Aktepe Mh.,layersKot 2 (-2). Kat
+*** Erus *** Çankaya Park Evleri Ankara Manzaralı Katta Dubleks,14.150.000 TL,weekend5+2,texture508 m2,Ankara - Çankaya - Ayrancı Mh.,layers17. Kat
+VOLKAN SARIYILDIZ EMLAKTAN FEN LİSESİ YANI FULL YAPILI 3+1,2.050.000 TL,weekend3+1,texture150 m2,Ankara - Pursaklar - Saray Cumhuriyet Mh.,layersYüksek giriş
+VOLKAN SARIYILDIZ 2 EMLATAN 2+1 LÜX DAİRE,2.130.000 TL,weekend2+1,texture105 m2,Ankara - Çubuk - Yıldırım Beyazıt Mh.,layers4. Kat
+VOLKAN SARIYILDIZ 2 EMLAKTAN SIFIR DAİRE,2.680.000 TL,weekend3+1,texture150 m2,Ankara - Çubuk - Atatürk Mh.,layers1. Kat
+ELVAN MAH.DE ARA KAT ÜÇ CEPHELİ 100 M2 3+1 SATILIK DAİRE,1.895.000 TL,weekend3+1,texture110 m2,Ankara - Etimesgut - Elvan Mh.,layers2. Kat
+İSTASYON MAH.DE KAT YÜKSEKLİĞİNDE FULL YAPILI 3+1 SATILIK DAİRE,1.639.000 TL,weekend3+1,texture110 m2,Ankara - Etimesgut - İstasyon Mh.,layersKot 1 (-1). Kat
+TUĞRA GYM'DEN ALSANCAK 2' MAH.DE ÖN-PARK CEPHELİ 3+1 SATILIK,2.550.000 TL,weekend3+1,texture120 m2,Ankara - Etimesgut - Alsancak Mh.,layers1. Kat
+FIRSAT DAİRESİ CADDE YAKINI MANZARALI ASANSÖRLÜ YAPILI 3+1,1.975.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Kanuni Mh.,layers3. Kat
+ESAT BP BENZİNLİĞİ YAKINI YAPILI EBEVEYN BANYOLU KİLERLİ 3+1,2.795.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Küçükesat Mh.,layers3. Kat
+SANATORYUM CADDESİ YAKINI BAHÇELİ FULL YAPILI 2+1 FIRSAT DAİRESİ,1.359.000 TL,weekend2+1,texture95 m2,Ankara - Keçiören - Tepebaşı Mh.,layersKot 1 (-1). Kat
+SİNCAN PINARBAŞI MAHALLESİ FULL YAPILI 4+2 TERASLI SATILIK DAİRE,3.900.000 TL,weekend4+2,texture200 m2,Ankara - Sincan - Pınarbaşı Mh.,layers12. Kat
+"KOÇ'DAN ; KARAPINAR'DA , NEZİH BÖLGEDE, CADDE YAKINI, 4+1, ASANSÖ...",4.450.000 TL,weekend4+1,texture185 m2,Ankara - Çankaya - Karapınar Mh.,layers3. Kat
+SATILIK ÇATI DUBLEKS DAİRE ,6.950.000 TL,weekend4+2,texture230 m2,Ankara - Etimesgut - Yeni Bağlıca Mh.,layersÇatı Dubleks
+ ACiL SATILIK 3+1 ARA KAT DAİRE,2.160.000 TL,weekend3+1,texture130 m2,Ankara - Gölbaşı - Seğmenler Mh.,layers1. Kat
+MALTEPE NİN MERKEZİNDE ASANSÖRLÜ YENİ BİNA 2+1 SATILIK DAİRE,4.550.000 TL,weekend2+1,texture100 m2,Ankara - Çankaya - Maltepe Mh.,layers1. Kat
+ABİDİNPAŞA BAĞLARBAŞI CADDESİ ISI YALITIMLI GİRİŞ KAT 2+1DAİRE,1.250.000 TL,weekend2+1,texture90 m2,Ankara - Mamak - Aşık Veysel Mh.,layersYüksek giriş
+ETİMESGUT SÜVARİ MAH.DE EŞYALI-EŞYASIZ SATILIK ARA KATTA 3+1,2.325.000 TL,weekend3+1,texture130 m2,Ankara - Etimesgut - Süvari Mh.,layers3. Kat
+SİNCAN VATAN CAD.DE ULTRALUX HEM EŞYALI HEMDE EŞYASIZ 2+1 BAHÇE K...,1.475.000 TL,weekend2+1,texture100 m2,Ankara - Sincan - Atatürk Mh.,layersBahçe katı
+MERTALP'DEN TAPULU İSKANLI FULL YAPILI,1.770.000 TL,weekend3+1,texture160 m2,Ankara - Sincan - Alcı Mh.,layers5. Kat
+MERTALP'DEN TAPULU İSKANLI FULL YAPILI,1.775.000 TL,weekend3+1,texture150 m2,Ankara - Sincan - Alcı Mh.,layers4. Kat
+ALACAATLI YAŞAMKENT AKYILDIZ PRESTİJDE 2+1 YATIRIMLIK DAİRE,3.550.000 TL,weekend2+1,texture75 m2,Ankara - Çankaya - Alacaatlı Mh.,layers7. Kat
+YAŞAMKENT ALACAATLI PARK ALYANS SİTESİ 2+1 BAĞIMSIZ MUTFAK DAİRE,6.800.000 TL,weekend2+1,texture130 m2,Ankara - Çankaya - Alacaatlı Mh.,layers6. Kat
+ RÜYA EMLAKTAN KENTSELİN GÖBEĞIN DE KATTA 3+1 DAİRE ,2.175.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Kamil Ocak Mh.,layers1. Kat
+ RÜYA EMLAKTAN ADNANMENDERES MH  KAT KONUMUN DA  BAĞIMSIZ 3+1 DAİ...,1.999.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Adnan Menderes Mh.,layersYüksek giriş
+RÜYA EMLAKTAN  YATIRIMA UYGUN KAT KONUMUN DA 3+1  DAİRE ,1.980.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Şefkat Mh.,layers1. Kat
+MUHTESEM LOKASYON -686 ETAP BOŞ DAİRE HEMEN OTUR - 3+1 - 3. KAT,3.199.000 TL,weekend3+1,texture167 m2,Ankara - Altındağ - Baraj Mh.,layers3. Kat
+MUHTESEM MANZARA MUHTESEM LOKASYON 4+1 BOS HEMEN OTUR 160 M2,2.279.000 TL,weekend4+1,texture160 m2,Ankara - Keçiören - Yeşiltepe Mh.,layers14. Kat
+GANKA EMLAKTAN TOKİ 18.ETAPTA KAT KONUMUNDA YÜKSEK GİRİŞ 3+1,1.725.000 TL,weekend3+1,texture100 m2,Ankara - Keçiören - Yeşiltepe Mh.,layersYüksek giriş
+GANKA EMLAKTAN KUZEY ANKARA TOKİ 1.ETAPTA MANZARALI YAPILI 4+1,2.595.000 TL,weekend4+1,texture165 m2,Ankara - Keçiören - Yeşiltepe Mh.,layers13. Kat
+ ALİBEY'DEN ETLİK MAH AŞAĞIEĞLENCE YAKINI 2+1 KATTA ACİL SATILIK ...,1.850.000 TL,weekend2+1,texture95 m2,Ankara - Keçiören - Yayla Mh.,layers1. Kat
+ ALİBEY'DEN YÜKSELTEPE SİTEDE  2+1 FULL YAPILI ACİL SATILIK DAİRE,2.495.000 TL,weekend2+1,texture95 m2,Ankara - Keçiören - Yükseltepe Mh.,layers12. Kat
+YENİ ORAN'DA CEPHE ALTERNATİFLİ 1+1 DAİRELER,1.750.000 TL,weekend1+1,texture55 m2,Ankara - Çankaya - Mürsel Uluç Mh.,layersYüksek giriş
+YENİ ORAN'DA MANZARALI 2+1 CEPHE ALTERNATİFLİ DAİRE,2.250.000 TL,weekend2+1,texture85 m2,Ankara - Çankaya - Mürsel Uluç Mh.,layers2. Kat
+  YILMAZ GAYRİMENKULDEN KACIRILMAYACAK  3+1 ACIL FIRSAT DAIRESİ  ...,1.275.000 TL,weekend3+1,texture125 m2,Ankara - Sincan - Atatürk Mh.,layers3. Kat
+SAHİBİNDEN SATILIK DAİRE ,2.600.000 TL,weekend3+1,texture140 m2,Ankara - Keçiören - Ufuktepe Mh.,layers3. Kat
+ PURSAKLAR UFUK KILIÇ EMLAK'TAN SİTEDE 4+1 1.KAT DAİRE,3.600.000 TL,weekend4+1,texture185 m2,Ankara - Pursaklar - Mimar Sinan Mh.,layers1. Kat
+ PURSAKLAR UFUK KILIÇ EMLAK'TAN 3+1 FUL YAPILI KAÇIRILMAYACAK SİT...,3.275.000 TL,weekend3+1,texture200 m2,Ankara - Pursaklar - Merkez Mh.,layers7. Kat
+ PURSAKLAR UFUK EMLAK'TAN 1.KATDA 3+1 LÜX YAPILI MASRAFSIZ DAİRE ...,2.500.000 TL,weekend3+1,texture135 m2,Ankara - Pursaklar - Fatih Mh.,layers1. Kat
+ DOĞDU EMLAK`TAN CEDDE ÜZERİ 3+1 1 BAĞIMLI  ARA KAT,1.750.000 TL,weekend3+1,texture115 m2,Ankara - Keçiören - Yeşiltepe Mh.,layers2. Kat
+SAHİBİNDEN ÇAYYOLU YAŞAMKENT MERKEZ YAĞMUR SİTESİ,5.500.000 TL,weekend4+1,texture180 m2,Ankara - Çankaya - Yaşamkent Mh.,layers2. Kat
+ 'SIFIR' 3+1 OTURUMA HAZIR -ÖNÜ AÇIK- 2 BALKONLU -EBEVEYN BANYOLU,2.550.000 TL,weekend3+1,texture138 m2,Ankara - Keçiören - Etlik Mh.,layers2. Kat
+ SR EMLAK'TAN SİNCAN MUSTAFA KEMAL MAH'DE 4+1 125m² E. BANYOLU Gİ...,3.250.000 TL,weekend4+1,texture135 m2,Ankara - Sincan - Mustafa Kemal Mh.,layers2. Kat
+GÖKKUŞAĞI MAHALLESİNDE ŞIK BAKIMLI-KOLAY ULAŞABİLİR 3+1 DAİRE,3.775.000 TL,weekend3+1,texture165 m2,Ankara - Çankaya - Gökkuşağı Mh.,layers2. Kat
+ SR EMLAK'TAN SİNCAN İSTASYON MAH'DE 3+1 105m² ARA KATTA BAĞIMSIZ...,2.100.000 TL,weekend3+1,texture115 m2,Ankara - Sincan - İstasyon Mh.,layers1. Kat
+ KEÇİÖREN UFUKTEPE'DE TAPUDA BULUŞTURACAK FIRSAT DAİRE MCK!!!!,1.568.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Ufuktepe Mh.,layersDüz Giriş (Zemin)
+SİNCAN PLEVNE MH 3+1 ARA KATTA ÖN CEPHE FULL YAPILI FIRSAT DAİRE,1.649.000 TL,weekend3+1,texture120 m2,Ankara - Sincan - Plevne Mh.,layers1. Kat
+ TUNALI HİLİMİ FİLİSTİN CADDELERİNE YAKIN SATILIK İYİ DURUMDA 3+1...,2.920.000 TL,weekend3+1,texture125 m2,Ankara - Çankaya - Umut Mh.,layers1. Kat
+SİNCAN MARAŞALÇAKMAK MAH ANA CADDE ÜZERİNDE AYIN FIRSAT DAİRESİ,1.090.000 TL,weekend2+1,texture90 m2,Ankara - Sincan - Mareşal Çakmak Mh.,layersYüksek giriş
+ NASİP EMLAK SATILIK 4+1 TERAS BALKONLU ÇİFT BANYOLU GİYİNME ODAL...,3.800.000 TL,weekend4+1,texture180 m2,Ankara - Pursaklar - Yunus Emre Mh.,layers2. Kat
+ŞENLİK MAH. KIZLARPINARI CAD. ÜZERİ KUYUBAŞI METRO YAKIN TAM KENS...,2.100.000 TL,weekend2+1,texture100 m2,Ankara - Keçiören - Şenlik Mh.,layersDüz Giriş (Zemin)
+ NASİP EMLAK'TAN PURSAKLAR MERKEZDE GÜNEY CEPHE 5+1 DUBLEKS,3.100.000 TL,weekend5+1,texture260 m2,Ankara - Pursaklar - Merkez Mh.,layersÇatı Dubleks
+ NASİP EMLAK'TAN FATİH MAH. GÜNEY CEPHE KATTA 3+1 DAİRE,2.450.000 TL,weekend3+1,texture125 m2,Ankara - Pursaklar - Fatih Mh.,layers1. Kat
+ SNCAN MALAZGİRT MH. ARA KATTA ASANSÖR-EBEVEYN BANYOLU FULL YAPIL...,2.899.000 TL,weekend3+1,texture145 m2,Ankara - Sincan - Malazgirt Mh.,layers2. Kat
+ERCAN GAYRİMENKUL DEN AHİMESUT BULVARİNDA DAİRE,1.979.000 TL,weekend3+1,texture120 m2,Ankara - Etimesgut - Süvari Mh.,layers3. Kat
+ERCAN GAYRİMENKUL DEN SATİLİK 3+1,2.000.000 TL,weekend3+1,texture125 m2,Ankara - Etimesgut - Alsancak Mh.,layers2. Kat
+ ETLİK ŞEHİR HAST.5 DAKİKA MESAFEDE SEVAL CAD.ÜZERİ KATTA 3+1,2.950.000 TL,weekend3+1,texture145 m2,Ankara - Yenimahalle - Burç Mh.,layers4. Kat
+ KEÇİÖRENDE SİTE İÇİNDE CADDE YANI FULL YAPILI 3+1 SATILIK DAİRE,2.990.000 TL,weekend3+1,texture150 m2,Ankara - Keçiören - Karakaya Mh.,layers5. Kat
+ KAMiL OCAK Mh. iZCİBAŞI SK. DA FULL YAPILI GİRİŞ ÖN CEPHE BAĞIMS...,1.550.000 TL,weekend3+1,texture110 m2,Ankara - Keçiören - Kamil Ocak Mh.,layersDüz Giriş (Zemin)
+ FIRSAT [İMZA]'DAN KUŞCAĞIZ'DA 3+1 MANTOLAMALI [ARA KAT] DAİRE!,2.089.000 TL,weekend3+1,texture125 m2,Ankara - Keçiören - Kuşcağız Mh.,layers1. Kat
+YIKILMAZ EMLAKTAN ŞENTEPE SOLDA FULL YAPILI DAİRE,2.495.000 TL,weekend3+1,texture135 m2,Ankara - Polatlı - Şentepe Mh.,layers3. Kat
+ MİSKET'TE ANADOLU CADDESİ YAKININDA ASNASÖRLÜ 2+1 GİRİŞ KATTA SA...,1.745.000 TL,weekend2+1,texture90 m2,Ankara - Mamak - Misket Mh.,layers2. Kat
+YIKILMAZ EMLAKT'AN KURTULUŞ MAHALLESİNDE SATILIK FULL YAPILI 3+1 ...,1.900.000 TL,weekend3+1,texture145 m2,Ankara - Polatlı - Kurtuluş Mh.,layers3. Kat
+sincan yenikent 29 ekim mahallesinde satılık lüks 3+1 daire,2.800.000 TL,weekend3+1,texture140 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers4. Kat
+sincan yenikent 29 ekim mahallesinde satılık lüks 3+1 daire,2.750.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Fevzi Çakmak Mh.,layers1. Kat
+ SON FIRSAT [İMZA]'DAN! KUŞCAĞIZ'DA CD.DİBİ LÜX YAPILI *ÖN CEPHE*...,2.389.000 TL,weekend3+1,texture130 m2,Ankara - Keçiören - Kuşcağız Mh.,layers3. Kat
+ FERİDUNÇELİK MAHALLESİ'NDE KAÇIRILMAYACAK FIRSAT DAİRESİ,1.448.000 TL,weekend2+1,texture120 m2,Ankara - Altındağ - Feridun Çelik Mh.,layersDüz Giriş (Zemin)
+SİNCAN MALAZGİRT MAHALLESİNDE SALON BAĞIMSIZ SON KAT MASRAFSIZ CA...,1.849.000 TL,weekend3+1,texture135 m2,Ankara - Sincan - Malazgirt Mh.,layers3. Kat
+ KEÇİÖREN UFUKTEPE FULL+FULL YAPILI ARAYANLARA FIRSAT DAİRE,2.995.000 TL,weekend4+1,texture145 m2,Ankara - Keçiören - Ufuktepe Mh.,layers2. Kat
+İNCİ BULVAR SİTESİNDE YÜKSEK ŞEREFİYELİ 4+1,7.800.000 TL,weekend4+1,texture208 m2,Ankara - Çankaya - Bademlidere Mh.,layers7. Kat
+İNCİ BULVAR SİTESİNDE YÜKSEK ŞEREFİYELİ 4+1,7.999.000 TL,weekend4+1,texture238 m2,Ankara - Çankaya - Bademlidere Mh.,layers8. Kat
+ SİNCAN TANDOĞAN MAHALLESİNDE FULL YAPILI ARA KAT 3+1 SALON'1 ODA...,1.699.000 TL,weekend3+1,texture130 m2,Ankara - Sincan - Tandoğan Mh.,layers3. Kat
+ SAHİBİNDEN SATILIK 4 KATLI DAİRE,4.700.000 TL,weekend3+1,texture180 m2,Ankara - Beypazarı - Ayvaşık Mh.,layersMüstakil
+ KARAPÜRÇEK MAHALLESİ'NDE KAÇIRILMAYACAK FIRSAT DAİRESİ,1.690.000 TL,weekend3+1,texture125 m2,Ankara - Altındağ - Karapürçek Mh.,layers3. Kat
+EMEKTE SATILIK YENİ BİNADA LÜKS GÜNEY DUBLEKS 3+1 KOMBİLİ ADERDE,6.950.000 TL,weekend3+1,texture150 m2,Ankara - Çankaya - Emek Mh.,layers4. Kat
+ sahibinden,3.000.000 TL,weekend6+1,texture250 m2,Ankara - Mamak - Cengizhan Mh.,layersÇatı Dubleks
+ BEŞİKKAYA MAHALLESİ'NDE EN ÜST KAT YAPILI DAİRE ,1.800.000 TL,weekend3+1,texture125 m2,Ankara - Altındağ - Beşikkaya Mh.,layers3. Kat
+" LEVENT'TEN DİKMEN VADİSİ YAKINI 2+1,110M2 ARA KAT KONUMUNDA YÜKS...",1.895.000 TL,weekend2+1,texture110 m2,Ankara - Çankaya - İlkadım Mh.,layersYüksek giriş
+ SİNCAN SARAYCIKTA 4+1 ULTRA LÜKS MANZARALI ÇİFT ASANSÖRLÜ SIFIR ...,3.950.000 TL,weekend4+1,texture160 m2,Ankara - Sincan - Saraycık Mh.,layers9. Kat
+BAĞLAR BAŞI MAH. 431 CADDE ÜZERİ BAĞIMSIZ FULL YAPILI 3+1,1.350.000 TL,weekend3+1,texture120 m2,Ankara - Keçiören - Bağlarbaşı Mh.,layersDüz Giriş (Zemin)
+SİNCAN PINARBAŞI MH 2+1 BAĞIMSIZ ARA KATTA ÖN CEPHE YAPILI DAİRE,1.759.000 TL,weekend2+1,texture115 m2,Ankara - Sincan - Pınarbaşı Mh.,layers2. Kat
